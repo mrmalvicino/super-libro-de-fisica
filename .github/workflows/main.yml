@@ -1,0 +1,50 @@
+name: LaTeX automation
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up repository
+        uses: actions/checkout@v3
+      - name: Compile PDF
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: main.tex
+          latexmk_use_lualatex: true
+          extra_system_packages: "inkscape"
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: main.pdf
+  release:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Download PDF
+        uses: actions/download-artifact@v3
+        with:
+          name: PDF
+      - name: Test download
+        run: ls -R
+      - name: ZIP download
+        uses: thedoctor0/zip-release@main
+        with:
+          filename: PDF.zip
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          tag_name: v0.1.${{ github.run_number }}
+          release_name: Release v0.1.${{ github.run_number }}
+      - name: Upload asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./PDF.zip
+          asset_name: Release-v0.1.${{ github.run_number }}.zip
+          asset_content_type: application/zip
