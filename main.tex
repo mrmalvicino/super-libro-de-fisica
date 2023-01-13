@@ -1,0 +1,129 @@
+\documentclass[a5paper,12pt,twoside]{book}
+
+\input{my-book-packages}
+\input{my-book-commands}
+
+% ENTORNOS DE NUMERACIÓN
+\newtheorem{defn}{{Definición}}[chapter]
+\newtheorem{prop}{{Propiedad}}[chapter]
+\newtheorem{example}{{Ejemplo}}[chapter]
+
+% ENTORNOS DE FORMATO
+\newenvironment{formatI}{\vspace{1ex}\par\small\sffamily} % Consignas de ejemplos
+
+
+\begin{document}
+
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\scriptsize \nouppercase\rightmark}
+\cfoot{\scriptsize \thepage}
+\pagenumbering{gobble}
+\renewcommand{\headrulewidth}{0pt}
+
+\frontmatter
+\includepdf{./images/cover/cover-front}
+
+\begin{center}
+
+    \begin{Huge}
+    \textbf{Súper libro de Física}
+    \end{Huge}
+
+    \vspace{1cm}
+    \textbf{Primera edición v0.1}
+    \vspace{2cm}
+
+    \begin{Large}
+        Malvicino, Maximiliano R. \\
+        Bosio, Federico A.
+    \end{Large}
+
+\end{center}
+
+\clearpage
+\noindent
+\textbf{Prefacio}
+
+La versión digital más reciente de este texto puede ser descargada gratuitamente de
+\begin{center}
+    \url{https://github.com/mrmalvicino/super-libro-de-fisica}
+\end{center}
+
+\renewcommand{\spanishappendixname}{Anexo}
+\tableofcontents
+
+\mainmatter
+\pagenumbering{arabic}
+
+
+\chapter{Cinemática}
+
+\emph{La cinemática es el estudio del movimiento.}
+El movimiento suele describirse mediante tres magnitudes: posición, velocidad y aceleración.
+A grandes rasgos, estas magnitudes se comprenden como sigue.
+\begin{itemize}
+    \item La posición indica dónde está lo que se mueve.
+    \item La velocidad indica qué tan rápido se mueve.
+    \item La aceleración indica con qué fuerza se mueve.
+\end{itemize}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+        \label{eg:mag}
+    \end{example}
+    \cusTi{Magnitudes cinemáticas}
+
+    Para un auto en el kilómetro 10 de la Ruta Provincial 4, cuyo velocímetro marca \SI{60}{\kilo\meter/\hour}, y cuyo conductor pisa bruscamente el freno:
+    \begin{itemize}
+        \item La posición del auto se indica en el ``mojón kilométrico'' que, en este caso, está a \SI{10}{km} del lugar en el que nace la ruta.
+        \item La velocidad está en los controles indicadores del auto, es decir, el velocímetro, que marca \SI{60}{\kilo\meter/\hour}.
+        \item La aceleración está relacionada con la fuerza que sienten los pasajeros del auto cuando el conductor pisa el freno.
+        La aceleración de frenado de un automóvil común ronda los \SI{5}{\meter/\second\squared}.
+    \end{itemize}
+
+    \begin{center}
+        \includegraphics[width=\linewidth]{cinematica-mojon.png}
+    \end{center}
+\end{mdframed}
+
+En este capítulo, van a estudiarse distintos movimientos que involucran las tres magnitudes.
+Cabe destacar que sólo se estudian los movimientos en sí, y no sus causas, que se verán en capítulos posteriores.
+
+\section{Posición, trayectoria y desplazamiento}
+
+La posición se modela matemáticamente como un vector en el espacio, cuyas coordenadas se expresan en un sistema de referencia determinado. En su forma más general, el vector posición se define como sigue.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:position}
+    \end{defn}
+    \cusTi{Función de posición}
+    \begin{equation*}
+        \xyz(t) = \begin{bmatrix} x(t) & y(t) & z(t) \end{bmatrix}
+    \end{equation*}
+\end{mdframed}
+
+Todas las coordenadas son funciones del tiempo, lo cual se pone de manifiesto en las $t$ entre paréntesis que aparecen en la notación.
+Las relaciones que las componentes del vector posición tienen con la variable $t$ se llaman \emph{ecuaciones horarias}, \emph{ecuaciones de movimiento}, o \emph{ecuaciones paramétricas}.
+
+A veces es necesario usar un vector pero basta con que tenga dos de las tres dimensiones espaciales. La posición de movimientos en dos dimensiones suele denotarse entonces como $\xyz(t)=\sqb{x(t)&y(t)}$ o lo que es lo mismo $\xyz(t)=x(t)\,\iVer + y(t)\,\jVer$ siendo $\iVer$ y $\jVer$ los versores canónicos.
+
+En muchos casos (como en el ejemplo \ref{eg:mag} del auto en la ruta), interesa solamente la distancia a una referencia (el número escrito en el cartel) y en ves de usar un vector $\xyz(t)$ se trabaja con un escalar, generalmente denotado $x(t)$.
+
+Podemos referirnos a una única posición de un cuerpo en un instante de tiempo en particular. Esto es, evaluar dicho instante $t_\ith$ en $\xyz(t)$ para obtener un vector que tiene valores numéricos fijos en sus componentes.
+
+O bien podemos referirnos a todo el recorrido, dado por la imagen de $\xyz(t)$ que traza las sucesivas posiciones por las que pasa el cuerpo conforme transcurre el tiempo. A este recorrido se lo llama \emph{trayectoria}. La trayectoria es el espacio geométrico que ocupan todas las posiciones de un cuerpo en movimiento, dadas por $\xyz(t)$.
+
+En el siguiente gráfico se observa que una \emph{trayectoria} es el conjunto de posiciones sucesivas por las que pasa un cuerpo, mientras que $P_{t_\ith}=\sqb{x(t_\ith)&y(t_\ith)}$ es una de las posiciones que toma el cuerpo a lo largo de su trayectoria.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-trayect-1.pdf_tex}
+    \vspace{-6cm}
+\end{center}  
+
+Para toda trayectoria o fragmento de trayectoria se puede definir el desplazamiento, que es el vector que une el punto inicial con el final. Esto es, la resta entre ambos vectores:
+
+\end{document}
