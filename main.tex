@@ -126,4 +126,428 @@ En el siguiente gráfico se observa que una \emph{trayectoria} es el conjunto de
 
 Para toda trayectoria o fragmento de trayectoria se puede definir el desplazamiento, que es el vector que une el punto inicial con el final. Esto es, la resta entre ambos vectores:
 
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:desplazamiento}
+    \end{defn}
+    \cusTi{Desplazamiento}
+    \begin{equation*}
+        \Delta \xyz = \xyz(t_F) - \xyz(t_0)
+    \end{equation*}
+\end{mdframed}
+
+El desplazamiento no debe confundirse con el largo del trayecto recorrido. A continuación se muestran, sobre el gráfico anterior, el vector desplazamiento y el segmento de trayecto considerado en negro oscuro. El segmento estudiado está dado arbitrariamente según se definan los puntos inicial y final.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-trayect-2.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+Hay movimientos en dos dimensiones como el tiro oblicuo~(Sec. \ref{subsec:parabolicMotion}) y el movimiento circular~(Sec. \ref{sec:circularMotion}). Estas trayectorias tienen una forma particular y serán estudiadas con más detalle posteriormente. Pero también pueden darse otras menos comunes.
+
+A continuación se muestra un ejemplo de una trayectoria curva que representa el recorrido de un bote en una laguna, visto desde el cielo.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+        \label{eg:boatPosition}
+    \end{example}
+    \cusTi{Bote en una laguna: Posición}
+    \begin{formatI}
+        A partir de la siguiente función de posición, describir cualitativamente el movimieto.
+    \end{formatI}
+    \begin{equation*}
+        \xyz:D \subseteq \setR \longrightarrow \setR^2 \tq \xyz(t) = \sqb{t^3\,\si{\metre\per\second^3}, t^2\,\si{\metre\per\second^2}}
+    \end{equation*}
+
+    \begin{center}
+        \vspace{-5cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+
+Observar que:
+    \begin{enumerate}
+        \item El vector posición tiene en cada coordenada una función escalar de $t$.
+        En este caso, las ecuaciones horarias son $x(t) = t^3\,\si{\metre\per\second^3}$ e $y(t) = t^2\,\si{\metre\per\second^2}$.
+        \item La trayectoria curva se da en horizontal sobre la superficie de la tierra, pero una trayectoria en 2~dimensiones puede darse verticalmente, como por ejemplo una hormiga caminando en una pared o una pelota lanzada en diagonal hacia arriba.
+        \item Se puede comprobar que, dependiendo de qué valor de tiempo asignemos a la función, obtendremos las coordenadas del bote.
+        Las coordenadas indican la posición del bote en la laguna en diferentes instantes de tiempo.
+    \end{enumerate}
+
+    Supongamos que el tiempo negativo es el pasado y el tiempo positivo, el futuro, y que el muelle $A$ se encuentra en la coordenada $[x,y] = [-8,4]\,\si{\metre}$ y el muelle $C$ en la coordenada $[x,y] = [8,4]\,\si{\metre}$.
+    Entonces deducimos que el bote partió del muelle $A$, se encuentra en el muelle $B$ y se dirige hacia el muelle $C$.
+    El muelle $B$ se encuentra en el origen de coordenadas porque, si allí está el bote en el presente, entonces $t = \SI{0}{\minute}$ y, cuando el tiempo toma este valor, se tiene que $\xyz(\SI{0}{\minute}) = [0,0]\,\si{\metre}$.
+    Además, concluimos que el bote tardará 4~minutos en hacer todo el recorrido, porque hace 2~minutos estaba en el muelle $A$, pues $\xyz(\SI{-2}{\minute}) = [-8,4]\,\si{\metre}$, y dentro de 2 minutos estará en el muelle $C$, pues $\xyz(\SI{2}{\minute}) = [8,4]\,\si{\metre}$.
+\end{mdframed}
+
+Cabe mencionar que la función vectorial ($\xyz$) del ejemplo anterior es inyectiva, ya que cada coordenada $[x,y]$ se obtiene a partir de un único valor del dominio $(t)$.
+Una función vectorial no inyectiva pasa dos veces por el mismo lugar, es decir, en dos instantes distintos de tiempo se obtiene el mismo vector de posición.
+Si estás pensando en que hay dos valores de $x$ que tienen una misma coordenada $y$ entonces no te estás dando cuenta que tanto $x$ como $y$ son valores de la imagen de la función.
+
+
+\section{Velocidad y aceleración}
+
+El cambio en la posición va a ir forjando el ``recorrido'' que haga el cuerpo.
+
+Intuitivamente, podemos entender a la velocidad como qué tan rápido cambia la posición de un cuerpo y, análogamente, la aceleración como qué tan rápido cambia su velocidad.
+
+La velocidad media es la razón de cambio promedio de la posición con respecto del tiempo transcurrido.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Velocidad media}
+    \begin{equation*}
+        \media{\Vec{v}}{\left[ t_0 ; t_1 \right]}
+      = \dfrac{\Delta \xyz(t)}{\Delta t}
+      = \dfrac{\xyz(t_1)-\xyz(t_0)}{t_1-t_0}
+    \end{equation*}
+\end{mdframed}
+
+Y la aceleración media es la razón de cambio promedio de la velocidad con respecto del tiempo.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Aceleración media}
+    \begin{equation*}
+        \media{\Vec{a}}{\left[ t_0 ; t_1 \right]}
+      = \dfrac{\Delta \Vec{v}(t)}{\Delta t}
+      = \dfrac{\Vec{v}(t_1)-\Vec{v}(t_0)}{t_1-t_0}
+    \end{equation*}
+\end{mdframed}
+
+La velocidad y aceleración \emph{media} se diferencian de la velocidad y aceleración \emph{instantánea}, respectivamente, en la forma que lo hacemos a continuación.
+
+Hacer un análisis \emph{instante a instante} significa \emph{estudiar intervalos de tiempo infinitamente cortos}.
+Es decir, ya que consideramos el tiempo continuo, entre dos instantes de tiempo determinados hay infinitos instantes que los separan. La aplicación matemática que nos permite hacer este análisis es el límite. Aplicando límite en las definiciones anteriores podemos observar que quedan definidas las derivadas. Coloquialmente, decimos que los $\Delta$ pasan a ser $\dif$.
+
+En Cinemática, la ventaja de trabajar con funciones vectoriales es que derivarlas es muy fácil, ya que se derivan componente a componente:
+\[
+  \xyz (t) = \begin{bmatrix} x(t) & y(t) \end{bmatrix} \implies
+  \dfrac{\dif}{\dif t} \xyz (t) =
+  \begin{bmatrix} \dfrac{\dif}{\dif t} x(t) & \dfrac{\dif}{\dif t} y(t) \end{bmatrix}
+\]
+
+Por lo tanto, la velocidad está definida como la primera derivada de la posición.
+\begin{equation*}
+    \Vec{v}\left(t_0\right) = \lim_{t \to t_0} \dfrac{\xyz(t)-\xyz(t_0)}{t-t_0}
+\end{equation*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Velocidad (instantánea)}
+    \begin{equation*}
+        \Vec{v}(t) = \dfrac{\dif}{\dif t} \xyz (t) = \sqb{\dfrac{\dif}{\dif t} x(t) & \dfrac{\dif}{\dif t} y(t)}
+    \end{equation*}
+\end{mdframed}
+
+Y la aceleración está dada por la primera derivada de la velocidad, o lo que es lo mismo, por la segunda derivada de la posición.
+\begin{gather*}
+    \Vec{a}\left(t_0\right) = \lim_{t \to t_0} \dfrac{\Vec{v}(t)-\Vec{v}(t_0)}{t-t_0}
+    \\
+    \Vec{a}(t) =
+    \dfrac{\dif}{\dif t} \Vec{v} (t) =
+    \dfrac{\dif}{\dif t} \underbrace{\dfrac{\dif}{\dif t} \xyz (t)}_{\Vec{v}(t)}
+\end{gather*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Aceleración (instantánea)}
+    \begin{equation*}
+        \Vec{a}(t) =
+        \dfrac{\dif^2}{\dif t^2} \xyz (t) =
+        \begin{bmatrix}
+            \dfrac{\dif^2}{\dif t^2} x(t) & \dfrac{\dif^2}{\dif t^2} y(t)
+        \end{bmatrix}
+    \end{equation*}
+\end{mdframed}
+
+Para referirse a la velocidad instante a instante, o a la aceleración instante a instante, la palabra ``instantánea'' suele darse por sobreentendida.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Bote en una laguna: Velocidad y aceleración.}
+    \begin{formatI}
+        Calcular la velocidad y la aceleración a partir de la trayectoria propuesta en el ejemplo \ref{eg:boatPosition}.
+    \end{formatI}
+    La posición está dada por:
+    \begin{equation*}
+        \xyz(t) = \sqb{t^3\,\si{\metre\per\second^3}, t^2\,\si{\metre\per\second^2}}
+    \end{equation*}
+
+    Haciendo la primera derivada de la trayectoria obtenemos la velocidad:
+    \[ \Vec{v}(t) = \sqb{3\,t^2\,\si{\metre\per\second^3}, 2\,t\,\si{\metre\per\second^2}} \]
+
+    Obsérvese que $\Vec{v}(0\,\si{\second}) = [0, 0]\,\si{\metre\per\second}$. La velocidad en el origen es nula. El bote \emph{frena} para invertir el sentido del movimiento: primero va hacia el sur desde el muelle $A$ hasta el muelle $B$ y luego hacia el norte para llegar al muelle $C$. Esto sólo puede lograrse frenando en medio del movimiento.
+
+    Haciendo la segunda derivada de la posición, que es la derivada de la velocidad, obtenemos la aceleración:
+    \[ \Vec{a}(t) = \sqb{6\,t\,\si{\metre\per\second^3}, 2\,\si{\metre\per\second^2}} \]
+
+    El hecho de que la aceleración tenga una componente $y$ constante indica la tendencia del bote a cambiar la dirección de su velocidad para que apunte en la dirección positiva del eje $y$.
+    Esto es absolutamente consistente con el comportamiento de la velocidad.
+    \begin{align*}
+        \Vec{v} \left(-2\,\si{\second}\right)
+        &= \sqb{3 \left(-2\,\si{\second}\right)^2\,\si{\metre\per\second^3}, 2\left(-2\,\si{\second}\right)\,\si{\metre\per\second^2}}
+        \\
+        &= \sqb{12, -4}\,\si{\metre\per\second}
+        \\[1ex]
+        \Vec{v} \left(2\,\si{\second}\right)
+        &= \sqb{3 \left(2\,\si{\second}\right)^2\,\si{\metre\per\second^3}, 2 \left(2\,\si{\second}\right)\,\si{\metre\per\second^2}}
+        \\
+        &= \sqb{12, 4}\,\si{\metre\per\second}
+    \end{align*}
+
+    Los resultados lo muestran claramente: la velocidad del bote en el muelle $A$ apunta en dirección de las $y$ negativas (sur) y, en el muelle $C$, en dirección de las positivas (norte).
+    Es precisamente la aceleración positiva en $y$ la que produjo este cambio.
+\end{mdframed}
+
+
+\section{Ecuación de movimiento}
+
+Anteriormente se mencionó que la aceleración es la derivada de la velocidad, que a su vez es la derivada de la posición.
+En otras palabras, se puede calcular la aceleración a partir de la posición.
+De manera inversa, se puede deducir la posición o ecuación de movimiento a partir de las definiciones de velocidad y aceleración:
+\[
+  \left\{
+   \begin{aligned}
+    v &= \dfrac{\dif x}{\dif t}
+    \\[1ex]
+    a &= \dfrac{\dif^2 x}{\dif t^2} =
+    \dfrac{\dif}{\dif t} \dfrac{\dif x}{\dif t} =
+    \dfrac{\dif v}{\dif t}
+   \end{aligned}
+  \right.
+\]
+
+Coloquialmente, podemos pensar que los $\dif t$ pasan multiplicando al otro miembro en cada ecuación. Formalmente, estamos calculando el diferencial de distancia $\dif x$ y el diferencial de velocidad $\dif v$, que son aproximaciones lineales de $\Delta x$ y $\Delta v$ respectivamente:
+\[
+  \left\{
+    \begin{aligned}
+    v \, \dif t &= \dif x
+    \\
+    a \, \dif t &= \dif v
+    \end{aligned}
+  \right.
+\]
+
+Ahora, integramos respecto de $t$ entre $t_0$ y $t_1$, tomando a $x$ y $v$ como funciones de $t$.
+\[
+  \left\{
+   \begin{aligned}
+     \displaystyle\int_{t_0}^{t_1} v \, \dif t &= \displaystyle\int_{x_0}^{x_1} \dif x =
+     \left( x \Big|_{x_0}^{x_1} \right) = x_1 - x_0
+     \\[1ex]
+     \displaystyle\int_{t_0}^{t_1} a \, \dif t &= \displaystyle\int_{v_0}^{v_1} \dif v =
+     \left( v \Big|_{v_0}^{v_1} \right) = v_1 - v_0
+   \end{aligned}
+  \right.
+\]
+Observar que $x_0$ es la imagen de $x(t_0)$, $x_1$ es la imagen de $x(t_1)$, $v_0$ es la imagen de $v(t_0)$, $v_1$ es la imagen de $v(t_1)$ y $t_1$ puede ser cualquier valor de $t$ mayor que $t_0$.
+
+Haciendo algunos movimientos algebraicos, se tiene:
+\[
+  \left\{
+    \begin{aligned}
+    x_1 &= \displaystyle\int_{t_0}^{t_1} v \, \dif t + x_0
+    \\[1ex]
+    v_1 &= \displaystyle\int_{t_0}^{t_1} a \, \dif t + v_0
+    \end{aligned}
+  \right.
+\]
+Como $t_1$ es arbitrario, puede cambiarse por un $t$ genérico, en cuyo caso $x_1$ y $v_1$ pasan a ser, respectivamente, $x$ y $v$, también genéricos.
+A su vez, $v$ puede ser expresado como $v(t)$ y $a$ puede ser expresado como $a(t)$.
+Esto requiere, no obstante, cambiar las variables de integración para que no coincidan con el extremo superior de las integrales definidas.
+Llamemos $u$, por ejemplo, a las variables de integración.
+\[
+  \left\{
+    \begin{aligned}
+    x(t) &= \displaystyle\int_{t_0}^{t} v(u) \, \dif u + x_0
+    \\[1ex]
+    v(t) &= \displaystyle\int_{t_0}^{t} a(u) \, \dif u + v_0
+    \end{aligned}
+  \right.
+\]
+Pero las integrales definidas bien pueden ser expresadas como indefinidas, donde $x_0 = x\left(t_0\right)$ y $v_0 = v\left(t_0\right)$ son las constantes de integración, como se mencionó.
+\[
+  \left\{
+    \begin{aligned}
+      x(t) &= \displaystyle\int v(t) \, \dif t + x(t_0)
+      \\[1ex]
+      v(t) &= \displaystyle\int a(t) \, \dif t + v(t_0)
+    \end{aligned}
+  \right.
+\]
+
+Reemplazando $v(t)$ en $x(t)$, por sustitución se tiene:
+\[ x(t) = \int \left( \int a(t) \, \dif t + v(t_0) \right) \dif t + x(t_0) \]
+
+Esta ecuación significa que si se conoce la aceleración, la velocidad inicial, y la posición inicial de una partícula, se pueden predecir sus futuras posiciones y velocidades:
+\[ x(t) = \iint a(t) \, \dif t^2 + \int v(t_0) \, \dif t + x(t_0) \]
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:generalMovementEqn}
+    \end{defn}
+    \cusTi{Ecuación general de movimiento}
+    \begin{equation*}
+        x(t) = \displaystyle\iint a(t) \, \dif t^2 + v(t_0) (t-t_0)   + x(t_0)
+    \end{equation*}
+\end{mdframed}
+
+En Cinemática se suele analizar los movimientos de más de una dimensión componente a componente. Por este motivo, conviene quedarnos solo con el caso particular de 1 dimensión (Def. \ref{defn:generalMovementEqn}).
+
+Pero podemos extrapolar $x(t)$ para $n$ dimensiones, particularmente las 3 dimensiones espaciales. El modelado se haría con la siguiente función vectorial que describe la trayectoria de una partícula en el espacio:
+\[
+  \xyz(t) :
+  \left\{
+    \begin{aligned}
+      x(t) &= \displaystyle\iint a_x(t) \, \dif t^2 + \displaystyle\int v_x(t_0) \, \dif t + x(t_0)
+      \\[1ex]
+      y(t) &= \displaystyle\iint a_y(t) \, \dif t^2 + \displaystyle\int v_y(t_0) \, \dif t + y(t_0)
+      \\[1ex]
+      z(t) &= \displaystyle\iint a_z(t) \, \dif t^2 + \displaystyle\int v_z(t_0) \, \dif t + z(t_0)
+    \end{aligned}
+  \right.
+\]
+
+Donde cada una de las funciones escalares $x(t)$, $y(t)$ y $z(t)$ son las componentes del vector posición (Def. \ref{defn:position}).
+
+Podemos definir dos casos particulares usados frecuentemente.
+Por un lado, el caso en que la aceleración de la partícula es constante para todos los valores de tiempo que se estén integrando entre $t_0$ y $t_1$. Y por otro lado, el caso en que la velocidad también lo es y la aceleración, además, es nula. De esta forma, se tienen las siguientes definiciones, respectivamente:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:cstAccelMovementEqn}
+    \end{defn}
+    \cusTi{Ec. de movimiento con aceleración constante no nula}
+    \begin{equation*}
+        x(t) = \dfrac{a}{2}(t-t_0)^2 + v_0(t-t_0) + x_0
+    \end{equation*}
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:cstVelMovementEqn}
+    \end{defn}
+    \cusTi{Ec. de movimiento con velocidad constante}
+    \begin{equation*}
+        x(t) = v_0(t-t_0) + x_0
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Movimiento rectilíneo}
+
+Se llama así a todo movimiento unidimensional.
+Su ecuación está dada por la definición \ref{defn:generalMovementEqn}, que involucra únicamente una función escalar.
+
+\subsection{MRU}
+
+Un cuerpo en movimiento rectilíneo uniforme (o MRU) es aquel que se mueve en línea recta con aceleración nula, y por lo tanto con velocidad constante.
+
+La ecuación de movimiento con velocidad constante (Def.\ \ref{defn:cstVelMovementEqn}) describe la trayectoria de un MRU.
+
+Por ahora, si el lector quiere verificar que si la aceleración es nula entonces la velocidad será constante, puede hacerlo derivando dos veces la trayectoria del MRU. Más adelante, en el capítulo \ref{cha:dinamics}, se enunciará la primera ley de Newton (Def.\ \ref{defn:NewtonFirstLaw}) que generaliza esta situación.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Auto en la ruta a velocidad constante}
+    \begin{formatI}
+        Un auto conduce un segmento de \SI{2,2}{\kilo\meter} de la ruta~40 en la provincia de Mendoza, entre las calles Araóz y Boedo, donde la ruta es prácticamente recta. El conductor parte del cruce entre la ruta 40 y Boedo y quiere saber a qué velocidad $(v)$ tiene que configurar el piloto automático para hacer la segunda mitad del trayecto, hasta Araóz, en un minuto.
+    \end{formatI}
+    
+    \begin{center}
+        \includegraphics[width=\linewidth]{cinematica-map.png}
+    \end{center}
+    
+    \begin{align*}
+        x\left(\SI{60}{\second}\right) &= v \, \SI{60}{\second} + \SI{1100}{\metre} = \SI{2200}{\metre}
+        \\[1ex]
+        v &= \dfrac{\SI{2200}{\metre}-\SI{1100}{\metre}}{\SI{60}{\second}}
+        = \dfrac{\SI{1100}{\metre}}{\SI{60}{\second}}
+        = \dfrac{\SI{55}{\metre}}{\SI{3}{\second}}
+        \\[1ex]
+        &= \dfrac{55 \cdot \frac{1}{1000}\si{\kilo\meter}}{3 \cdot \frac{1}{3600}\si{\hour}}
+        = \SI{66}{\kilo\metre/\hour}
+    \end{align*}
+    
+    El sistema de referencia está planteado para que la función de posición tenga origen en el comienzo del segmento de la ruta, es decir, en el cruce de la ruta 40 con Boedo.
+    
+    \begin{center}
+        \vspace{-5cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-map-2.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Sería posible resolver el problema, de manera más sencilla (aunque menos general) estableciendo el origen en el medio del segmento de ruta y en este caso la posición inicial sería \SI{0}{\metre} y la posición final $(x_1)$ sería \SI{1100}{\metre}.
+    
+    El mapa 2 tiene dimensiones, pero como el movimiento se da en línea recta, basta con una coordenada para calcular la trayectoria. Sería innecesario y engorroso (aunque posible) plantear una trayectoria recta de 2 dimensiones para describir el movimiento en el plano $xy$. Cualquier movimiento, en particular uno rectilíneo, puede expresarse con una trayectoria vectorial de 3 dimensiones.
+    Pero si se elige correctamente el sistema de referencia, basta con usar 1 dimensión, porque lo que importa es la variación de la distancia.
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Dos autos en sentido opuesto}
+    \begin{formatI}
+        Para este problema de \emph{encuentro}, determinar cuándo y dónde se cruzan los móviles del siguiente esquema.
+    \end{formatI}
+    
+    \begin{center}
+        \vspace{-5cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-cars-1.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    En particular, acá se tienen dos autos en sus respectivos carriles y sentidos opuestos entre sí, separados por una distancia de \SI{300}{\kilo\meter}.
+    Uno tiene una velocidad de \SI{50}{\kilo\meter/\hour} y el otro, de \SI{100}{\kilo\meter/\hour}.
+    Se busca, como todo problema de encuentro, el instante de tiempo y la posición en que se cruzan.
+    
+    Tomemos el siguiente sistema de referencia.
+    
+    \begin{center}
+        \vspace{-8cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-cars-2.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    El origen ($O$) coincide con la posición inicial del auto ubicado en la parte superior del dibujo ($A$).
+    De acuerdo al sistema elegido, la posición crece positivamente cuando nos alejamos de $O$ para ir a la posición inicial del auto en el carril inferior ($B$).
+    Además, por simplicidad, elegiremos $t_0 = 0$ en el punto $O$, es decir, el inicio del movimiento sucederá cuando el auto A esté ubicado en el punto $O$ del eje $x$.
+    
+    Con esto ya podemos construir las ecuaciones de movimiento.
+    Si adjuntamos a cada $x$ un subíndice correspondiente a cada auto ($A$ o $B$), quedan
+    \begin{align*}
+        x_A(t) &= 50\,\si{\kilo\metre\per\hour} \, t
+        \\
+        x_B(t) &= 300\,\si{\kilo\metre} - 100\,\si{\kilo\metre\per\hour} \, t
+    \end{align*}
+    
+    Los signos de las velocidades respetan el sentido de crecimiento del eje $x$: la velocidad de $A$ es positiva porque apunta, en el dibujo, hacia la derecha (como el eje $x$), y la velocidad de B es negativa porque apunta hacia la izquierda (contrario al eje $x$).
+    
+    Recordemos que, en el instante en que los autos se cruzan, están en la misma posición (en lo que respecta al eje $x$).
+    Por eso basta con igualar $x_A$ y $x_B$:
+    \[ 50\,\si{\kilo\metre\per\hour} \, t = 300\,\si{\kilo\metre} - 100\,\si{\kilo\metre\per\hour} \, t \]
+    
+    y ahora sencillamente despejamos $t$
+    \[ 150\,\si{\kilo\metre\per\hour} \, t = 300\,\si{\kilo\metre}
+    \iff t = \frac{300}{150}\,\si{\hour} = 2\,\si{\hour} \]
+    
+    Reemplazando en cualquiera de las dos ecuaciones de movimiento, queda
+    \[ x_A(2\,\si{\hour}) = 100\,\si{\kilo\metre} = x_B(2\,\si{\hour}) \]
+    es decir, los autos se cruzan a las \SI{2}{\hour} de haber iniciado el recorrido, \SI{100}{\kilo\meter} a la derecha del origen.
+\end{mdframed}
+
+
 \end{document}
