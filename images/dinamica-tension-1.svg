@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="397.27954"
-     inkscape:cy="561.25984"
+     inkscape:cx="428.58487"
+     inkscape:cy="473.30677"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -80,20 +80,6 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png" />
-    <text
-       id="text1006-0-4"
-       y="135.75174"
-       x="65.315887"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         y="135.75174"
-         x="65.315887"
-         id="tspan1004-5-7"
-         sodipodi:role="line">A</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1008-1-7"
@@ -104,20 +90,6 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="123.69479"
-       y="139.03812"
-       id="text1012-0-1"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         sodipodi:role="line"
-         id="tspan1010-8-2"
-         x="123.69479"
-         y="139.03812"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#000000;fill-opacity:1;stroke-width:0.264583">B</tspan></text>
     <g
        transform="translate(172.72605,35.246003)"
        id="g2943-4-8"
@@ -136,40 +108,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
     </g>
-    <text
-       id="text879-0-1-8-6"
-       y="172.56143"
-       x="71.068817"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583"
-         y="172.56143"
-         x="71.068817"
-         id="tspan877-7-7-4-0"
-         sodipodi:role="line">N<tspan
-   style="font-size:4.5861px;baseline-shift:sub;stroke-width:0.264583"
-   id="tspan885-9-8-0-6">A</tspan></tspan></text>
-    <g
-       transform="translate(-49.86005,70.942353)"
-       id="g1033-7-7-8-5-1-4"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-1-2-3-6-5"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-9-6-0-7-4"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
     <g
        transform="matrix(1,0,0,-1,157.79955,269.74289)"
        id="g2943-9-3-6-4-7"
@@ -187,40 +125,6 @@
          id="path872-7-9-9-7-8-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
-    </g>
-    <text
-       id="text879-0-1-1-6-4-1-7"
-       y="172.42545"
-       x="55.081997"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583"
-         y="172.42545"
-         x="55.081997"
-         id="tspan877-7-7-7-4-0-7-5"
-         sodipodi:role="line">W<tspan
-   style="font-size:4.5861px;baseline-shift:sub;stroke-width:0.264583"
-   id="tspan885-9-8-8-3-7-0-8">A</tspan></tspan></text>
-    <g
-       transform="translate(-65.84695,70.806363)"
-       id="g1033-7-7-8-5-9-1-9-1-9"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-1-2-3-8-3-8-1-0"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-9-6-0-3-5-5-0-4"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -257,42 +161,6 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="g986-0-4-2"
-       transform="translate(42.57855,36.363903)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path982-5-5-4"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path984-9-9-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,123.27625,48.402653)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot3912-0-9-77"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><flowRegion
-         id="flowRegion3908-3-6-0"><rect
-           y="314.73935"
-           x="150.68999"
-           height="62.55191"
-           width="79.846931"
-           id="rect3906-9-6-7" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara3910-0-8-0">F<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan3916-6-23-8" /></flowPara></flowRoot>
-    <g
        transform="matrix(1,0,0,-1,43.27535,399.72056)"
        id="g3069-8-3-1-8"
        inkscape:export-xdpi="300"
@@ -307,40 +175,6 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 75.770909,248.29608 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
          id="path3067-9-6-6-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="113.10775"
-       y="163.47079"
-       id="text3075-2-0-5-2"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         sodipodi:role="line"
-         id="tspan3073-0-0-8-8"
-         x="113.10775"
-         y="163.47079"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583">W<tspan
-   id="tspan3071-1-3-4-9"
-   style="font-size:4.5861px;baseline-shift:sub;stroke-width:0.264583">B</tspan></tspan></text>
-    <g
-       id="g3081-7-1-3-3"
-       transform="translate(-7.82115,61.851673)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path3077-2-6-0-7"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path3079-2-9-9-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
     </g>
@@ -362,60 +196,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="128.03415"
-       y="163.33853"
-       id="text3075-2-0-5-2-2"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><tspan
-         sodipodi:role="line"
-         id="tspan3073-0-0-8-8-7"
-         x="128.03415"
-         y="163.33853"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583">N<tspan
-   id="tspan3071-1-3-4-9-7"
-   style="font-size:4.5861px;baseline-shift:sub;stroke-width:0.264583">B</tspan></tspan></text>
-    <g
-       id="g3081-7-1-3-3-6"
-       transform="translate(7.10525,61.719393)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path3077-2-6-0-7-2"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path3079-2-9-9-9-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1027-6-2-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.965248"
-       transform="matrix(0.2741091,0,0,0.2741091,54.51775,33.668843)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"><flowRegion
-         id="flowRegion1023-6-3-0"
-         style="stroke-width:0.965248"><rect
-           id="rect1021-2-3-7"
-           width="79.846931"
-           height="62.55191"
-           x="150.68999"
-           y="314.73935"
-           style="stroke-width:0.96524829" /></flowRegion><flowPara
-         id="flowPara1025-1-5-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.965248">l<flowSpan
-   style="font-size:65%;baseline-shift:sub;stroke-width:0.965248"
-   id="flowSpan4958-0">0</flowSpan></flowPara></flowRoot>
     <path
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFL.png"
        inkscape:export-ydpi="300"
@@ -424,5 +204,133 @@
        d="m 87.70625,134.10127 c -0.2703,-2.49581 8.8363,-1.34623 8.8363,-1.34623 0,0 1.845,0.19697 2.3923,-1.72626 m 11.2285,3.07249 c 0.2703,-2.49581 -8.8363,-1.34623 -8.8363,-1.34623 0,0 -1.8449,0.19697 -2.3922,-1.72626"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4937-3" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6969"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,89.165476,73.316412)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion6965"><rect
+           id="rect6963"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara6967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{N}_B$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7128-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,73.580281,72.921995)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion7124-1"><rect
+           id="rect7122-8"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara7126-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{\weight}_B$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7128-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,14.41081,82.979765)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion7124-1-3"><rect
+           id="rect7122-8-1"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara7126-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{\weight}_A$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1109"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,124.66348,46.758972)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1105"><rect
+           id="rect1103"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{F}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1109-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,30.651995,83.571401)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1105-1"><rect
+           id="rect1103-5"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1107-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{N}_A$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1109-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,54.908967,35.451874)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1105-0"><rect
+           id="rect1103-4"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1107-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$l_0$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1109-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,24.456824,44.990356)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1105-0-8"><rect
+           id="rect1103-4-2"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1107-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$A$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3036"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,83.454006,47.653204)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3032"><rect
+           id="rect3030"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara3034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$B$</flowPara></flowRoot>
   </g>
 </svg>

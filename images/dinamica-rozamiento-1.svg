@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="397.27954"
-     inkscape:cy="561.25984"
+     inkscape:cx="585.11152"
+     inkscape:cy="412.18684"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -111,20 +111,6 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz1.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="81.833076"
-       y="155.4731"
-       id="text825-7-0"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz1.png"><tspan
-         sodipodi:role="line"
-         id="tspan823-7-6"
-         x="81.833076"
-         y="155.4731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583">A</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 32.231643,167.11306 H 136.73404"
@@ -275,5 +261,21 @@
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4985"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,41.21978,63.528208)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion4981"><rect
+           id="rect4979"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara4983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$A$</flowPara></flowRoot>
   </g>
 </svg>

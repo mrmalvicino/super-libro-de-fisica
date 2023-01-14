@@ -1455,5 +1455,467 @@ A continuación se muestra un cuerpo $(A)$ al que se le aplica una fuerza $(\Vec
     \vspace{-6cm}
 \end{center}
 
+Una regla nemotécnica para descomponer fuerzas es que la hipotenusa del triángulo rectángulo siempre es el vector que se quiere descomponer:
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-fuerza-2.pdf_tex}
+\end{center}
+
+$\Vec{F}$ resulta de sumar las componentes $F_x$ y $F_y$ multiplicadas por los versores generadores de $\setR^2$:
+\[ \Vec{F} = F_x \, \iVer + F_y \, \jVer = [F_x,F_y] \]
+
+Además, por trigonometría, se tiene que:
+\[
+  \left\{
+    \begin{aligned}
+      \cos{(\theta)} &= \dfrac{F_x}{F}
+      \\[1ex]
+      \sin{(\theta)} &= \dfrac{F_y}{F}
+      \\[1ex]
+      \tan{(\theta)} &= \dfrac{F_y}{F_x}
+    \end{aligned}
+  \right.
+\]
+
+Si conocemos la intensidad $(F)$ de una fuerza y su dirección $(\theta)$, como en este caso, despejamos las dos primeras ecuaciones del sistema anterior para calular las componentes:
+\[
+  \left\{
+  \begin{aligned}
+    F_x &= F \, \cos{(\theta)}
+    \\
+    F_y &= F \, \sin{(\theta)}
+  \end{aligned}
+  \right.
+\]
+
+En ocasiones se usa la tercer ecuación para calcular el ángulo de la fuerza:
+\[ \theta = \arctan{ \left( \dfrac{F_y}{F_x} \right) } \]
+
+
+\section{Fuerza Peso}
+
+Todos los cuerpos con masa se atraen entre sí según la ley de gravitación universal, enunciada a continuación.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Fuerza gravitatoria}
+    \begin{equation*}
+        \sub{\vec{F}}{gra} = G \, \frac{m_1 \, m_2}{r^2} \, \versor{r}
+    \end{equation*}
+\end{mdframed}
+
+Donde $G = 6.67 \times 10^{-11} \, \si{\newton\metre^2\per\kilo\gram^2}$ es la constante de gravitación universal, $\versor{r}=\tfrac{\Delta \xyz}{\nnorm{\Delta \xyz}}$ un versor director y $r=\nnorm{\Delta \xyz}$ la distancia entre los cuerpos.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-peso-1.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+Es posible definir la fuerza gravitatoria de manera más concisa para cuerpos macroscópicos sobre la superficie terrestre si se cumplen las siguientes condiciones.
+\begin{itemize}
+    \item La variación de altura es despreciable con respecto del radio de la Tierra.
+    \item La curvatura de la superficie de la Tierra es despreciable con respecto del desplazamiento tangencial del cuerpo sobre la misma.
+\end{itemize}
+
+Considerando la masa de la Tierra $m_2=5.97 \times 10^{24} \, \si{\kilo\gram}$ y su radio $r=6371 \, \si{\kilo\metre}$ se tiene para un cuerpo de masa $m_1=m$ que esté en la superficie del planeta:
+\begin{equation*}
+    \sub{\vec{F}}{gra} = 6.67 \times 10^{-11} \, \si{\newton\metre^2\per\kilo\gram^2} \, \frac{m \times 5.97 \times 10^{24} \, \si{\kilo\gram}}{\left(6371 \times 10^{3} \, \si{\metre}\right)^2} \left(-\jVer\right)
+\end{equation*}
+
+Pudiendo definir así la fuerza Peso, causante de las trayectorias que se vean afectadas por la aceleración de la gravedad.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:weightForce}
+    \end{defn}
+    \cusTi{Fuerza Peso}
+    \begin{equation*}
+        \Vec{\weight} = -m \, \Vec{g}
+    \end{equation*}
+\end{mdframed}
+
+El signo negativo es para indicar que apunta hacia abajo, pero dependiendo del sistema de referencia que se adopte podemos usar una notación positiva para el peso.
+
+A continuación se muestra un cuerpo ``cayendo'' debido a la atracción de la gravedad. Lo interesante es notar que la siguiente imagen podría interpretarse como un instante de una trayectoria que podría ser, por ejemplo, una caída libre, un tiro vertical o un tiro oblicuo. Cualquiera de estas tres interpretaciones podría ser válida porque la fuerza peso de un cuerpo que siga alguna de estas trayectorias, en todo momento sería constante, indiferentemente de si está apoyado en el piso, quieto en el aire o volando en diagonal.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{0.85\linewidth}
+    \input{./images/dinamica-peso-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Nótese que en este caso se graficó, además del peso del cuerpo $(\Vec{\weight})$, su par de reacción, que es la atracción que le hace el cuerpo al planeta. Como el peso de todos los cuerpos siempre es ejercido por la Tierra, en vez de aclarar en la notación que $\Vec{\weight}_{TA}$ es la fuerza que le hace la Tierra al cuerpo $A$, simplemente se suele escribir $\Vec{\weight}_A$ o directamente $m_A \, \Vec{g}$. En cuanto al par de reacción, no se suele usar, ya que solo es de interés estudiar las fuerzas que se hacen sobre el cuerpo $A$.
+
+Refutando lo que pensaba Aristóteles, Galileo fué el primero en demostrar experimentalmente que un objeto de masa mayor que otro no iba a acelerarse más por tener más masa. En cambio, ambos iban a caer con la misma aceleración, independientemente de su masa. Esto puede analizarse desde el punto de vista de la dinámica clásica, ya que un objeto de masa mayor efectivamente iba a tener un peso mayor. Pero el peso de un cuerpo dividido por su masa era constante para distintos cuerpos. Esta constante, es la aceleración de los cuerpos al caer, y dicha relación luego se estableció como la segunda ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}).
+
+
+\section{Fuerza Normal}
+
+La fuerza Normal $(\Vec{N})$ se define como la fuerza que ejerce una superficie a un cuerpo apoyado sobre la misma. Normal es sinónimo de ortogonal, ya que esta fuerza es perpendicular a la superficie que la genera. Esta fuerza existe solo cuando un cuerpo está ejerciendo fuerza sobre la superficie.
+
+Es importante notar que la fuerza Normal $(\Vec{N})$ no es el par de reacción de la fuerza Peso $(\Vec{\weight})$, ya que los pares de acción y reacción se dan entre dos cuerpos distintos y tanto el peso como la normal son fuerzas que realiza por un lado la Tierra y por otro una superficie sobre el mismo cuerpo.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Cajas sobre una mesa}
+    \begin{formatI}
+        Se tienen tres cajas sobre una mesa, como se muestra en la siguiente imagen. Se quiere calcular el valor de la fuerza Normal que mantiene a cada caja en su lugar.
+    \end{formatI}
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-normal-1.pdf_tex}
+        \vspace{-2cm}
+    \end{center}
+    
+    La fuerza Normal es una fuerza de vínculo. Si se analizamos las fuerzas externas del sistema completo, como en la imagen anterior, no tendríamos en cuenta las fuerzas de vínculo entre los cuerpos del sistema. Es por esto, que resulta muy útil analizar la sumatoria de fuerzas externas para cada cuerpo puntual de un sistema, como se ve en la imagen a continuación.
+    
+    \begin{center}
+        \vspace{-2cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-normal-2.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    En los tres casos la fuerza vertical neta es nula, ya que la Normal compensa el peso. Por lo tanto, la aceleración de cada cuerpo es nula. Y Por otro lado, ninguno de los tres cuerpos está siendo afectado por fuerzas horizontales, pudiendo representar las fuerzas verticales sin usar notación vectorial. Planteando la segunda ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}) para cada cuerpo, se tiene:
+    \[
+      \left\{
+        \begin{aligned}
+          \sum F_A &= m_A a_A = 0 = N_A - \weight_A - N_{BA}
+          \\
+          \sum F_B &= m_B a_B = 0 = N_{AB} - \weight_B
+          \\
+          \sum F_C &= m_C a_C = 0 = N_C - \weight_C
+        \end{aligned}
+      \right.
+    \]
+    
+    De esta forma, al poder trabajar con tres ecuaciones, suponiendo que conocemos la masa de los cuerpos, podemos determinar los valores de las normales. Nótese que $N_{AB}$ y $N_{BA}$ son un par de acción y reacción (Def.\ \ref{defn:NewtonThirdLaw}). Resulta obvio que tengan sentidos opuestos, pero recordar que además van a tener el mismo módulo. Sea $N_B = \norm{N_{AB}} = \norm{N_{BA}}$, se tiene que:
+    \[
+      \left\{
+        \begin{aligned}
+          N_A &= (m_A + m_B) g
+          \\
+          N_B &= m_B g
+          \\
+          N_C &= m_C g
+        \end{aligned}
+      \right.
+    \]
+\end{mdframed}
+
+
+\section{Fuerza de tensión}
+
+La fuerza de Tensión $(\Vec{T})$ es una fuerza de vínculo que se da cuando hay dos o más cuerpos unidos, interactuando mediante una cuerda, un hilo, una cadena, un cable, una barra rígida o cualquier objeto que verifique las siguientes hipótesis de vínculo:
+\begin{itemize}
+  \item \concept{La masa del vínculo es despreciable:}
+
+  Bajo esta hipótesis, por la segunda ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}), podemos considerar que la tensión en ambos extremos del vínculo es la misma:
+  \begin{gather*}
+     m \approx 0
+     \\
+     \Rightarrow \sum \Vec{F} = T_{AB}-T_{BA} = m \Vec{a} \approx 0
+     \\
+     \therefore T_{AB} \approx T_{BA}
+  \end{gather*}
+  
+  \item \concept{El largo del vínculo es inextensible:}
+
+  Bajo esta hipótesis, podemos concluir que la aceleración de los dos cuerpos unidos va a ser la misma:
+  \begin{gather*}
+    l(t) = l_0
+    \\
+    \Rightarrow x_B(t) = x_A(t) + l(t)
+    \\
+    \Rightarrow \dfrac{\dif^2}{\dif t^2} x_B(t) = \dfrac{\dif^2}{\dif t^2} x_A(t) + \dfrac{\dif^2}{\dif t^2} l_0
+    \\
+    \therefore a_B(t) = a_A(t) +0
+  \end{gather*}
+\end{itemize}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Dos cuerpos atados en horizontal}
+    \begin{formatI}
+        Se tienen dos cuerpos atados mediante una soga inextensible de masa despreciable. Se quiere calcular la fuerza de tensión entre ellas.
+    \end{formatI}
+    \begin{center}
+        \vspace{-2cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-tension-1.pdf_tex}
+        \vspace{-2cm}
+    \end{center}
+    
+    \begin{center}
+        \vspace{-2cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-tension-2.pdf_tex}
+        \vspace{-2cm}
+    \end{center}
+    
+    \begin{gather*}
+        (a_A=a_B=a)
+        \land
+        \left\{
+        \begin{aligned}
+            \sum F_{Ax} &= m_A a_A = T
+            \\
+            \sum F_{Ay} &= 0 = N_A - m_A g
+            \\
+            \sum F_{Bx} &= m_B a_B = F - T
+            \\
+            \sum F_{By} &= 0 = N_B - m_B g
+        \end{aligned}
+        \right.
+        \\
+        \left\{
+        \begin{aligned}
+            m_A a &= T
+            \\
+            m_B a &= F - T
+        \end{aligned}
+        \right.
+        \Rightarrow
+        T = \dfrac{F}{\frac{m_B}{m_A}+1}
+    \end{gather*}
+\end{mdframed}
+
+Podemos extrapolar situaciones más complejas a partir del modelo planteado anteriormente. Si un sistema tiene una polea fija, podemos suponer que esta no genera fricción con la cuerda y que la masa de la polea es despreciable. A continuación se muestra un sistema un poco más complejo, que bajo estas hipótesis se puede tratar como un caso análogo al anterior, donde la fuerza externa ahora va a ser $\Vec{F} = \Vec{\weight}$, lo cual se va a ver reflejado en el resultado.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Dos cuerpos atados mediante poleas fijas}
+    \begin{formatI}
+        Calcular la fuerza de tensión entre los cuerpos.
+    \end{formatI}
+    \begin{center}
+        \vspace{-2cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-tension-3.pdf_tex}
+        \vspace{-2cm}
+    \end{center}
+    
+    \begin{center}
+        \vspace{-2cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/dinamica-tension-4.pdf_tex}
+        \vspace{-2cm}
+    \end{center}
+    
+    El hecho de que este sistema tenga una polea fija hace que la aceleración horizontal del cuerpo $A$ sea igual a la aceleración vertical del cuerpo $B$. Es decir, las hipótesis de vínculo para la cuerda se siguen cumpliendo, pero sin tener en cuenta la dirección de la aceleración y la tensión. En otras palabras, el módulo de la aceleración es igual para ambos cuerpos y el módulo de la tensión es el mismo para ambos extremos de la cuerda. No hay que darle demasiada importancia a que sus direcciones sean distintas, simplemente tener en cuenta que de las 4 ecuaciones de sumatoria de fuerza vamos a usar una dada en el eje $x$ y otra dada en el eje $y$. Lo que sí hay que tener en cuenta, es que si suponemos positivo hacia la derecha para el cuerpo $A$ entonces, en el cuerpo $B$, el sentido positivo será hacia abajo.
+    \begin{gather*}
+        (a_{Ax}=a_{By}=a) \quad \land \quad
+        \left\{
+        \begin{aligned}
+            m_A a &= T
+            \\
+            m_B a &= m_B g - T
+        \end{aligned}
+        \right.
+        \\[1ex]
+        \Rightarrow T=\dfrac{m_B g}{\frac{m_B}{m_A}+1}
+    \end{gather*}
+\end{mdframed}
+
+
+\section{Fuerza elástica}
+\label{sec:elasticForce}
+
+La fuerza elástica ($\sub{\Vec{F}}{ela}$) es una fuerza restauradora que ejerce un resorte o cualquier material que se comporte de manera elástica. Se la llama así porque ante una perturbación que estire el material, la fuerza tiende a restaurar el largo que tiene estando estirado $(l)$ a su longitud natural $(l_0)$ que originalmente tenía antes de ser perturbado.
+
+La intensidad $(\sub{F}{ela})$ de la fuerza elástica es proporcional al estiramiento $(\Delta l)$ del material, con cierta constante de proporcionalidad llamada constante elástica $(k)$.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{0.7\linewidth}
+    \input{./images/dinamica-elastica-1.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Es importante notar que el estiramiento $(\Delta l)$ puede ser negativo, ya que no es una distancia si no una diferencia de distancias:
+\begin{equation}
+    \Delta l = l-l_0 \iff -\Delta l = l_0-l
+    \label{eqn:elastic}
+\end{equation}
+
+\begin{itemize}
+    \item Si el resorte está estirado, hacia la derecha de la posición natural, la fuerza elástica será negativa, apuntando hacia la izquierda. La fuerza elástica intentará comprimir el resorte para que restaure su longitud natural. Por lo tanto, reemplazando $l=l_M>l_0$ en la ecuación \ref{eqn:elastic} se tiene $\Delta l>0$.
+    
+    \item Si el resorte está comprimido, hacia la izquierda de la posición natural, la fuerza elástica será positiva, apuntando hacia la derecha. La fuerza elástica intentará estirar el resorte para que restaure su longitud natural. Por lo tanto, reemplazando $l=l_m<l_0$ en la ecuación \ref{eqn:elastic} se tiene $\Delta l<0$.
+\end{itemize}
+
+De esta forma, para definir el sentido de la fuerza, si consideramos que el sistema de referencia es positivo hacia donde se estira el resorte, se tiene que agregar un signo negativo a la magnitud, para que efectivamente el primer caso sea negativo y el segundo positivo, ya que $\Delta l$ es positivo y negativo respectivamente.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:elasticForce}
+    \end{defn}
+    \cusTi{Fuerza elástica}
+    \begin{equation*}
+        \sub{F}{ela} = -k \, \Delta l
+    \end{equation*}
+\end{mdframed}
+
+Con frecuencia, en la bibliografía suele usarse la notación $\Delta x=\Delta l$ ya que el estiramiento se da a lo largo del eje de abscisas. Además, por convención se toma como origen de coordenadas la parte fija del resorte, por lo que el largo variable del resorte $(l)$ es efectivamente la posición $(x)$ de su extremo móvil.
+
+A veces, es útil considerar el origen de coordenadas en el punto donde el resorte en reposo tiene longitud natural $(l_0)$. Esto es equivalente a tomar $l_0 = 0$ y pensar que el resorte tiene un largo infinitesimal, siendo una partícula que se comporta como si estuviese adosada a un resorte. Por este motivo, a veces los libros usan la notación $\Delta l = \Delta x = x$.
+
+
+\section{Fuerza de fricción}
+
+\subsection{Fricción entre superficies}
+
+En la realidad, las superficies de los cuerpos pueden ser más o menos rugosas. Pero a nivel microscópico, se observa que no pueden ser completamente lisas. La rugosidad de una superficie está dada por el coeficiente de rozamiento $(\mu)$.
+
+\begin{itemize}
+    \item  Si el cuerpo está en reposo con respecto a la superficie de contacto, se usa el coeficiente de rozamiento   estático $(\mu_e)$.
+    
+    \item Si el cuerpo está en movimiento relativo con la superficie de contacto, se usa el coeficiente de rozamiento   dinámico $(\mu_d)$
+\end{itemize}
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-1.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+La fuerza de fricción es aquella que hace que los cuerpos presenten una resistencia a ser movidos. Su naturaleza es microscópica, ya que existe debido a las imperfecciones de contacto entre las moléculas de las superficies. La Fuerza de Rozamiento es proporcional a la Fuerza Normal que se de entre las superficies de contacto:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Fuerza de fricción en superficies}
+    \begin{equation*}
+        \Vec{\sub{F}{roz}} = - \mu \Vec{N}
+    \end{equation*}
+\end{mdframed}
+
+El rozamiento aparece solo si los cuerpos en contacto tienden a desplazarse entre sí, generalmente debido a una fuerza externa. La Fuerza de Fricción que se da en un cuerpo va a tener sentido opuesto hacia adonde tendería a moverse el cuerpo. Naturalmente, también va a haber rozamiento si hay velocidad relativa entre los cuerpos.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Es más fácil aumentar la rapidez de un cuerpo en movimiento que la de uno que esté en reposo. La fuerza de rozamiento es parte de la causa de que esto sea así, ya que esta va a ser menor si el cuerpo está en movimiento y mayor si el cuerpo está en reposo a punto de empezar a moverse. Si el cuerpo está en movimiento, la fuerza de fricción es prácticamente constante. En cambio, si los cuerpos están en reposo relativo, la fuerza de fricción puede variar. De hecho, en este caso solo es posible definirla cuando el cuerpo está a punto de empezar a moverse, cuando es máxima.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-3.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+El par de reacción de la fuerza de fricción se da en el otro de los dos cuerpos en contacto, con sentido opuesto.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-4.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+
+\subsection{Rozamiento en fluidos}
+
+Si un cuerpo puntual se mueve en un fluido, como el aire o el agua, va a chocar con las moléculas del medio por el que se mueve. Estos pequeños choques van a oponerse al movimiento, y por eso este fenómeno se lo considera rozamiento.
+
+Cuanto más rápido se mueva el cuerpo, más significativos van a ser los choques. Pero además, eventualmente cuando los choques hayan frenado casi por completo al cuerpo, el fluido va a oponer poca resistencia al movimiento. Se define así, la fuerza de fricción en fluidos que va a ser proporcional a la velocidad del cuerpo y a una constante $(b)$ que está relacionada con la viscosidad del fluido.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:fluidFrictionForce}
+    \end{defn}
+    \cusTi{Fuerza de fricción en fluidos}
+    \begin{equation*}
+        \Vec{\sub{F}{roz}} = - b \, \Vec{v}
+    \end{equation*}
+\end{mdframed}
+
+Si se deja caer un cuerpo en caída libre desde el reposo, cada vez va a caer con más velocidad, por la aceleración de la gravedad. Va a llegar un punto en que la velocidad sea máxima, de manera tal que la fuerza de fricción iguale en módulo al peso. Entonces la partícula quedaría en equilibrio y ya no aceleraría, cayendo desde ese momento con velocidad constante. Veamos cómo un cuerpo bajo la aceleración de un campo uniforme, como el gravitatorio, tiende a moverse con velocidad final constante por la fricción viscosa.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-5.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Comenzamos por hacer la sumatoria de fuerzas y aplicar la segunda Ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}):
+\begin{gather*}
+    \sum \Vec{F} = m\Vec{a} = \Vec{\weight} - \Vec{\sub{F}{roz}}
+    \\
+    \sum F_x = ma = mg - bv
+    \\
+    a(t) + \frac{b}{m} v(t) = g
+    \\
+    \ddot{x}(t) + \frac{b}{m} \dot{x}(t) = g
+\end{gather*}
+
+Para resolver la ecuación diferencial hallada, se calcula la solución general $x(t)$ a partir de sumar una solución homogénea $x_h(t)$ más una solución particular $x_p$.
+
+La solución homogénea surge de anular el término independiente:
+\begin{align*}
+    \ddot{x} + \frac{b}{m} \dot{x} &= 0
+    \\
+    \ddot{x} &= - \frac{b}{m} \dot{x}
+    \\
+    \frac{\dif}{\dif t} \dot{x} &= - \frac{b}{m} \dot{x}
+    \\
+    \frac{\dif \dot{x}}{\dot{x}} &= - \frac{b}{m} \dif t
+    \\
+    \int_{\dot{x}_i}^{\dot{x}_h} \frac{\dif \dot{x}}{\dot{x}} &= - \frac{b}{m} \int_{t_0}^t \dif t
+    \\
+    \ln{ \left( \frac{\dot{x}_h}{\dot{x}_i} \right) } &= - \frac{b}{m} (t-t_0)
+    \\
+    \dot{x}_h(t) &= \dot{x}_i \, e^ {\tfrac{-b(t-t_0)}{m}}
+\end{align*}
+
+La solución particular resulta de suponer que, eventualmente transcurrido cierto tiempo $(t_1)$ la aceleración va a ser nula:
+\begin{align*}
+    \ddot{x}(t_1) &= 0
+    \\
+    \frac{b}{m} \, \dot{x}(t_1) &= g
+    \\
+    \dot{x}(t_1) &= \frac{mg}{b} = \dot{x}_p
+\end{align*}
+
+Sumando ambas soluciones, teniendo en cuenta que $t_0 = \SI{0}{\second}$ ya que el movimiento empieza cuando el cuerpo se deja caer, se tiene:
+\begin{align*}
+    \dot{x}(t) &= \dot{x}_h(t) + \dot{x}_p
+    \\
+    \dot{x}(t) &= \dot{x}_i \, e^ {\tfrac{-b(t-t_0)}{m}} + \frac{mg}{b}
+    \\
+    \dot{x}(t) &= \dot{x}_i \, e^ {-bt/m} + \frac{mg}{b}
+\end{align*}
+
+Como la partícula se deja caer del reposo en $t_0 = \SI{0}{\second}$ la velocidad inicial tiene que ser nula $\dot{x}(t_0) = 0$. Reemplazando esto en la ecuación anterior se tiene que $\dot{x}_i = -\frac{mg}{b}$. Observar que $x_i$ no es la velocidad inicial si no el estado inicial de la solución homogénea. Finalmente, se tiene que la solución general es:
+\[ \dot{x}(t) = \frac{mg}{b} \left( 1-e^{-bt/m} \right) \]
+
+Tomando límite, se observa que la velocidad tiende a un valor constante:
+\[ \lim_{t \to \infty} \dot{x}(t) = \frac{mg}{b} (1-0) = \frac{mg}{b} \]
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-rozamiento-6.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+
+
 
 \end{document}
