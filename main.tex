@@ -45,8 +45,9 @@
 \noindent
 \textbf{Prefacio}
 
-La versión digital más reciente de este texto puede ser descargada gratuitamente de
+La versión digital más reciente de este texto es gratis y puede ser descargada de
 \begin{center}
+    \small
     \url{https://github.com/mrmalvicino/super-libro-de-fisica}
 \end{center}
 
@@ -164,7 +165,7 @@ A continuación se muestra un ejemplo de una trayectoria curva que representa el
     \begin{center}
         \vspace{-5cm}
         \def\svgwidth{\linewidth}
-        \input{./images/cinematica-boat.pdf_tex}
+        \input{./images/cinematica-boat-1.pdf_tex}
         \vspace{-6cm}
     \end{center}
 
@@ -717,7 +718,7 @@ El largo de las flechas, indica la magnitud del vector.
 \begin{center}
     \vspace{-5cm}
     \def\svgwidth{\linewidth}
-    \input{./images/cinematica-tiro-oblicuo.pdf_tex}
+    \input{./images/cinematica-tiro-oblicuo-1.pdf_tex}
     \vspace{-6cm}
 \end{center}
 
@@ -1265,7 +1266,7 @@ Las funciones escalares se grafican en dos dimensiones y un eje representa el co
         \vspace{-6cm}
         \def\svgwidth{\linewidth}
         \input{./images/cinematica-boat-3.pdf_tex}
-        \vspace{-6cm}
+        \vspace{-3cm}
     \end{center}
     
     Como se vió anteriormente, en función de la información que necesitemos conocer vamos a poder hacer diferentes gráficos, según qué representen los ejes. En Cinemática para analizar gráficamente la velocidad o la aceleración como son derivadas con respecto del tiempo, resulta útil hacer los gráficos de las funciones escalares (Sec. \ref{sec:scalarFunctions}) que son las componentes de sus vectores.
@@ -1292,10 +1293,10 @@ Las funciones escalares se grafican en dos dimensiones y un eje representa el co
     \]
     
     \begin{center}
-        \vspace{-6cm}
+        \vspace{-2cm}
         \def\svgwidth{\linewidth}
         \input{./images/cinematica-boat-4.pdf_tex}
-        \vspace{-6cm}
+        \vspace{-2cm}
     \end{center}
     
     Como conclusiones de la velocidad, observando al eje $x$ podemos afirmar que el bote sale del muelle $A$ con gran velocidad, se va frenando hasta que llega lentamente al muelle $B$, donde su velocidad es nula, y cuadráticamente aumenta su velocidad para llegar (y posiblemente estrellarse) contra el muelle $C$. En cuanto al eje $y$ podemos observar que el bote parte con velocidad negativa, y esto tiene sentido porque el muelle $B$ se encuentra más al sur del muelle $A$. Para ir del muelle $B$ al $C$, el bote tiene que dirigirse hacia el norte y por eso comienza a adoptar una velocidad positiva.
@@ -1363,6 +1364,96 @@ Finalmente, podemos clasificar los sistemas en abiertos o cerrados dependiendo d
     
     Notar, por la figura de la derecha anterior, que el movimiento del ejemplo es equivalente a un movimiento con el origen a la derecha que se da de derecha a izquierda, con los ejes orientados positivamente. Ambos movimientos se modelarían con la misma ecuación de movimiento mencionada.
 \end{mdframed}
+
+
+\chapter{Dinámica}
+\label{cha:dinamics}
+
+
+La dinámica estudia \emph{por qué} se produce el movimiento.
+Muchas veces permite predecir el movimiento que tendrá un conjunto de objetos vinculados de diferentes formas, cuando se lo altera desde el exterior.
+
+
+\section{Conceptos de masa y fuerza}
+
+De manera intuitiva, uno puede entender la masa de un objeto material como la cantidad de material que hay de ese objeto. Según el modelo atómico, un material está compuesto por moléculas, formadas por átomos. Desde este punto de vista, la masa $(m)$ de un cuerpo sería proporcional a la cantidad $(N)$ de moléculas que haya del material, es decir $ m \propto N $.
+
+En lo cotidiano, notamos que cuanto más masivo es un objeto, más nos cuesta moverlo. Por esto, en términos de mecánica clásica, la masa de un cuerpo está definida como la resistencia al cambio de movimiento. Es decir, cuanta más masa tenga un cuerpo más inercia va a tener. En otras palabras, cuanta más masa tenga un cuerpo, si está quieto más le va a costar aumentar su rapidez y si está moviéndose, más le va a costar disminuirla.
+
+En esta definición de masa se determinó una relación entre esta magnitud y el cambio de movimiento o la velocidad de un cuerpo. La definición de Fuerza, surge para dar nombre a aquello que hace que un cuerpo cambie su velocidad. Se podría concluir entonces, que la Fuerza es la razón de cambio de la velocidad multiplicada por la masa. De esta conclusión se deduce, además, que la fuerza es una magnitud vectorial al igual que la velocidad.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:force}
+    \end{defn}
+    \cusTi{Fuerza}
+    \begin{equation*}
+        \Vec{F} = m \, \frac{\dif}{\dif t} \Vec{v}(t)
+    \end{equation*}
+\end{mdframed}
+
+El concepto de fuerza fue descrito originalmente por Arquímedes y Aristóteles. Ellos suponían que el estado natural al que los cuerpos tendían, si no se actuaba sobre ellos, era el reposo. Galileo Galilei fue el primero en dar una definición de fuerza dinámica completamente contraria. Definió que un cuerpo sobre el que no actúa ninguna fuerza permanece en movimiento inalterado.
+
+Luego, Isaac Newton tomó este concepto de fuerza propuesto por Galileo y desarrolló un modelo matemático para describirlo. Algunos años antes, Gottfried Leibniz había desarrollado los mecanismos matemáticos que luego usó Newton. Actualmente, se los considera a ambos los creadores del cálculo infinitesimal.
+
+
+\section{Leyes de Newton}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:NewtonFirstLaw}
+    \end{defn}
+    \cusTi{Primera ley de Newton}
+    \cusTe{``Si la fuerza neta aplicada sobre un cuerpo es nula, entonces no experimenta aceleración y su velocidad es constante.''}
+    \begin{equation*}
+        \Vec{F} = \vec{0} \iff \Vec{a} = \vec{0}
+    \end{equation*}
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:NewtonSecondLaw}
+    \end{defn}
+    \cusTi{Segunda ley de Newton}
+    \cusTe{``La aceleración de un cuerpo es directamente proporcional a la fuerza neta aplicada sobre el mismo e inversamente proporcional a su masa.''}
+    \begin{equation*}
+        \Vec{F} = m \, \Vec{a}
+    \end{equation*}
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:NewtonThirdLaw}
+    \end{defn}
+    \cusTi{Tercera ley de Newton}
+    \cusTe{``Si un cuerpo le hace una fuerza de acción a otro, este le va a hacer al primero una fuerza de reacción de igual magnitud pero en sentido opuesto.''}
+    \begin{equation*}
+        \Vec{F}_{12} = -\Vec{F}_{21}
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Descomposición de fuerzas}
+
+Si bien la mecánica clásica estudia cuerpos macroscópicos, se hacen aproximaciones mediante modelos de cuerpos puntuales. De aquí que se modelen los objetos como partículas, y que las fuerzas que estén actuando sobre un sistema queden representadas por vectores con origen en la partícula.
+
+Las fuerzas son magnitudes vectoriales, pero a veces están contenidas en una sola dimensión, pudiendo definirlas con un vector que tiene en una componente su intensidad, y el resto de las componentes nulas:
+\[
+  \Vec{F} = \left[ F,0 \right] = F \iVer \quad F \in \setR
+\]
+
+En este caso, para referirse a fuerzas $\Vec{F}$ que son constantemente horizontales o verticales, en vez de usar la notación $F \iVer$ o $F \jVer$, simplemente se usa $F$ como una magnitud escalar para que sea más sencillo el desarrollo algebraico.
+
+Ahora bien, esto deja de ser válido si, sobre un cuerpo, hay más de una fuerza actuando en diferentes direcciones, o si hay una sola fuerza pero que se da en una dirección distinta a la que el cuerpo tendería a moverse. En este caso, es necesario descomponer el vector y calcular las componentes de la fuerza usando trigonometría.
+
+A continuación se muestra un cuerpo $(A)$ al que se le aplica una fuerza $(\Vec{F})$ de cierta intensidad $(F)$ y en cierta dirección, formando un ángulo $(\theta)$ con el eje $x$. Es importante notar que solo estamos analizando la fuerza externa $\Vec{F}$ que actúa sobre el cuerpo, sin tener en cuenta los efectos de la gravedad o del rozamiento por contacto con la superficie, ya que estos conceptos se ven más adelante. En realidad, el cuerpo estaría sometido a otras fuerzas externas, pero por ahora no las analizaremos y solo estudiaremos cómo descomponer $\Vec{F}$.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/dinamica-fuerza-1.pdf_tex}
+    \vspace{-6cm}
+\end{center}
 
 
 \end{document}

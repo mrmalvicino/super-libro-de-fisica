@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg19198"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="dinamica-rozamiento-5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19200"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="397.27954"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19195" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path2943"
+       cx="154.60014"
+       cy="137.04819"
+       r="7.5406251"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="151.95769"
+       y="139.57346"
+       id="text825-7-1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"><tspan
+         sodipodi:role="line"
+         id="tspan823-7-1"
+         x="151.95769"
+         y="139.57346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583">A</tspan></text>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(19.180115,52.826252)"
+       id="g1511-6-8-4"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1507-8-1-4"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1509-0-1-5"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       id="flowRoot1521-7-6-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,99.877815,64.864982)"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"><flowRegion
+         id="flowRegion1515-8-1-5"><rect
+           id="rect1513-2-6-0"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1519-2-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">F<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan2346-5">r</flowSpan></flowPara></flowRoot>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(49.079915,53.426152)"
+       id="g1511-5"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1507-4"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1509-9"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       id="flowRoot1521-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,121.35862,63.968172)"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"><flowRegion
+         id="flowRegion1515-9"><rect
+           id="rect1513-7"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1519-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">m.g</flowPara></flowRoot>
+    <g
+       transform="rotate(180,31.288978,136.13967)"
+       id="g2943-4-8-1-8-6"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -97.30443,109.79942 V 129.8277"
+         id="path849-1-3-9-9-8-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -97.30443,109.79942 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         id="path872-7-3-2-6-1-13"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="translate(3.768615,54.041322)"
+       id="g1511-5-6"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1507-4-1"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1509-9-8"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       xml:space="preserve"
+       id="flowRoot1521-1-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,85.712115,64.144032)"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"><flowRegion
+         id="flowRegion1515-9-9"><rect
+           id="rect1513-7-3"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1519-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">v</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.56122,142.24457 h 3.5144"
+       id="path3243"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       r="7.5406251"
+       cy="137.04819"
+       cx="67.616867"
+       id="circle3315"
+       style="fill:#000000;fill-opacity:0.196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="text3319"
+       y="139.57346"
+       x="64.974533"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.264583"
+         y="139.57346"
+         x="64.974533"
+         id="tspan3317"
+         sodipodi:role="line">A</tspan></text>
+    <g
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       id="g3325"
+       transform="translate(-67.802985,52.826252)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         id="path3321"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         id="path3323"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <flowRoot
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,12.894815,64.864982)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3335"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3329"><rect
+           y="314.73935"
+           x="150.68999"
+           height="62.55191"
+           width="79.846931"
+           id="rect3327" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
+         id="flowPara3333">F<flowSpan
+   id="flowSpan3331"
+   style="font-size:65%;baseline-shift:sub">r</flowSpan></flowPara></flowRoot>
+    <g
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       id="g3341"
+       transform="translate(-37.903085,53.426152)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         id="path3337"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         id="path3339"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <flowRoot
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,34.375615,63.968172)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3349"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3345"><rect
+           y="314.73935"
+           x="150.68999"
+           height="62.55191"
+           width="79.846931"
+           id="rect3343" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
+         id="flowPara3347">m.g</flowPara></flowRoot>
+    <g
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g3355"
+       transform="rotate(180,-12.202533,136.13967)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3351"
+         d="M -97.30443,109.79942 V 129.8277"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3353"
+         d="m -97.30443,109.79942 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(164.31131,97.517782)"
+       id="g3361"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -101.94692,50.063701 V 60.737548"
+         id="path3357"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -101.94692,50.063701 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         id="path3359"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,138.28231,202.98211)"
+       id="g3367"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -101.94692,50.063701 V 60.737548"
+         id="path3363"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -101.94692,50.063701 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         id="path3365"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       id="g3373"
+       transform="translate(-83.214485,50.158342)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99982,95.870887 -2.02754,-10e-7"
+         id="path3369"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
+         id="path3371"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <flowRoot
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.270985,60.261062)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3381"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion3377"><rect
+           y="314.73935"
+           x="150.68999"
+           height="62.55191"
+           width="79.846931"
+           id="rect3375" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
+         id="flowPara3379">v</flowPara></flowRoot>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3383"
+       d="m 34.578215,142.24457 h 3.5144"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="g3406"
+       transform="matrix(-1,0,0,1,52.043015,37.782062)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3402"
+         d="M -97.30443,109.79942 V 129.8277"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3404"
+         d="m -97.30443,109.79942 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="rotate(180,13.014578,136.03614)"
+       id="g3423"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz5.png">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -97.30443,109.79942 V 129.8277"
+         id="path3419"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -97.30443,109.79942 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         id="path3421"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>

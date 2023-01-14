@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg13439"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="algebra-producto-interno.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13441"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="397.27954"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs13436" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot882-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,49.826478,60.968613)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion878-1"><rect
+           id="rect876-8"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara880-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols'">a</flowPara></flowRoot>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-19-8-7"
+       d="m 89.809678,144.27527 -1.2736,-0.34122 c 0,0 1.2157,-0.36924 2.6013,-4.61429 -0.9225,4.36912 -0.054,5.29682 -0.054,5.29682 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-19-8-5"
+       d="m 110.05748,142.78291 -0.6592,-1.14187 c 0,0 1.1208,0.59861 5.1022,-1.42328 -3.7417,2.4371 -3.7837,3.70702 -3.7837,3.70702 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1029-4-5-5"
+       d="m 119.56178,138.63178 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1031-5-4-0"
+       d="m 119.56178,138.63178 v -0.3717 c 0,0 0.1757,0.3041 1.3421,0.3717 -1.1665,0.067 -1.3421,0.3717 -1.3421,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.23195"
+       y="143.50786"
+       id="text13701-3-1"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-1-6"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="150.23195"
+         y="143.50786">v</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 86.577378,107.94154 v 48.3974"
+       id="path997-8-9-6"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 156.14368,156.3384 -69.566702,0.001"
+       id="path1526-3"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1905-9-1-9"
+       d="m 156.14368,156.3384 v -1.31851 c 0,0 0.6713,1.07881 5.1302,1.31851 -4.4589,0.23974 -5.1302,1.31873 -5.1302,1.31873 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g3797"
+       inkscape:transform-center-x="0.95255625"
+       inkscape:transform-center-y="0.95254814"
+       transform="matrix(0.50727128,-0.13592293,0.13592293,0.50727128,-835.78526,497.54968)"
+       style="stroke-width:1.90416"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.571248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1864.6411,-173.0104 -83.8298,48.3966"
+         id="path1528-9"
+         inkscape:export-filename="C:\Backup\Academic\My Notes\Super Apunte EyM\PNG\BvF.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1907-9-5-3"
+         d="m 1780.8113,-124.6138 0.6593,1.1419 c 0,0 -1.1208,-0.5986 -5.1022,1.4232 3.7417,-2.4371 3.7836,-3.707 3.7836,-3.707 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.504601;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Super Apunte AM2\PNG\Int5.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1903-1-7-1"
+       d="m 86.577378,107.94154 h -1.3185 c 0,0 1.0788,-0.6713 1.3185,-5.1303 0.2397,4.459 1.3185,5.1303 1.3185,5.1303 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.23335"
+       y="177.82433"
+       id="text13701-9-1-9"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-8-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="100.23335"
+         y="177.82433">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.624702"
+       y="184.78186"
+       id="text13701-9-1-9-0"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-8-7-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="94.624702"
+         y="184.78186">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.68183"
+       y="170.4579"
+       id="text13701-9-1-9-9"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-8-7-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="105.68183"
+         y="170.4579">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.46577"
+       y="124.13091"
+       id="text13701-9-63-6"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-8-06-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="109.46577"
+         y="124.13091">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="163.26064"
+       y="153.42802"
+       id="text13701-9-5-7"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-8-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="163.26064"
+         y="153.42802">y</tspan></text>
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 86.576978,156.3394 27.923502,27.9235"
+       id="path6650"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="M 86.576978,156.33941 114.50048,140.21776"
+       id="path6652"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 86.577378,112.2946 27.923102,27.92314 v 44.0452"
+       id="path6654"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 58.652178,184.2629 h 55.848302 l 27.9243,-27.9243"
+       id="path6656"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 86.577378,123.61657 20.745302,20.7453 v 32.72323"
+       id="path3759"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 65.830278,177.0851 h 41.492402 l 20.7463,-20.7463"
+       id="path3761"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 86.576978,156.33941 4.5604,-17.01965"
+       id="path3648"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 86.577378,134.75976 4.56,4.56 v 30.92281"
+       id="path3650"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.04078,156.33914 -13.903402,13.90343 h -18.4642"
+       id="path3653"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 91.137378,139.31976 16.185302,5.04211"
+       id="path3655"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 91.137378,170.24257 -4.5604,-13.90317"
+       id="path6608"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9728"
+       d="m 102.87968,146.92702 -0.6592,-1.14187 c 0,0 1.1208,0.59861 5.1022,-1.42328 -3.7417,2.4371 -3.7837,3.70702 -3.7837,3.70702 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="176.65077"
+       y="153.42802"
+       id="text9732"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan9730"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="176.65077"
+         y="153.42802">q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="144.36165"
+       y="154.23192"
+       id="text9838"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan9836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="144.36165"
+         y="154.23192">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="111.9875"
+       y="134.71422"
+       id="text10642"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan10640"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="111.9875"
+         y="134.71422">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="106.94403"
+       y="113.54756"
+       id="text10748"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan10746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.264583"
+         x="106.94403"
+         y="113.54756">r</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path13970"
+       d="m 101.95058,149.48383 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path13972"
+       d="m 101.95058,149.48383 v -0.3717 c 0,0 0.1757,0.3041 1.3421,0.3717 -1.1665,0.067 -1.3421,0.3717 -1.3421,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.4828"
+       y="154.35991"
+       id="text13976"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13974"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="134.4828"
+         y="154.35991">w</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path14212"
+       d="m 81.941478,143.79943 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path14214"
+       d="m 81.941478,143.79943 v -0.3717 c 0,0 0.1757,0.3041 1.3421,0.3717 -1.1665,0.067 -1.3421,0.3717 -1.3421,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.84259"
+       y="148.67549"
+       id="text14218"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan14216"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="113.84259"
+         y="148.67549">u</tspan></text>
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 101.94808,142.68755 -5.526802,3.19086 5.651702,1.51436"
+       id="path17499"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 91.137378,139.31976 16.185302,5.04211 -20.745702,11.97754 z"
+       id="path17614"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\scalarprod.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

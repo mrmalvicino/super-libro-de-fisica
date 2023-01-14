@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg103224"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="dinamica-fuerza-3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview103226"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="172.17931"
+     inkscape:cy="550.82473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs103221" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2972-9-5"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.64343,149.38829 c -1.0143,-2.31207 11.6887,-4.52569 11.6887,-4.52569 0,0 2.5644,-0.48315 2.8122,-2.54061 m 16.0913,-1.13087 c -0.2777,-2.50942 -12.3857,1.92505 -12.3857,1.92505 0,0 -2.4623,0.86374 -3.7056,-0.79418"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot882-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,70.14883,68.02833)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion878-12"><rect
+           id="rect876-3"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara880-39"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols'">D</flowPara></flowRoot>
+    <g
+       id="g1202-7"
+       transform="rotate(75,-12.24659,147.53095)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path849-99-0"
+         d="m 22.678572,24.230585 v 27.6823"
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path872-19-0"
+         d="m 22.678572,24.230585 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13025 0.23972,4.45899 1.31852,5.13025 1.31852,5.13025 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g8901"
+       transform="translate(-1025.0258,232.2762)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path849-99-0-8"
+         d="m 1090.0223,-69.285235 -17.2092,4.533771"
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path872-19-0-2"
+         d="m 1090.0223,-69.285236 -0.3413,-1.273593 c 0,0 0.9276,0.868306 5.2967,-0.05421 -4.245,1.385623 -4.6142,2.601399 -4.6142,2.601399 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g8901-3"
+       transform="rotate(180,617.51291,36.133935)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:connector-curvature="0"
+         id="path849-99-0-8-7"
+         d="m 1090.0223,-69.285235 -17.2092,4.533771"
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path872-19-0-2-3"
+         d="m 1090.0223,-69.285236 -0.3413,-1.273593 c 0,0 0.9276,0.868306 5.2967,-0.05421 -4.245,1.385623 -4.6142,2.601399 -4.6142,2.601399 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path872-19-0-1"
+       d="m 95.26103,154.88156 -0.3412,-1.27359 c 0,0 0.9276,0.86831 5.2967,-0.0542 -4.245,1.38563 -4.6142,2.6014 -4.6142,2.6014 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1029-4-5-3"
+       d="m 119.29593,153.73205 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1031-5-4-02"
+       d="m 119.29593,153.73205 v -0.3717 c 0,0 0.1757,0.3041 1.3421,0.3717 -1.1665,0.067 -1.3421,0.3717 -1.3421,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.56409"
+       y="158.60812"
+       id="text13701-3-3"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-1-4"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="153.56409"
+         y="158.60812">r</tspan></text>
+    <path
+       id="path1072-2"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.01903,159.99197 1.7859,-1.7859 1.786,1.7859"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="133.12231"
+       y="164.009"
+       id="text13701-0-9"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-0-9"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="133.12231"
+         y="164.009">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.95203"
+       y="141.28818"
+       id="text13701-0-9-8"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-0-9-6"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="132.95203"
+         y="141.28818">r</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1029-4-2-9"
+       d="m 148.18353,128.18981 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1031-5-7-3"
+       d="m 148.18353,128.18981 v -0.3717 c 0,0 0.1757,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="175.58997"
+       y="134.90544"
+       id="text54459-2"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan54457-7"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="175.58997"
+         y="134.90544">F<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9522">12</tspan></tspan></text>
+    <path
+       id="path3933"
+       style="fill-opacity:0.2;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 82.12463,168.69113 a 9.939086,9.939086 0 0 1 -12.1728,-7.02797 9.939086,9.939086 0 0 1 7.028,-12.17284 9.939086,9.939086 0 0 1 12.1728,7.02797 9.939086,9.939086 0 0 1 -7.028,12.17284 z"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path3933-6"
+       style="fill-opacity:0.2;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 133.01993,155.05375 a 9.939086,9.939086 0 0 1 -12.1728,-7.02797 9.939086,9.939086 0 0 1 7.028,-12.17284 9.939086,9.939086 0 0 1 12.1728,7.02797 9.939086,9.939086 0 0 1 -7.028,12.17284 z"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.06909"
+       y="146.47736"
+       id="text13701-3-3-6-0"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-1-4-0-5"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="160.06909"
+         y="146.47736">m<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4304-1">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.42322"
+       y="160.11473"
+       id="text13701-3-3-6"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan13699-1-4-0"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="112.42322"
+         y="160.11473">m<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4304">1</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9924"
+       d="m 53.95603,153.33269 h -1.9118"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path9926"
+       d="m 53.95603,153.33269 v -0.3717 c 0,0 0.1757,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.354614"
+       y="160.04829"
+       id="text9932"
+       transform="skewX(-13.401959)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\masas.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan9930"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
+         x="87.354614"
+         y="160.04829">F<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9928">21</tspan></tspan></text>
+  </g>
+</svg>

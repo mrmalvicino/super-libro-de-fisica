@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8971"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="dinamica-elastica-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8973"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="397.27954"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8968">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4496"
+       id="linearGradient4220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.29470172,-27.498648,0,3140.0324,316.76541)"
+       x1="-135.54034"
+       y1="104.68308"
+       x2="-30.737953"
+       y2="104.68308" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4496">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4492" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4494" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9517"
+       transform="translate(15.466178,-6.113545)">
+      <g
+         id="g1563"
+         inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc3.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(-284.21618,37.16908)">
+        <g
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           style="stroke-width:0.850963"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           transform="matrix(1.3809521,0,0,-1,20.635915,328.29161)"
+           id="g4644-3">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2536-4-8"
+             d="M 191.23135,276.86563 H 331.54786"
+             style="fill:none;stroke:#000000;stroke-width:0.255289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1000-6-8-3"
+             d="m 331.54786,276.86563 v 30.79703 H 191.23134 v -30.79703 z"
+             style="opacity:0.2;fill:url(#linearGradient4220);fill-opacity:1;stroke:none;stroke-width:0.255289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4646-2"
+           d="M 381.60243,51.42598 V 72.52571"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235"
+           d="M 329.44172,51.42598 V 72.52571"
+           id="path4648-3"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4646-1-9"
+           d="M 433.76314,51.42598 V 72.52571"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:0.392157;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle2802-7-7-1"
+           cx="170.88379"
+           cy="-381.60242"
+           r="2.6458333" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:0.392157;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle2802-7-7-7-5"
+           cx="146.3941"
+           cy="-329.44171"
+           r="2.6458333" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:0.392157;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle2802-7-7-9-6"
+           cx="195.37549"
+           cy="-433.76315"
+           r="2.6458333" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4871-3"
+           d="M 284.71726,195.37548 H 431.11732"
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.2, 7.2;stroke-dashoffset:0;stroke-opacity:0.588235" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4873-1"
+           d="m 284.71725,170.88956 h 94.23934"
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.2, 7.2;stroke-dashoffset:0;stroke-opacity:0.588235" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4879-7"
+           d="m 284.71723,51.42598 v 162.834"
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.2, 7.2;stroke-dashoffset:0;stroke-opacity:0.588235"
+           d="m 284.71724,146.3941 h 42.07865"
+           id="path4896-5"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           transform="matrix(0.44209728,0,0,0.44209728,202.87469,23.12742)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           id="flowRoot1027-6-2-2"
+           xml:space="preserve"><flowRegion
+             style="stroke-width:0.598473"
+             id="flowRegion1023-6-3-7"><rect
+               style="stroke-width:0.59847313"
+               y="314.73935"
+               x="150.68999"
+               height="62.55191"
+               width="79.846931"
+               id="rect1021-2-3-76" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473"
+             id="flowPara1025-1-5-4">l<flowSpan
+   id="flowSpan4958-5"
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473">0</flowSpan></flowPara></flowRoot>
+        <flowRoot
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           xml:space="preserve"
+           id="flowRoot4968-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           transform="matrix(0.44209728,0,0,0.44209728,201.60625,-2.9107797)"><flowRegion
+             style="stroke-width:0.598473"
+             id="flowRegion4962-7"><rect
+               style="stroke-width:0.59847313"
+               id="rect4960-8"
+               width="79.846931"
+               height="62.55191"
+               x="150.68999"
+               y="314.73935" /></flowRegion><flowPara
+             id="flowPara4966-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473">l<flowSpan
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473"
+   id="flowSpan4964-6">m</flowSpan></flowPara></flowRoot>
+        <flowRoot
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           transform="matrix(0.44209728,0,0,0.44209728,200.9305,50.289374)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           id="flowRoot4978-4"
+           xml:space="preserve"><flowRegion
+             style="stroke-width:0.598473"
+             id="flowRegion4972-9"><rect
+               style="stroke-width:0.59847313"
+               y="314.73935"
+               x="150.68999"
+               height="62.55191"
+               width="79.846931"
+               id="rect4970-3" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473"
+             id="flowPara4976-4">l<flowSpan
+   id="flowSpan4974-5"
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473">M</flowSpan></flowPara></flowRoot>
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle2802-7-7-7-7-3"
+           cx="146.3941"
+           cy="-284.71722"
+           r="2.6458333" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           r="2.6458333"
+           cy="-284.71722"
+           cx="170.88379"
+           id="circle5017-8"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle5019-8"
+           cx="195.37549"
+           cy="-284.71722"
+           r="2.6458333" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:connector-curvature="0"
+           id="path3890-5-2-5"
+           d="m 329.44172,72.52565 c -3.01084,0.23983 -5.91037,0.62583 -8.28001,1.12743 -2.36958,0.5017 -4.19923,1.11818 -5.22776,1.7853 -1.02855,0.66713 -1.24828,1.38353 -0.63209,2.0707 0.61609,0.68722 2.07109,1.34349 4.14991,1.89941 2.07895,0.55591 4.77911,1.00982 7.70707,1.32192 2.92792,0.31224 6.07622,0.48123 8.98879,0.50854 2.91268,0.0262 5.57957,-0.0866 7.6171,-0.30021 2.03742,-0.2136 3.43572,-0.52568 3.99663,-0.8657 0.56055,-0.34006 0.27737,-0.70654 -0.80373,-1.0212 -1.08145,-0.31437 -2.96241,-0.57576 -5.36674,-0.72065 -2.40439,-0.14486 -5.3279,-0.17162 -8.34536,-0.053 -3.01759,0.11914 -6.12065,0.38573 -8.86056,0.7852 -2.7398,0.39939 -5.10629,0.93237 -6.75969,1.54596 -1.65341,0.61358 -2.58468,1.30695 -2.66346,2.00488 -0.0785,0.69793 0.70035,1.3988 2.21914,2.02657 1.51909,0.62775 3.77798,1.18069 6.44651,1.60453 2.66851,0.42402 5.74075,0.71701 8.77094,0.86328 3.03013,0.14642 6.00871,0.14485 8.50597,0.0209 2.49715,-0.12279 4.50278,-0.36735 5.72995,-0.67143 1.22705,-0.30437 1.66753,-0.6677 1.26229,-1.01207 -0.40529,-0.34427 -1.65987,-0.66808 -3.57784,-0.89924 -1.91799,-0.23144 -4.49736,-0.36841 -7.36196,-0.36632 -2.86447,0.002 -6.00714,0.14381 -8.97254,0.42929 -2.96531,0.28548 -5.74348,0.71577 -7.93438,1.25258 -2.19081,0.53683 -3.78439,1.17979 -4.55387,1.86078 -0.76953,0.68098 -0.70838,1.39865 0.17154,2.07428 0.87903,0.67566 2.5774,1.30758 4.84537,1.82997 2.26805,0.52218 5.10194,0.93357 8.08939,1.19999 2.98741,0.26608 6.12024,0.38679 8.94523,0.37052 2.82494,-0.0157 5.33186,-0.17108 7.16034,-0.41407 1.82861,-0.2435 2.96945,-0.57507 3.2617,-0.92171 0.2919,-0.34687 -0.26982,-0.70657 -1.59985,-1.00262 -1.33033,-0.29599 -3.42916,-0.52643 -5.98923,-0.63306 -2.56012,-0.10653 -5.57625,-0.0881 -8.61039,0.0781 -3.0341,0.16583 -6.07722,0.47966 -8.68967,0.92064 -2.61242,0.44083 -4.78403,1.00871 -6.20357,1.64599 -1.41964,0.63725 -2.07872,1.34302 -1.88628,2.04004 0.19246,0.69704 1.24048,1.38379 2.98804,1.98637 1.74753,0.60257 4.19334,1.11914 6.98019,1.50087 2.78685,0.38153 5.90834,0.62708 8.91167,0.72685 3.00339,0.0997 5.8791,0.0535 8.21237,-0.10706 2.3333,-0.16006 4.11416,-0.43348 5.08856,-0.75499 0.9744,-0.32117 1.13484,-0.6893 0.46287,-1.02534 -0.67203,-0.33587 -2.1796,-0.63842 -4.29994,-0.83847 -2.12028,-0.19994 -4.85049,-0.296 -7.79306,-0.24928 -2.94251,0.0473 -6.08958,0.23668 -8.98558,0.56772 -2.89605,0.33114 -5.5309,0.80279 -7.52547,1.37188 -1.99463,0.56908 -3.33937,1.2348 -3.8437,1.92559 -0.50415,0.69085 -0.16224,1.40534 0.97277,2.06546 1.13484,0.66009 3.06318,1.26403 5.50205,1.75008 2.43902,0.48597 5.38409,0.85265 8.40713,1.07265 3.02299,0.21989 6.1154,0.29283 8.8302,0.23301 2.71474,-0.0598 5.04152,-0.25086 6.64648,-0.52059 1.60497,-0.26976 2.47935,-0.61711 2.50075,-0.96617 0.0234,-0.34898 -0.81489,-0.69824 -2.38329,-0.97193 -1.56857,-0.27394 -3.86859,-0.47021 -6.56386,-0.53608 -2.69537,-0.0661 -5.78011,-1.7e-4 -8.80653,0.21255 -3.02653,0.21254 -5.98532,0.57287 -8.44949,1.0529 -2.46425,0.4802 -4.42364,1.07984 -5.59807,1.73708 -1.17438,0.65731 -1.55594,1.3711 -1.09389,2.06309 0.46228,0.69199 1.77103,1.36055 3.73309,1.93444 1.96213,0.57394 4.57517,1.0515 7.45814,1.38942 2.8829,0.33797 6.02864,0.535 8.98126,0.58884 2.95269,0.054 5.70244,-0.0368 7.85314,-0.23146 2.15076,-0.19469 3.69269,-0.49381 4.40658,-0.82828 0.71418,-0.33429 0.59283,-0.70265 -0.34075,-1.0263 -0.93376,-0.32379 -2.682,-0.60083 -4.98767,-0.76672 -2.30566,-0.16585 -5.16502,-0.21886 -8.16195,-0.12648 -2.997,0.0924 -6.12338,0.33115 -8.92691,0.70596 -2.80348,0.3747 -5.27393,0.88618 -7.05638,1.48446 -1.78239,0.59826 -2.86761,1.2827 -3.1027,1.9792 -0.2355,0.69657 0.38494,1.40364 1.76679,2.04431 1.38155,0.64072 3.52441,1.21321 6.11483,1.66046 2.59047,0.44712 5.62306,0.76762 8.65768,0.9409 3.03449,0.1732 6.06173,0.19838 8.64453,0.0982 2.58286,-0.10016 4.711,-0.32591 6.07965,-0.61887 1.36859,-0.29282 1.96939,-0.65147 1.71975,-0.99877 -0.25003,-0.34743 -1.35358,-0.68147 -3.14778,-0.92916 -1.79413,-0.24771 -4.27691,-0.40725 -7.08602,-0.43086 -2.80907,-0.0262 -5.93771,0.0902 -8.93232,0.34952 -2.99473,0.25926 -5.84566,0.66413 -8.14184,1.18095 -2.29619,0.51692 -4.02775,1.14506 -4.94759,1.81852 -0.91994,0.67343 -1.02089,1.39093 -0.29309,2.0737 0.72797,0.68281 2.28735,1.32927 4.4484,1.87138 2.16094,0.54206 4.92034,0.97818 7.87627,1.27106 0.5373,0.0531 1.08134,0.10182 1.62864,0.14537"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.588235;paint-order:stroke fill markers" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4646-4-1-7"
+           d="m 329.44172,122.64854 v 21.09973"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.588235" />
+        <path
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:connector-curvature="0"
+           id="path4646-4-19-8"
+           d="m 433.76315,171.62992 v 21.09973"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:connector-curvature="0"
+           id="path3890-5-9-8"
+           d="m 433.76314,72.52578 c -3.01084,0.47341 -5.91037,1.23534 -8.28001,2.22547 -2.36957,0.99033 -4.19922,2.20724 -5.22776,3.52409 -1.02854,1.31687 -1.24828,2.73101 -0.63208,4.08743 0.61609,1.35653 2.07109,2.65199 4.14991,3.74931 2.07895,1.09734 4.7791,1.99333 7.70706,2.6094 2.92792,0.61635 6.07622,0.94993 8.98879,1.00383 2.91268,0.0518 5.57957,-0.17097 7.6171,-0.59258 2.03742,-0.42163 3.43572,-1.03767 3.99663,-1.70885 0.56055,-0.67127 0.27737,-1.39466 -0.80373,-2.01579 -1.08145,-0.62055 -2.96241,-1.13651 -5.36674,-1.42254 -2.40439,-0.28592 -5.3279,-0.33875 -8.34536,-0.10464 -3.01759,0.23517 -6.12065,0.76141 -8.86056,1.54994 -2.7398,0.78835 -5.10629,1.84043 -6.75969,3.05163 -1.65341,1.21118 -2.58467,2.57986 -2.66345,3.95752 -0.0785,1.37768 0.70034,2.76115 2.21913,4.00033 1.51909,1.23915 3.77798,2.33061 6.44651,3.16722 2.66851,0.83701 5.74075,1.41535 8.77094,1.70409 3.03013,0.28903 6.00871,0.28591 8.50597,0.0413 2.49715,-0.24238 4.50278,-0.72513 5.72995,-1.32537 1.22705,-0.6008 1.66753,-1.31799 1.26229,-1.99775 -0.40529,-0.67958 -1.65987,-1.31875 -3.57784,-1.77505 -1.91799,-0.45686 -4.49736,-0.72723 -7.36196,-0.72308 -2.86447,0.004 -6.00714,0.28385 -8.97254,0.84738 -2.96531,0.56353 -5.74348,1.41289 -7.93437,2.47253 -2.19081,1.05966 -3.78439,2.32884 -4.55388,3.67307 -0.76953,1.3442 -0.70837,2.76084 0.17154,4.0945 0.87904,1.33371 2.5774,2.5811 4.84537,3.61225 2.26805,1.03075 5.10194,1.84282 8.08939,2.36873 2.98741,0.52522 6.12024,0.76349 8.94523,0.73139 2.82494,-0.0311 5.33186,-0.33772 7.16034,-0.81738 1.82861,-0.48065 2.96945,-1.13516 3.2617,-1.81938 0.2919,-0.68471 -0.26982,-1.39476 -1.59985,-1.97912 -1.33033,-0.58429 -3.42916,-1.03915 -5.98923,-1.24965 -2.56012,-0.21027 -5.57625,-0.17399 -8.61039,0.15431 -3.0341,0.32732 -6.07722,0.94682 -8.68967,1.81728 -2.61241,0.87019 -4.78403,1.99115 -6.20356,3.24908 -1.41965,1.2579 -2.07872,2.65104 -1.88629,4.02692 0.19247,1.37594 1.24048,2.73152 2.98804,3.92098 1.74754,1.18944 4.19334,2.20912 6.98019,2.96263 2.78685,0.75312 5.90834,1.23782 8.91167,1.43475 3.00339,0.19676 5.8791,0.10569 8.21237,-0.21132 2.3333,-0.31596 4.11416,-0.85567 5.08856,-1.49029 0.9744,-0.63397 1.13484,-1.36066 0.46287,-2.02396 -0.67203,-0.66301 -2.1796,-1.26021 -4.29994,-1.65512 -2.12028,-0.39465 -4.85049,-0.58424 -7.79306,-0.49204 -2.94251,0.0932 -6.08958,0.4672 -8.98558,1.12064 -2.89605,0.65366 -5.5309,1.58466 -7.52547,2.70801 -1.99462,1.12334 -3.33936,2.43741 -3.8437,3.80099 -0.50414,1.3637 -0.16223,2.77408 0.97277,4.07709 1.13485,1.30297 3.06318,2.49512 5.50206,3.45457 2.43901,0.95928 5.38408,1.68308 8.40712,2.11734 3.02299,0.43406 6.1154,0.57805 8.8302,0.45997 2.71474,-0.11805 5.04152,-0.49519 6.64648,-1.02765 1.60497,-0.53247 2.47935,-1.21813 2.50075,-1.90713 0.0234,-0.68886 -0.81489,-1.37829 -2.38329,-1.91853 -1.56857,-0.54073 -3.86859,-0.92819 -6.56386,-1.05821 -2.69537,-0.13053 -5.78011,-3.4e-4 -8.80653,0.41955 -3.02653,0.41956 -5.98532,1.13083 -8.44949,2.07838 -2.46424,0.94788 -4.42364,2.13154 -5.59807,3.42888 -1.17437,1.2975 -1.55594,2.70646 -1.09389,4.07243 0.46228,1.36596 1.77104,2.68563 3.7331,3.81848 1.96212,1.13292 4.57516,2.0756 7.45813,2.74263 2.8829,0.66713 6.02864,1.05603 8.98126,1.16233 2.95269,0.10677 5.70244,-0.0727 7.85314,-0.45688 2.15076,-0.3843 3.69269,-0.97476 4.40658,-1.63498 0.71418,-0.65987 0.59283,-1.38697 -0.34075,-2.02584 -0.93376,-0.63916 -2.682,-1.18603 -4.98767,-1.51347 -2.30566,-0.32736 -5.16502,-0.43203 -8.16195,-0.24967 -2.997,0.18236 -6.12338,0.65367 -8.92691,1.39351 -2.80348,0.73964 -5.27393,1.74926 -7.05638,2.93025 -1.78238,1.18093 -2.86761,2.53197 -3.1027,3.90684 -0.2355,1.37497 0.38494,2.77067 1.76679,4.03532 1.38155,1.26476 3.52441,2.39483 6.11483,3.27766 2.59047,0.88259 5.62306,1.51523 8.65768,1.85729 3.03449,0.34186 6.06173,0.3916 8.64453,0.19368 2.58286,-0.19779 4.711,-0.64331 6.07965,-1.22158 1.36859,-0.57803 1.96939,-1.28598 1.71975,-1.97154 -0.25003,-0.68581 -1.35358,-1.34518 -3.14778,-1.83411 -1.79413,-0.48895 -4.27691,-0.80389 -7.08602,-0.8505 -2.80907,-0.0518 -5.93771,0.17813 -8.93232,0.68993 -2.99473,0.51176 -5.84566,1.31096 -8.14184,2.33115 -2.29618,1.02035 -4.02775,2.26026 -4.94759,3.58965 -0.91993,1.32929 -1.02088,2.7456 -0.29308,4.09334 0.72797,1.34783 2.28734,2.62392 4.4484,3.69401 2.16093,1.07 4.92033,1.93086 7.87626,2.50898 0.5373,0.10478 1.08134,0.20103 1.62864,0.28697"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 381.60243,72.525679 c -3.01084,0.399408 -5.91037,1.042228 -8.28001,1.877578 -2.36957,0.835516 -4.19922,1.862194 -5.22776,2.973187 -1.02854,1.111004 -1.24828,2.304085 -0.63208,3.448464 0.61609,1.144473 2.07109,2.237414 4.14991,3.163201 2.07895,0.925798 4.7791,1.681717 7.70706,2.201482 2.92792,0.519997 6.07622,0.801433 8.98879,0.846899 2.91268,0.04369 5.57957,-0.144227 7.6171,-0.499942 2.03742,-0.355716 3.43572,-0.87545 3.99663,-1.441718 0.56055,-0.566325 0.27737,-1.17663 -0.80373,-1.700663 -1.08145,-0.52354 -2.96241,-0.958843 -5.36674,-1.200161 -2.40439,-0.241228 -5.3279,-0.285794 -8.34536,-0.08828 -3.01759,0.198411 -6.12065,0.642385 -8.86056,1.307643 -2.7398,0.665119 -5.10629,1.552731 -6.75969,2.574592 -1.65341,1.021832 -2.58467,2.176554 -2.66345,3.338857 -0.0785,1.162303 0.70034,2.32951 2.21913,3.374969 1.51909,1.045451 3.77798,1.966285 6.44651,2.672118 2.66851,0.706165 5.74075,1.194085 8.77094,1.437689 3.03013,0.243845 6.00871,0.241218 8.50597,0.03484 2.49715,-0.204491 4.50278,-0.611782 5.72995,-1.118187 1.22705,-0.506879 1.66753,-1.111955 1.26229,-1.685451 -0.40529,-0.573354 -1.65987,-1.112599 -3.57784,-1.497561 -1.91799,-0.385455 -4.49736,-0.613554 -7.36196,-0.610051 -2.86447,0.003 -6.00714,0.239476 -8.97254,0.714914 -2.96531,0.475428 -5.74348,1.192022 -7.93437,2.086007 -2.19081,0.894015 -3.78439,1.964784 -4.55388,3.098881 -0.76953,1.134063 -0.70837,2.329234 0.17154,3.454394 0.87904,1.12524 2.5774,2.17762 4.84537,3.04759 2.26805,0.86962 5.10194,1.55474 8.08939,1.99842 2.98741,0.44313 6.12024,0.64415 8.94523,0.61705 2.82494,-0.0262 5.33186,-0.28493 7.16034,-0.68958 1.82861,-0.40552 2.96945,-0.95771 3.2617,-1.53499 0.2919,-0.57767 -0.26982,-1.17671 -1.59985,-1.66974 -1.33033,-0.49291 -3.42916,-0.87669 -5.98923,-1.05428 -2.56012,-0.17738 -5.57625,-0.14678 -8.61039,0.13019 -3.0341,0.27616 -6.07722,0.7988 -8.68967,1.5332 -2.61241,0.73414 -4.78403,1.67989 -6.20356,2.74117 -1.41965,1.06124 -2.07872,2.2366 -1.88629,3.39742 0.19247,1.16082 1.24048,2.30451 2.98804,3.30803 1.74754,1.00349 4.19334,1.86375 6.98019,2.49949 2.78685,0.63537 5.90834,1.04431 8.91167,1.21045 3.00339,0.16601 5.8791,0.0893 8.21237,-0.17828 2.3333,-0.26656 4.11416,-0.72189 5.08856,-1.25733 0.9744,-0.53485 1.13484,-1.14795 0.46287,-1.70756 -0.67203,-0.55935 -2.1796,-1.0632 -4.29994,-1.39638 -2.12028,-0.33295 -4.85049,-0.49293 -7.79306,-0.41512 -2.94251,0.0786 -6.08958,0.39415 -8.98558,0.94545 -2.89605,0.55149 -5.5309,1.33693 -7.52547,2.28467 -1.99462,0.94776 -3.33936,2.05641 -3.8437,3.20682 -0.50414,1.1505 -0.16223,2.34042 0.97277,3.43973 1.13485,1.0993 3.06318,2.10507 5.50206,2.91454 2.43901,0.80932 5.38408,1.41998 8.40712,1.78636 3.02299,0.36619 6.1154,0.48768 8.8302,0.38804 2.71474,-0.0996 5.04152,-0.41777 6.64648,-0.86698 1.60497,-0.44923 2.47935,-1.02771 2.50075,-1.609 0.0234,-0.58119 -0.81489,-1.16284 -2.38329,-1.61863 -1.56857,-0.45621 -3.86859,-0.78308 -6.56386,-0.89277 -2.69537,-0.11013 -5.78011,-3.6e-4 -8.80653,0.35396 -3.02653,0.35396 -5.98532,0.95405 -8.44949,1.75347 -2.46424,0.7997 -4.42364,1.79832 -5.59807,2.89287 -1.17437,1.09466 -1.55594,2.28337 -1.09389,3.43581 0.46228,1.15241 1.77104,2.2658 3.7331,3.22155 1.96212,0.95581 4.57516,1.75112 7.45813,2.31387 2.8829,0.56285 6.02864,0.89097 8.98126,0.98064 2.95269,0.0901 5.70244,-0.0614 7.85314,-0.38545 2.15076,-0.32425 3.69269,-0.82239 4.40658,-1.3794 0.71418,-0.55672 0.59283,-1.17017 -0.34075,-1.70917 -0.93376,-0.53923 -2.682,-1.0006 -4.98767,-1.27685 -2.30566,-0.27621 -5.16502,-0.3645 -8.16195,-0.21066 -2.997,0.15388 -6.12338,0.5515 -8.92691,1.17568 -2.80348,0.62402 -5.27393,1.47581 -7.05638,2.47218 -1.78238,0.99631 -2.86761,2.13615 -3.1027,3.29609 -0.2355,1.16005 0.38494,2.33757 1.76679,3.4045 1.38155,1.06706 3.52441,2.02048 6.11483,2.76529 2.59047,0.74463 5.62306,1.27837 8.65768,1.56695 3.03449,0.28843 6.06173,0.33038 8.64453,0.1634 2.58286,-0.16685 4.711,-0.54274 6.07965,-1.03062 1.36859,-0.48766 1.96939,-1.08493 1.71975,-1.66335 -0.25003,-0.57858 -1.35358,-1.13487 -3.14778,-1.54736 -1.79413,-0.41253 -4.27691,-0.67823 -7.08602,-0.71756 -2.80907,-0.0436 -5.93771,0.15027 -8.93232,0.58208 -2.99473,0.43176 -5.84566,1.10603 -8.14184,1.96673 -2.29618,0.86084 -4.02775,1.90693 -4.94759,3.02849 -0.91993,1.1215 -1.02088,2.31641 -0.29308,3.45347 0.72797,1.13712 2.28734,2.21371 4.4484,3.11652 2.16093,0.90275 4.92033,1.62902 7.87626,2.1168 0.5373,0.0883 1.08134,0.16959 1.62864,0.24208"
+           id="path1409"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 381.55527,156.22937 V 177.3291"
+           id="path1411"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png" />
+        <circle
+           transform="rotate(90)"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle2802-7-7-5"
+           cx="179.97493"
+           cy="-381.55527"
+           r="2.6458333" />
+        <circle
+           r="2.6458333"
+           cy="-381.55527"
+           cx="195.37547"
+           id="circle1428"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           transform="rotate(90)" />
+        <circle
+           r="2.6458333"
+           cy="-381.55527"
+           cx="164.57439"
+           id="circle1434"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           transform="rotate(90)" />
+        <path
+           id="path1440-4"
+           style="display:inline;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 385.8849,162.97059 c 2.49581,-0.2163 1.34623,7.07136 1.34623,7.07136 0,0 -0.19697,1.47648 1.72626,1.91445 m -3.07249,8.98582 c 2.49581,0.21629 1.34623,-7.07139 1.34623,-7.07139 0,0 -0.19697,-1.47646 1.72626,-1.91443"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png" />
+        <flowRoot
+           transform="matrix(0,0.44209728,-0.44209728,0,543.25316,100.0696)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           id="flowRoot1448"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"><flowRegion
+             id="flowRegion1444"
+             style="stroke-width:0.598473"><rect
+               y="314.73935"
+               x="150.68999"
+               height="62.55191"
+               width="79.846931"
+               id="rect1442"
+               style="stroke-width:0.59847313" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473"
+             id="flowPara1446">A</flowPara></flowRoot>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1458"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           transform="matrix(0.44209728,0,0,0.44209728,295.10941,29.301346)"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"><flowRegion
+             id="flowRegion1452"
+             style="stroke-width:0.598473"><rect
+               id="rect1450"
+               width="79.846931"
+               height="62.55191"
+               x="150.68999"
+               y="314.73935"
+               style="stroke-width:0.59847313" /></flowRegion><flowPara
+             id="flowPara1456"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473">x<flowSpan
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473"
+   id="flowSpan1454">eq</flowSpan></flowPara></flowRoot>
+        <flowRoot
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           transform="matrix(0.44209728,0,0,0.44209728,295.10941,12.837543)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           id="flowRoot1468"
+           xml:space="preserve"><flowRegion
+             style="stroke-width:0.598473"
+             id="flowRegion1462"><rect
+               style="stroke-width:0.59847313"
+               y="314.73935"
+               x="150.68999"
+               height="62.55191"
+               width="79.846931"
+               id="rect1460" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473"
+             id="flowPara1466">x<flowSpan
+   id="flowSpan1464"
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473">m</flowSpan></flowPara></flowRoot>
+        <flowRoot
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png"
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           transform="matrix(0.44209728,0,0,0.44209728,295.10941,45.765149)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.598473"
+           id="flowRoot1488"
+           xml:space="preserve"><flowRegion
+             style="stroke-width:0.598473"
+             id="flowRegion1482"><rect
+               style="stroke-width:0.59847313"
+               y="314.73935"
+               x="150.68999"
+               height="62.55191"
+               width="79.846931"
+               id="rect1480" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';stroke-width:0.598473"
+             id="flowPara1486">x<flowSpan
+   id="flowSpan1484"
+   style="font-size:65%;baseline-shift:sub;stroke-width:0.598473">M</flowSpan></flowPara></flowRoot>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 478.48763,51.42598 v 162.834"
+           id="path1500"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\elasticF.png" />
+      </g>
+    </g>
+  </g>
+</svg>

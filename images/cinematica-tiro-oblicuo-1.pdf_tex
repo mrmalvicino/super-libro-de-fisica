@@ -1,6 +1,6 @@
 %% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'cinematica-tiro-oblicuo.pdf' (pdf, eps, ps)
+%% Accompanies image file 'cinematica-tiro-oblicuo-1.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -53,7 +53,7 @@
   \begin{picture}(1,1.41428571)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-tiro-oblicuo.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-tiro-oblicuo-1.pdf}}%
     \put(0.20410414,0.9676684){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y(t)$\end{minipage}}}%
     \put(0.69948509,0.69311509){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x(t)$\end{minipage}}}%
     \put(0.60917501,0.62737468){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x_d$\end{minipage}}}%
