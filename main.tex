@@ -848,5 +848,262 @@ A continuación podemos ver un gráfico que ilustra estas conclusiones. En él s
 \end{center}
 
 
+\section{Movimiento circular}
+\label{sec:circularMotion}
+
+El movimiento circular es otro caso particular de movimiento curvilíneo. En un movimiento curvilíneo cualquiera, un cuerpo puede tener una trayectoria errática. En cambio, la trayectoria de un cuerpo en movimiento circular está delimitada por un círculo.
+
+El inconveniente a la hora de deducir ecuaciones horarias para describir la posición de la partícula es que no es posible identificar un valor de aceleración constante en ninguno de los ejes cartesianos, tal como se hacía por ejemplo para un tiro verical donde se podía afirmar que $a_x=\SI{0}{\metre\per\second^2}$ y $a_y=-g\,\si{\metre\per\second^2}$. Es por esto que es necesario usar {coordenadas polares} para referir las magnitudes a estudiar. Ver sección \ref{A:polarCoordinates} del anexo.
+
+A continuación, se muestra el gráfico de una trayectoria circular para una partícula, representada por un punto negro, junto con la posición y sus componentes cartesianas, la velocidad que tiene en ese punto, y las aceleraciones que pueden estar afectando el movimiento.
+
+\begin{center}
+    \vspace{-5cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-circular-1.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+La posición $(\xyz)$ se puede expresar como un vector que rota con un extremo fijo en el centro del círculo, como la aguja de un reloj. Las componentes del vector cambian conforme pasa el tiempo. Pero el largo del vector posición es siempre el mismo, y es equivalente al radio $(r)$ del círculo.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:circularMovRadius}
+    \end{prop}
+    \cusTi{Radio del movimiento circular}
+    \begin{equation*}
+        r = \nnorm{\xyz(t)}
+    \end{equation*}
+\end{mdframed}
+
+En un movimiento curvilíneo cualquiera, la velocidad ``neta'' puede definirse a partir de la suma entre las velocidades tangencial y radial.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Velocidad en polares}
+    \begin{equation*}
+        \Vec{v} = \Vec{v}_t + \Vec{v}_r
+    \end{equation*}
+\end{mdframed}
+
+Además, la velocidad de un cuerpo tiene que ser tangente a su trayectoria en todo momento. Pero no hay que confundir la naturaleza tangencial de la velocidad con respecto a la trayectoria con la componente tangencial de la velocidad, que hace referencia a la ortogonalidad entre el vector velocidad y el radio de la circunferencia que pasa por un punto de la trayectoria. En la siguiente imagen vemos una trayectoria curvilínea cualquiera (en línea punteada) sobre la que se grafican los vectores velocidad para dos posiciones distintas.
+
+\begin{center}
+    \vspace{-5cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-circular-2.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+En ambos puntos la velocidad es tangencial a la trayectoria, pero solo $\vec{v}_1$ es ortogonal a la dirección radial del círculo de referencia.
+
+La componente radial de la velocidad impone cómo tiende a darse la trayectoria hacia adentro o hacia afuera del círculo de referencia. Si existiese una componente radial de velocidad se podría formar una trayectoria espiral, por ejemplo.
+
+Pero $\nnorm{\Vec{v}_r} = \SI{0}{\metre\per\second}$ ya que para que la trayectoria sea circular se tiene que cumplir la siguiente propiedad.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:circularMovVel}
+    \end{prop}
+    \cusTi{Velocidad del movimiento circular}
+    \begin{equation*}
+        \Vec{v} = \Vec{v}_t
+    \end{equation*}
+\end{mdframed}
+
+Un cuerpo en movimiento circular está sometido a una aceleración radial $(\vec{a}_r)$ o centrípeta $(\Vec{a}_c)$ en todo momento. Esta apunta hacia el centro y su magnitud es tal que contrarresta la tendencia ``natural'' del cuerpo a tener una trayectoria recta. Cabe aclarar que la aceleración radial es la misma que la centrípeta: solo se diferencian por ser opuestas en su notación.
+
+El movimiento circular puede o no tener aceleración tangencial $(\Vec{a}_ t)$. La aceleración tangencial puede ser positiva o negativa, dependiendo de la situación. De existir, esta hace que el cuerpo se mueva cada vez más (o menos) rápido sobre el círculo.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Aceleración en polares}
+    \begin{equation*}
+        \Vec{a} = \Vec{a}_t + \Vec{a}_r = \Vec{a}_t - \Vec{a}_c
+    \end{equation*}
+\end{mdframed}
+
+A medida que el ángulo $(\theta)$ aumenta o disminuye en sentido horario o antihorario, la partícula se mueve por la circunferencia trazando un arco de círculo de cierto largo $(s)$. Es evidente que para que la partícula se mueva, el ángulo va a cambiar conforme pase el tiempo. Ergo, el ángulo es una función escalar del tiempo.
+
+Es determinante qué tan rápido aumenta o disminuye el ángulo. La tasa de cambio del ángulo con respecto del tiempo se conoce como velocidad angular $(\omega)$.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:angularVel}
+    \end{defn}
+    \cusTi{Velocidad angular}
+    \begin{equation*}
+        \omega (t) = \dfrac{\dif}{\dif t} \theta (t)
+    \end{equation*}
+\end{mdframed}
+
+Con el mismo criterio, se define la aceleración angular $(\alpha)$ como la derivada de la velocidad angular con respecto del tiempo.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:angularAccel}
+    \end{defn}
+    \cusTi{Aceleración angular}
+    \begin{equation*}
+        \alpha (t) = \dfrac{\dif}{\dif t} \omega (t) = \dfrac{\dif^2}{\dif t^2} \theta (t)
+    \end{equation*}
+\end{mdframed}
+
+La velocidad angular está relacionada con la velocidad tangencial, y de igual manera la aceleración angular lo está con la aceleración tangencial. Pero no son lo mismo. Veamos cómo se relacionan.
+
+Dividiendo por el incremento $\Delta t$ y luego tomando el límite cuando $\Delta t \to 0$ en la definición de longitud de arco (Sec. \ref{A:arcLength}) se tiene:
+\begin{align*}
+    \Delta s &= \Delta \theta \, r
+    \\[1ex]
+    \frac{\Delta s}{\Delta t} &= \frac{\Delta \theta}{\Delta t} \, r
+    \\[1ex]
+    \frac{\dif s}{\dif t} &= \frac{\dif \theta}{\dif t} \, r
+\end{align*}
+
+La derivada de la izquierda es la velocidad tangencial. Indica qué tan rápido crece el largo de arco de la circunferencia. La derivada de la derecha es la velocidad angular. Indica qué tan rápido aumenta el ángulo. Se obtiene así una relación entre la velocidad angular (Def.\ \ref{defn:angularVel}) y la velocidad tangencial ($v_t$).
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:circularVel}
+    \end{prop}
+    \begin{equation*}
+        v_t(t) = \omega(t) \, r
+    \end{equation*}
+\end{mdframed}
+
+Derivando nuevamente, de manera similar se relaciona la aceleración angular (Def.\ \ref{defn:angularAccel}) con la tangencial ($a_t$).
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:circularAccel}
+    \end{prop}
+    \begin{equation*}
+        a_t(t) = \alpha(t) \, r
+    \end{equation*}
+\end{mdframed}
+
+A partir de las conclusiones anteriores, siguiendo el mismo razonamiento que se usó para definir la ecuación de movimiento (Def. \ref{defn:generalMovementEqn}), se define la variación del ángulo en función del tiempo o \emph{posición angular}.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:anglePosition}
+    \end{defn}
+    \cusTi{Posición angular}
+    \begin{equation*}
+        \theta(t) = \iint \alpha(t) \, \dif t^2 + \omega (t_0) \left(t-t_0\right) + \theta(t_0)
+    \end{equation*}
+\end{mdframed}
+
+
+\subsection{MCU}
+El movimiento circular es \emph{uniforme} cuando el cuerpo gira en torno a la circunferencia con \emph{velocidad angular constante}.
+
+El MCU hereda las propiedades \ref{prop:circularMovRadius} y \ref{prop:circularMovVel} generales para movimientos circulares. A saber:
+\begin{itemize}
+    \item Al ser un movimiento circular, el radio permanece constante.
+    
+    \item La velocidad radial es nula y, en consecuencia, el vector velocidad sólo tiene la componente tangencial.
+\end{itemize}
+
+Además, se incorporan las siguientes propiedades particulares del MCU.
+
+Como la velocidad angular y el radio son constantes, el módulo de la velocidad también lo es, de acuerdo a la propiedad \ref{prop:circularVel}.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \begin{equation*}
+        v = \omega \, r
+    \end{equation*}
+\end{mdframed}
+
+Velocidad angular constante implica aceleración angular cero lo cual, a su vez, implica aceleración tangencial cero (Prop.~\ref{prop:circularAccel}).
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Aceleración de MCU}
+    \begin{equation*}
+        \Vec{a} = - a_c \, \versor{r}
+    \end{equation*}
+\end{mdframed}
+
+Como $v_t = \dif s / \dif t$ por definición y, en particular, $v_t$ es constante para un MCU, entonces
+\begin{align*}
+    v_t \, \dif t &= \dif s
+    \\[1ex]
+    \int_{t_0}^{t_0+\Delta t} v_t \, \dif t &= \int_{s_0}^{s_0+\Delta s} \dif s
+    \\[1ex]
+    v_t \left[\left( t_0+\Delta t \right) - t_0\right] &= \left( s_0+\Delta s \right) - s_0
+    \\[1ex]
+    v_t \, \Delta t &= \Delta s
+\end{align*}
+
+Formalmente, integramos miembro a miembro en el intervalo de tiempo $\left[ t_0; t_0 + \Delta t \right]$.
+Coloquialmente, como $v_t$ es constante, ``cambiamos los $\dif$ por $\Delta$''.
+
+En la relación anterior, interesa particularmente el siguiente intervalo de tiempo, llamado \emph{período}.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Período}
+    \cusTe{El período $(T)$ de un cuerpo en MCU es el tiempo que tarda en dar una vuelta completa.}
+\end{mdframed}
+
+Si el intervalo de tiempo transcurrido es igual al período ($\Delta t = T$), el arco barrido corresponde por definición a una vuelta completa de la circunferencia, es decir, a un ángulo barrido $\Delta \theta = 2 \, \pi \, \si{\radian}$.
+De acuerdo a la fórmula para la longitud de arco circular en función del ángulo~(Sec. \ref{A:arcLength}), se tiene $\Delta s = 2 \, \pi \, r$.
+Así,
+\[ v_t \, T = 2 \pi r \iff v_t = \frac{2 \pi r}{T} \]
+
+Ahora bien, $v_t = \omega r$ por la propiedad \ref{prop:circularVel}.
+Esto conduce a la relación fundamental del MCU.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:period}
+    \end{prop}
+    \cusTi{Velocidad angular y período}
+    \begin{equation*}
+        \omega = \frac{2 \pi}{T}
+    \end{equation*}
+\end{mdframed}
+
+Es una característica de los movimientos circulares \emph{y uniformes}, de ahí su carácter ``fundamental'':
+si el movimiento no fuera uniforme, $\omega$ dejaría de ser constante y la propiedad no se cumpliría más.
+
+Muchas veces resulta más conveniente caracterizar al MCU a partir de la frecuencia.
+La frecuencia $(f)$ del movimiento se define como la cantidad de vueltas que da el cuerpo en un intervalo de tiempo específico, el cual determina la unidad de frecuencia.
+Cuando el intervalo de tiempo es exactamente de un segundo, la unidad de frecuencia es Hertz (\si{\hertz}).
+En cambio, si la frecuencia mide la cantidad de vueltas en un minuto, la unidad es la ``revolución por minuto'' (\si{\rpm}) de manera que $\SI{60}{\rpm} = \SI{1}{\hertz}$.
+
+Si el cuerpo da más vueltas en un segundo, significa que tarda menos tiempo en dar cada vuelta.
+Es decir, si la frecuencia es mayor, el período es menor, y viceversa: $f$ es inversamente proporcional a $T$.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Frecuencia y período}
+    \begin{equation*}
+        f = \dfrac{1}{T}
+    \end{equation*}
+\end{mdframed}
+
+Al sustitur esta relación en la propiedad \ref{prop:period}, resulta
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Velocidad angular y frecuencia}
+    \begin{equation*}
+        \omega = 2 \pi f
+    \end{equation*}
+\end{mdframed}
+
+Para obtener una expresión de la aceleración centrípeta en términos de las variables angulares, se estudia la posición y la velocidad de la partícula en dos instantes diferentes. Esto se interpreta como un cuerpo en MCU que prmiero pasa por una posición y transcurrido cierto tiempo de ``ángulo barrido'' (Sec. \ref{A:arcLength}) se encuentra en la segunda posición. 
+
+
 
 \end{document}
