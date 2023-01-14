@@ -550,4 +550,303 @@ Por ahora, si el lector quiere verificar que si la aceleración es nula entonces
 \end{mdframed}
 
 
+\subsection{MRUV}
+
+Un cuerpo en movimiento rectilíneo uniformemente variado es aquel que se mueve en línea recta con aceleración constante no nula.
+
+La ecuación de movimiento con aceleración constante (Def. \ref{defn:cstAccelMovementEqn}) describe la trayectoria de los MRUV.
+
+Dependiendo de la naturaleza de la aceleración, podemos distinguir los movimientos dados por la aceleración gravitatoria de los que son acelerados de manera arbitraria por un agente externo.
+
+La diferencia entre los MRUV con aceleración gravitatoria $(g)$ y aquellos con aceleración arbitraria $(a)$ es que $g$ tiene un valor predefinido y conocido mientras que $a$ puede tomar un valor diferente dependiendo de cada situación.
+
+\begin{itemize}
+    \item El efecto de la gravedad a escala visible es evidente: si dejo caer un objeto desde cierta altura, su velocidad aumenta cada vez más, lo cual significa que el objeto está acelerado. La aceleración de una partícula debido al campo gravitatorio de la Tierra vale $a = g \approx \SI{9,8}{\metre/\second\squared}$.
+
+    \item El efecto de un agente externo acelerando un cuerpo (como, por ejemplo, un motor acelerando un auto) no es tan trivial. A continuación se dan algunos ejemplos aunque más adelante, para hacer un estudio más exhaustivo, se enunciará la segunda ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}) que permite dar otro enfoque.
+\end{itemize}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Auto en la ruta con aceleración constante}
+    \begin{formatI}
+        Calcular el tiempo que tarda un auto en acelerar de \SI{0}{\kilo\meter\per\hour} a \SI{100}{\kilo\meter\per\hour} si tiene una aceleración $(a)$ de $\num{0,3}\,g$ a lo largo de una ruta recta. Luego, calcular la longitud $(L)$ del segmento de ruta que recorrió en ese tiempo.
+    \end{formatI}
+    \begin{gather*}
+        a = \num{0,3}\,g = \num{0,3} \left( \SI{9,8}{\metre\per\second\squared} \right) = \SI{2,94}{\metre\per\second\squared}
+        \\[1ex]
+        v(t_1) = \SI{2,94}{\metre\per\second\squared} \, t_1
+        \\
+        v(t_1) = \SI{100}{\kilo\metre\per\hour}
+        = \dfrac{250}{9} \, \si{\metre\per\second}
+        \\[1ex]
+        t_1 = \dfrac{\frac{250}{9} \, \si{\metre\per\second}}{\SI{2,94}{\metre\per\second\squared}}
+        \approx \SI{9,4}{\metre\second\squared\per\metre\per\second}
+        = \SI{9,4}{\second}
+        \\[1ex]
+        x(t_1) =  \frac{a}{2} \, t_1^2 + v_0 \, t_1 + x_0  =  L
+        \\
+        L =  \dfrac{\SI{2,94}{\metre\per\second\squared}}{2}t_1^2 \approx \SI{130}{\metre}
+    \end{gather*}
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Nave espacial despegando}
+    \begin{formatI}
+        Una nave espacial mantiene una aceleración de $\num{1,8}\,g$ desde su despegue hasta que sale de la atmósfera terrestre después de 10 minutos. Verificar que la velocidad que tiene la nave al finalizar ese trayecto, es menor a la velocidad máxima del Falcon 9 Heavy de SpaceX, la cual se estima en~\SI{39600}{\kilo\metre/\hour}.
+    \end{formatI}
+    \begin{align*}
+        a &= \num{1,8}\,g = 17,64 \, \si{\metre\per\second\squared} \implies
+        \\
+        v \left(\SI{600}{\second}\right) &= \left(\SI{17,64}{\metre\per\second\squared}\right) \SI{600}{\second}
+        \\
+        &= \SI{10584}{\metre\per\second}
+        \\
+        &= \SI{38102,4}{\kilo\metre\per\hour} < \SI{39600}{\kilo\metre\per\hour}
+    \end{align*}
+\end{mdframed}
+
+
+\subsection{Caída libre}
+
+En esta situación, un cuerpo puntual cae desde cierta altura $(h)$, medida desde el piso, y adquiere una aceleración de magnitud $g$ y sentido hacia abajo. Tanto el movimiento como la aceleración son hacia abajo. Esto no es menor, y se tiene que ver reflejado en la ecuación, de acuerdo al sistema de referencia que se tome.
+
+La caída libre es un tipo de MRUV, por lo que la trayectoria va a ser modelada por la ecuación de movimiento con aceleración constante (Def.\ \ref{defn:cstAccelMovementEqn}) tomando las siguientes consideraciones.
+
+Como el cuerpo parte del reposo, la velocidad inicial es $v_0 = \SI{0}{\metre/\second}$. Si elegimos un sistema orientado positivamente hacia arriba y con el origen en el piso, la posición inicial $\left( x_0 \right)$ va a ser igual a $h$ y la aceleración $(a)$ va a ser negativa:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Función de posición de caída libre}
+    \begin{equation*}
+        y(t) = -\frac{g}{2} \left(t-t_0\right)^2 + h
+    \end{equation*}
+\end{mdframed}
+
+
+\subsection{Tiro vertical}
+
+En esta situación un cuerpo puntual cae desde cierta altura $(h)$ y adquiere aceleración gravitatoria $(g)$ con sentido hacia abajo. Pero además, al inicio del movimiento el cuerpo tiene una velocidad inicial $(v_0)$.
+
+Al igual que la caída libre, el tiro vertical se modela con la ecuación de movimiento con aceleración constante (Def.\ \ref{defn:cstAccelMovementEqn}), ya que también es un caso particular de MRUV.
+
+Ahora bien, en este caso se va a mantener el término lineal para incorporar el dato de la velocidad inicial, siendo su signo positivo si, al inicio del movimiento, el cuerpo estaba subiendo, y negativo si estaba bajando.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Función de posición del tiro vertical}
+    \begin{equation*}
+        y(t) = -\frac{g}{2}(t-t_0)^2 \pm v_0(t-t_0) + h
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Movimiento curvilíneo}
+
+Hasta ahora se vieron situaciones en las que se daba un movimiento que podía ser acelerado o no, pero siempre era en línea recta. Por este motivo, usábamos la ecuación de movimiento en una dimensión (Def.\ \ref{defn:generalMovementEqn}) y sus casos particulares. Si queremos estudiar una trayectoria curva, necesitamos una parametrización de dos dimensiones. Esto implica que la posición, la velocidad y la aceleración van a considerarse magnitudes vectoriales, y ya no escalares. Para estudiar un movimiento curvilíneo, hay que analizar cómo estas magnitudes son afectadas en cada dimensión, descomponiéndolas.
+
+
+\section{Tiro oblicuo}
+\label{subsec:parabolicMotion}
+
+En esta situación, un cuerpo puntual es arrojado en diagonal con cierto ángulo $(\theta)$ y cierta velocidad inicial $(\Vec{v_0})$ de módulo $\nnorm{\Vec{v_0}} = v_0$. Al descomponer el movimiento para analizar cómo va a variar la cinemática en cada dimensión, podemos observar que:
+\begin{itemize}
+    \item El eje $z$ no es necesario, ya que si despreciamos cualquier desvío causado por el viento empujando al cuerpo, el movimiento se modela sobre un plano, en dos dimensiones.
+    
+    \item La trayectoria del cuerpo se va a curvar por la gravedad. Pero esta aceleración solo va a afectar el eje $y$ del movimiento, como si de un tiro vertical se tratase. Por lo tanto, la coordenada vertical de la posición estará dada por la ecuación de movimiento con aceleración constante (Def.\ \ref{defn:cstAccelMovementEqn}).
+    
+    \item El eje $x$ no se ve afectado por aceleración alguna. Con lo cual, la coordenada horizontal de la posición estará dada por la ecuación de movimiento con velocidad constante (Def.\ \ref{defn:cstVelMovementEqn}). La velocidad en $x$ será contantemente $v_{0x}$, que es aquella impuesta inicialmente por la velocidad inicial.
+\end{itemize}
+
+A partir de este análisis, podemos definir la aceleración que rige el movimiento:
+\begin{equation*}
+    \Vec{a}(t) = \sqb{0 \, , \, -g}
+\end{equation*}
+
+Y así también la velocidad, que surge al integrar la aceleración:
+\begin{equation*}
+    \Vec{v}(t) = \sqb{v_{0x} \, , \, -g \left(t-t_0\right) + v_{0y}}
+\end{equation*}
+
+Obteniendo así la posición al integrar nuevamente.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Función de posición del tiro oblicuo}
+    \begin{equation*}
+        \scale{0.92}{
+        \xyz(t) = \sqb{v_{0x} \left(t-t_0\right) \, , \, \frac{-g}{2} \left(t-t_0\right)^2 + v_{0y} \left(t-t_0\right) + y_0}
+        }
+    \end{equation*}
+\end{mdframed}
+
+Veamos la fórma que tiene el recorrido de un cuerpo arrojado en tiro oblicuo.
+
+Como estamos estudiando un único cuerpo podemos establecer $t_0=\SI{0}{\second}$ ya que para estudiar una única trayectoria no es necesario considerar un retraso temporal. Las coordenadas $x(t)$ e $y(t)$ del vector $\xyz(t) = \sqb{x(t),y(t)}$ quedan entonces dadas por:
+\begin{equation*}
+    \left\{
+    \begin{aligned}
+        x(t) &= v_{0x} \, t
+        \\
+        y(t) &= -\frac{g}{2} \, t^2 + v_{0y} \, t + y_0
+    \end{aligned}
+    \right.
+\end{equation*}
+
+Despejando el parámetro $t$ de la primer ecuación y reemplazándolo en la segunda, se tiene:
+\begin{align}
+    y &= -\frac{g}{2} \, \left(\frac{x}{v_{0x}}\right)^2 + v_{0y} \left(\frac{x}{v_{0x}}\right) + y_0
+    \notag
+    \\
+    y(x) &= -\frac{g}{2 \, v_{0x}^2} \, x^2 + \frac{v_{0y}}{v_{0x}} \, x + y_0
+    \label{eqn:oblicuoCurva}
+\end{align}
+
+Luego, es esperable que la trayectoria de la partícula sea una parábola invertida.
+
+A continuación, se muestra un gráfico con las implicaciones geométricas en la trayectoria del movimiento.
+Notar que se está graficando, en un mismo gráfico, la trayectoria y la velocidad de la partícula en ciertos puntos de la misma.
+El largo de las flechas, indica la magnitud del vector.
+
+\begin{center}
+    \vspace{-5cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-tiro-oblicuo.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+Donde:
+\begin{align*}
+    v_{0x} &= v_0 \cos(\theta)
+    \\
+    v_{0y} &= v_0 \sin(\theta)
+\end{align*}
+
+Concluyendo que:
+
+\begin{itemize}
+    \item La componente vertical de la velocidad $(v_y)$ va disminuyendo hasta que se hace nula en el punto $\sqb{x_h, y_h}$, donde la altura es máxima y el módulo de la velocidad es mínimo (pero no nulo).
+    
+    \item El módulo de la velocidad es máximo en el punto donde la altura es mínima $(y=\SI{0}{\metre})$. Esto sucede al final del recorrido, justo antes de que el cuerpo choque contra el piso.
+    
+    \item Para todos los pares de puntos donde la altura es la misma, la velocidad tiene el mismo módulo y el vector velocidad forma el mismo ángulo con el eje $x$ pero hacia abajo.
+    
+    \item La componente horizontal de la velocidad $(v_x)$ es constante para todos los puntos de la trayectoria.
+\end{itemize}
+
+Cuando se estudian las posibles trayectorias de un tiro oblicuo, suele ser de interés calcular el \emph{alcance} que va a tener el cuerpo. Esta distancia $x_d$ para la cual el cuerpo impacta en el piso está dada para el punto cuya coordenada vertical es nula.
+
+Así, al igualar a cero la ecuación \ref{eqn:oblicuoCurva} se tiene, completando cuadrados:
+\begin{align*}
+    0 &= -\frac{g}{2 \, v_{0x}^2} \, x^2 + \frac{v_{0y}}{v_{0x}} \, x + y_0
+    \\[1ex]
+    &= x^2 - \frac{2 \, v_{0x}^2}{g} \frac{v_{0y}}{v_{0x}} \, x - \frac{2 \, v_{0x}^2}{g} \, y_0
+    \\[1ex]
+    &= x^2 - 2 \, \frac{v_{0x} \, v_{0y}}{g} \, x - \frac{2 \, v_{0x}^2}{g} \, y_0
+    \\[1ex]
+    &= \left(x - \frac{v_{0x} \, v_{0y}}{g}\right)^2 - \left(\frac{v_{0x} \, v_{0y}}{g}\right)^2 - \frac{2 \, v_{0x}^2}{g} \, y_0
+\end{align*}
+
+Entonces, si consideramos $y_0=\SI{0}{\metre}$ como un caso particular, el alcance es:
+\begin{align*}
+    \left(x - \frac{v_{0x} \, v_{0y}}{g}\right)^2 &= \left(\frac{v_{0x} \, v_{0y}}{g}\right)^2
+    \\[1ex]
+    x &= \frac{2 \, v_{0x} \, v_{0y}}{g}
+    \\[1ex]
+    &= \frac{2 \cos(\theta) \sin(\theta) \, v_0^2}{g}
+\end{align*}
+
+Y, finalmente, usando la propiedad trigonométrica del seno de ángulo doble que implica $2 \cos(\theta) \sin(\theta)=\sin(2\theta)$ se obtiene
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:oblicuoAlcance}
+    \end{prop}
+    \cusTi{Alcance de tiro oblicuo}
+    \begin{equation*}
+        y_0 = \SI{0}{\metre} \implies x_d = \frac{\sin(2\theta) \, v_0^2}{g}
+    \end{equation*}
+\end{mdframed}
+
+Aunque podríamos usar las parametrizaciones $x(t)$ e $y(t)$ para dar con una fórmula para el alcance que admita $y_0 \neq \SI{0}{\metre}$. Primero se calcula el tiempo $t=t_d$ tal que $y(t)=\SI{0}{\metre}$ siendo este lo que tarda el cuerpo en tener altura nula. Completando cuadrados esto es:
+\begin{align*}
+    0 &= -\frac{g}{2} \, t^2 + v_{0y} \, t + y_0
+    \\[1ex]
+    &= t^2 - 2 \, \frac{v_{0y}}{g} \, t - \frac{2\,y_0}{g}
+    \\[1ex]
+    &= \left( t - \frac{v_{0y}}{g} \right)^2 - \left(\frac{v_{0y}}{g}\right)^2 - \frac{2\,y_0}{g}
+    \\[1ex]
+    \left( t - \frac{v_{0y}}{g} \right)^2 &= \left(\frac{v_{0y}}{g}\right)^2 + \frac{2\,y_0}{g}
+    \\[1ex]
+    t>\frac{v_{0y}}{g} \implies t_d &= \sqrt{\left(\frac{v_{0y}}{g}\right)^2 + \frac{2\,y_0}{g}} + \frac{v_{0y}}{g}
+\end{align*}
+
+Y luego se evalúa $x(t_d)$ para obtener el alcance:
+\begin{align*}
+    x_d &= v_{0x} \, t_d
+    \\[1ex]
+    &= \sqrt{v_{0x}^2} \sqrt{\left(\frac{v_{0y}}{g}\right)^2 + \frac{2\,y_0}{g}} + \frac{v_{0x}\,v_{0y}}{g}
+    \\[1ex]
+    &= \sqrt{\left(\frac{v_{0x}\,v_{0y}}{g}\right)^2 + \frac{2 \, y_0 \, v_{0x}^2}{g}} + \frac{v_{0x}\,v_{0y}}{g}
+\end{align*}
+
+O bien, usando trigonometría podemos expresar el resultado en función de la norma de la velocidad inicial ($v_0$) y el ángulo ($\theta$) que forma con la horizontal.
+\begin{multline*}
+    x_d = \sqrt{\left(\frac{v_0^2 \cos(\theta) \sin(\theta)}{g}\right)^2 + \frac{2 \, y_0 \, v_0^2 \cos^2(\theta)}{g}} +
+    \\ + \frac{v_0^2 \cos(\theta) \sin(\theta)}{g}
+\end{multline*}
+
+Y, finalmente, usando la propiedad trigonométrica del seno de ángulo doble se obtiene
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Alcance de tiro oblicuo}
+    \begin{equation*}
+        \scale{0.94}{
+        x_d = \sqrt{\left(\frac{\sin(2\theta) \, v_0^2}{2g}\right)^2 + \frac{2 \, y_0 \, v_0^2 \cos^2(\theta)}{g}} + \frac{\sin(2\theta) \, v_0^2}{2g}
+        }
+    \end{equation*}
+\end{mdframed}
+
+A partir de cualquiera de ambas propiedades podemos estudiar el alcance en función del ángulo de tiro tomando un valor fijo para $v_0$.
+
+Para el caso en que $y_0 = \SI{0}{\metre}$ se puede usar la propiedad \ref{prop:oblicuoAlcance} para estudiar $x_d$ en función de $\theta$ como sigue.
+\begin{equation*}
+    x_d = \frac{\sin(2\theta) \, v_0^2}{g}
+\end{equation*}
+
+El gráfico de la función $\sin(2\theta)$ está acotado tal que
+\begin{equation*}
+    0 \leq \theta \leq \ang{90} \Rightarrow 0 \leq x_d \leq \frac{v_0^2}{g}
+\end{equation*}
+
+Y presenta un máximo en $\theta=\pi/4$. Lo cual significa que el alcance $x_d$ va a tomar un valor de $v_0^2/g$ como máximo cuando el ángulo de tiro sea $\ang{45}$. Además, dado que las funciones senoidales son simétricas con respecto a un máximo, vemos que el alcance va a ser el mismo para ángulos simétricos con respecto de $\ang{45}$. Esto se traduce en la siguiente propiedad.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    Sea $\alpha>0$ el módulo de la diferencia entre $\ang{45}$ y el ángulo de tiro ($\theta$). Para el caso $y_0 = \SI{0}{\metre}$ de tiro oblicuo se tiene que
+    \begin{equation*}
+        x_d(\theta_1) = x_d(\theta_2) \iff \theta_{1,2} = \ang{45} \pm \alpha
+    \end{equation*}
+\end{mdframed}
+
+A continuación podemos ver un gráfico que ilustra estas conclusiones. En él se muestran algunas de las posibles trayectorias de un tiro oblicuo en función de una velocidad inicial con ángulo variable pero de norma constante.
+
+\begin{center}
+    \vspace{-5cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-tiro-oblicuo-2.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+
+
 \end{document}

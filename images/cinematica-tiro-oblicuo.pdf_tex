@@ -1,0 +1,74 @@
+%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'cinematica-tiro-oblicuo.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27559055bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.41428571)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-tiro-oblicuo.pdf}}%
+    \put(0.20410414,0.9676684){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y(t)$\end{minipage}}}%
+    \put(0.69948509,0.69311509){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x(t)$\end{minipage}}}%
+    \put(0.60917501,0.62737468){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x_d$\end{minipage}}}%
+    \put(0.74796028,0.88900821){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\vec{a}$\end{minipage}}}%
+    \put(0.73135923,0.51116688){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.70886563\unitlength}\raggedright $\sub{\vec{v}}{max}$\end{minipage}}}%
+    \put(0.43341488,0.62737468){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x_h$\end{minipage}}}%
+    \put(0.52541006,0.89995246){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_x$\end{minipage}}}%
+    \put(0.30575167,0.83455658){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_0$\end{minipage}}}%
+    \put(0.62316495,0.781433){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_\ith$\end{minipage}}}%
+    \put(0.52541909,0.76881616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{r}_\ith$\end{minipage}}}%
+    \put(0.22403294,0.83986892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $v_{0y}$\end{minipage}}}%
+    \put(0.32308146,0.70706002){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $v_{0x}$\end{minipage}}}%
+    \put(0.22526195,0.89995246){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y_h$\end{minipage}}}%
+    \put(0.62976042,0.71237238){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.31565851,0.74885546){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.22526195,0.74876197){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y_0$\end{minipage}}}%
+  \end{picture}%
+\endgroup%
