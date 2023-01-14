@@ -1,0 +1,67 @@
+%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'cinematica-mcu-4.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27559055bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.41428571)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.59524896,0.95128265){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.42292401,0.85925078){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.62858706,0.78506182){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
+    \put(0.34394206,0.8470031){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
+    \put(0.40855129,0.63664453){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\vec{v}$\end{minipage}}}%
+    \put(0.51946268,0.77801857){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.54397051,0.86813286){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
+    \put(0.38582953,0.96724737){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.32290978,0.76346251){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-mcu-4.pdf}}%
+  \end{picture}%
+\endgroup%

@@ -1104,6 +1104,265 @@ Al sustitur esta relación en la propiedad \ref{prop:period}, resulta
 
 Para obtener una expresión de la aceleración centrípeta en términos de las variables angulares, se estudia la posición y la velocidad de la partícula en dos instantes diferentes. Esto se interpreta como un cuerpo en MCU que prmiero pasa por una posición y transcurrido cierto tiempo de ``ángulo barrido'' (Sec. \ref{A:arcLength}) se encuentra en la segunda posición. 
 
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-mcu-1.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+En el siguiente gráfico se observa el vector desplazamiento $\Delta \xyz = \xyz_2-\xyz_1$, que forma un triángulo con los dos vectores de posición.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-mcu-2.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+En el siguiente gráfico se muestra el vector $\Delta \Vec{v} = \Vec{v}_2-\Vec{v}_1$, que forma un triángulo con las dos velocidades trasladadas al origen.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-mcu-3.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+Y finalmente se muestran todos los elementos en un mismo gráfico.
+
+\begin{center}
+    \vspace{-6cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/cinematica-mcu-4.pdf_tex}
+    \vspace{-6cm}
+\end{center}
+
+Como el ángulo entre los vectores de posición $\xyz_1$ y $\xyz_2$ es el mismo que el ángulo entre los vectores de velocidad $\Vec{v}_1$ y $\Vec{v}_2$, el triángulo que forman los vectores de posición $\xyz_1$, $\xyz_2$ y $\Delta \xyz$ es semejante al que forman los vectores de velocidad $\Vec{v}_1$, $\Vec{v}_2$ y $\Delta \Vec{v}$. Por lo tanto, la división entre dos aristas cualquiera es la misma para ambos triángulos:
+\[
+  \dfrac{\norm{\Delta\xyz}}{\norm{\xyz}} = \dfrac{\norm{\Delta\Vec{v}}}{\norm{\Vec{v}}}
+  \iff
+  \dfrac{\norm{\Delta\xyz}}{r} = \dfrac{\norm{\Delta\Vec{v}}}{v}
+\]
+
+Dividiendo ambos miembros de la ecuación por $\Delta t$, aquí considerado positivo sin pérdida de generalidad, y reacomodando algebraicamente, se tiene:
+\[
+  \dfrac{\norm{\Delta\xyz}}{r \Delta t} = \dfrac{\norm{\Delta \Vec{v}}}{v \Delta t}
+  \iff
+  \norm{\dfrac{\Delta \xyz}{\Delta t}} \dfrac{v}{r} = \norm{\dfrac{\Delta \Vec{v}}{\Delta t}}
+\]
+
+Tomando el límite cuando $\Delta t \to 0$ quedan definidos los módulos de la velocidad y la aceleración.
+\[
+  \norm{\dfrac{\dif \xyz}{\dif t}} \dfrac{v}{r} = \norm{\dfrac{\dif \Vec{v}}{\dif t}}
+  \iff
+  \norm{\Vec{v}(t)} \cdot \dfrac{v}{r} = \norm{\Vec{a}(t)}
+  \iff
+  v \cdot \dfrac{v}{r} = a_c
+\]
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:}
+    \end{prop}
+    \cusTi{Aceleración centrípeta}
+    \begin{equation*}
+        a_c = \dfrac{v^2}{r}
+    \end{equation*}
+\end{mdframed}
+
+Como se mencionó anteriormente, en un MCU la aceleración angular ($\alpha$) es nula, puesto que la velocidad angular ($\omega$) es constante. Por lo tanto, denominando $\varphi$ al ángulo inicial, si $t_0=\SI{0}{\second}$, el ángulo en función del tiempo va a estar dado según la definición \ref{defn:anglePosition}.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Posición angular del MCU}
+    \begin{equation*}
+        \theta (t) = \omega_0 \, t + \varphi
+    \end{equation*}
+\end{mdframed}
+
+De manera que podemos dar con las ecuaciones de movimiento considerando la geometría del movimiento circular mediante una transformación. Ver sección \ref{A:polarCoordinates} del anexo. Luego, el vector que describe la posición (Def. \ref{defn:position}) de un MCU se define a continuación.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:MCUmovementEqns}
+    \end{defn}
+    \cusTi{Función de posición del MCU}
+    \begin{equation*}
+        \xyz(t) = \sqb{r \cos{(\omega t + \varphi)} &,& r \sin{(\omega t + \varphi)}}
+    \end{equation*}
+\end{mdframed}
+
+
+\subsection{MCUV}
+
+El movimiento circular uniformemente variado se da cuando un cuerpo gira en torno a una circunferencia con aceleración angular ($\alpha$) constante.
+
+El MCUV hereda las propiedades \ref{prop:circularMovRadius} y \ref{prop:circularMovVel} generales para movimientos circulares. A saber:
+\begin{itemize}
+    \item Al ser un movimiento circular, el radio permanece constante.
+    
+    \item La velocidad radial es nula y, en consecuencia, el vector velocidad sólo tiene la componente tangencial.
+\end{itemize}
+
+Denominando $\varphi$ al ángulo inicial, si $t_0=\SI{0}{\second}$, el ángulo en función del tiempo va a estar dado según la definición \ref{defn:anglePosition} como sigue.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Posición angular del MCUV}
+    \begin{equation*}
+        \theta (t) = \frac{\alpha}{2} \, t^2 + \omega_0 \, t + \varphi
+    \end{equation*}
+\end{mdframed}
+
+De manera que podemos dar con las ecuaciones de movimiento considerando la geometría del movimiento circular mediante una transformación. Ver sección \ref{A:polarCoordinates} del anexo. Luego, el vector que describe la posición (Def. \ref{defn:position}) de un MCUV se define a continuación.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Función de posición del MCUV}
+    \begin{equation*}
+        \scale{0.94}{
+        \xyz(t) = \sqb{r \cos{\left(\frac{\alpha}{2} \, t^2 + \omega t + \varphi\right)} \, , \, r \sin{\left(\frac{\alpha}{2} \, t^2 + \omega t + \varphi\right)}}
+        }
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Interpretación de gráficos}
+
+La representación gráfica suele ser confusa. Se pueden hacer varios gráficos de una misma función vectorial que brinden información muy diferente de la misma, dependiendo de qué se esté graficando.
+
+Las funciones escalares se grafican en dos dimensiones y un eje representa el conjunto de partida y otro el de llegada y no se presta lugar a confusión porque no hay más variables que puedan ser graficadas. Pero en una trayectoria curva, tenemos para graficar 1 variable independiente y 2 o 3 variables dependientes. Es decir, tenemos 3 o 4 variables que se pueden graficar y solo podemos hacer gráficos de 3 dimensiones por computadora o 2 en una hoja. Evidentemente hay que discriminar qué queremos graficar.
+
+\begin{itemize}
+    \item Gráfico del recorrido: Graficar la imagen de una trayectoria curva sirve para vizualizar cómo es el recorrido que hace la partícula. Justamente se estarían dibujando las coordenadas $[x,y]$ en el caso de una curva plana o $[x,y,z]$ en el caso de una curva en el espacio. Es decir, se graficarían los vectores de posición que arroja la imagen de una función vectorial conforme pasa el tiempo.
+    
+    \item Gráfico de la razón de cambio: Sacrificar la información de posición de alguna de las dimensiones permite graficar la variable independiente en un eje. Es muy útil para estudiar, por ejemplo, cómo cambia la posición o la velocidad conforme pasa el tiempo. Esto se hace muchísimo en física, ya que nos interesa analizar la razón de cambio entre las variables dependientes e independientes, que es la pendiente de estos gráficos.
+\end{itemize}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Bote en una laguna: Gráficos}
+    \begin{formatI}
+        Graficar la trayectoria, las funciones de posición, de velocidad y de aceleración.
+    \end{formatI}
+    El siguiente es el gráfico del ejemplo. En este gráfico ninguno de los ejes representa una variable independiente:
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-2.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Y por otro lado podriamos graficar entonces, cómo varía el parámetro tiempo $(t)$ para cada dimensión. Esto es, graficar las dos funciones escalares $x(t)$ e $y(t)$. En estos gráficos el eje de abscisas representa la variable independiente $(t)$ al igual que las funciones de Análisis Matemático de una variable. Ambos gráficos pertenecen a la misma función vectorial, ya que es una función vectorial de 2 coordenadas que varian con el tiempo.
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-3.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Como se vió anteriormente, en función de la información que necesitemos conocer vamos a poder hacer diferentes gráficos, según qué representen los ejes. En Cinemática para analizar gráficamente la velocidad o la aceleración como son derivadas con respecto del tiempo, resulta útil hacer los gráficos de las funciones escalares (Sec. \ref{sec:scalarFunctions}) que son las componentes de sus vectores.
+    
+    Analicemos entonces, los gráficos de las componentes de los vectores velocidad y aceleración:
+    \[
+      \Vec{v}(t)
+      \left\{
+      \begin{aligned}
+        v_x(t) &= 3 \, t^2 \, \si{\metre\per\second^3}
+        \\
+        v_y(t) &= 2t \, \si{\metre\per\second^2}
+      \end{aligned}
+      \right.
+      \quad
+      \Vec{a}(t)
+      \left\{
+      \begin{aligned}
+        a_x(t) &= 6 \, t \, \si{\metre\per\second^3}
+        \\
+        a_y(t) &= 2 \, \si{\metre\per\second^2}
+      \end{aligned}
+      \right.
+    \]
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-4.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Como conclusiones de la velocidad, observando al eje $x$ podemos afirmar que el bote sale del muelle $A$ con gran velocidad, se va frenando hasta que llega lentamente al muelle $B$, donde su velocidad es nula, y cuadráticamente aumenta su velocidad para llegar (y posiblemente estrellarse) contra el muelle $C$. En cuanto al eje $y$ podemos observar que el bote parte con velocidad negativa, y esto tiene sentido porque el muelle $B$ se encuentra más al sur del muelle $A$. Para ir del muelle $B$ al $C$, el bote tiene que dirigirse hacia el norte y por eso comienza a adoptar una velocidad positiva.
+    
+    Como conclusiones de la aceleración, podemos hacer una observación matemática y es que la aceleración en el eje $y$ es constante, por lo que tiene sentido que la velocidad en ese mismo eje sea una recta, según las nociones de integrales. En cuanto a la aceleración en el eje $x$ podemos ver que cuando el bote sale del muelle $A$ tiene aceleración negativa, lo cual tiene sentido porque está frenando la gran velocidad que trae para llegar al muelle $B$ con velocidad nula.
+\end{mdframed}
+
+
+\section{Sistemas de referencia}
+
+Establecer un sistema de referencia es fijar un punto en el espacio por el cual van a intersectarse los ejes coordenados.
+
+En caso que se usen coordenadas cartesianas, sobre cada eje se ubicarán los versores cartesianos $\iVer$, $\jVer$ y $\kVer$. En caso que se usen coordenadas polares, los versores a graficar serán $\versor{r}$ y $\versor{\theta}$. Independientemente de la geometría de las coordenadas usadas, se tiene que ubicar cada canónico que genere el espacio por el cual se van a dar los movimientos.
+
+Dependiendo del sistema de referencia que se adopte, se pueden establecer diferentes trayectorias que describan el mismo movimiento. Es decir, dependiendo del sistema de referencia, podemos usar diferentes ecuaciones matemáticas para describir los mismos puntos del espacio. Pero independientemente del sistema de referencia que se adopte, el movimiento que se describa tiene que ser el mismo, llegando así a los mismos resultados desde diferentes sistemas de referencia.
+
+Los parámetros a elegir a la hora de establecer un sistema de referencia son en primer lugar la cantidad de dimensiones espaciales que se necesitan. Luego, la ubicación del origen de coordenadas. Y finalmente, el sentido de los versores generadores de la base. Esto es, para el caso de coordenadas cartesianas, determinar si el sentido positivo es hacia arriba o hacia abajo, hacia delante o hacia atrás, hacia la derecha o hacia la izquierda.
+
+Depende de cómo se elija este procedimiento los ejercicios van a ser más o menos difíciles o directamente posibles o imposibles de resolver. A continuación se muestran algunos sistemas de referencia para el mismo movimiento. Lo importante de ver es que las trayectorias adquieren diferentes ecuaciones según el sistema de referencia establecido. Pero por ahora no es importante entender porqué o cómo se obtuvieron las ecuaciones para cada sistema, sino ver que cada parametrización cambia según el sistema de referencia que se adopte.
+
+El punto indica el origen de coordenadas, las flechas la dirección del movimiento y el signo indica el sentido de cada eje.
+
+Finalmente, podemos clasificar los sistemas en abiertos o cerrados dependiendo de si el sistema intercambia o no masa con el medio ambiente. Y en aislado o no aislado dependiendo de si el sistema intercambia o no energía con el medio ambiente.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{Bote en una laguna: sistemas de referencia}
+    \begin{formatI}
+        Describir el movimiento usando varios sistemas de referencia.
+    \end{formatI}
+    Volviendo a la trayectoria del ejemplo anterior, se puede observar que la misma está diseñada para un sistema de referencia específico. Pero podemos plantear varios sistemas equivalentes que describen el mismo movimiento con parametrizaciones diferentes.
+    
+    Para el sistema de referencia planteado en el ejemplo, el origen está en el punto cuspidal de la curva y los ejes están orientados positivamente, positivo hacia el este el eje $x$ y positivo hacia el norte el eje $y$. La ecuación de movimiento y su gráfico son los ya vistos:
+    \begin{equation*}
+        \xyz(t) = \sqb{t^3 \, \si{\metre\per\second^3} \, , \, t^2 \, \si{\metre\per\second^2}}
+    \end{equation*}
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-5.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Pero podemos describir el mismo movimiento, con los ejes orientados de igual forma, y el origen a la izquierda. Si es así, la ecuación de movimiento y el gráfico de la trayectoria pasan a ser los siguientes:
+    \[ \xyz(t) = \sqb{(t-1)^3 \, \si{\metre\per\second^3} \, , \, (t-1)^2 \, \si{\metre\per\second^2}} \quad t \in [0;2] \]
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-6.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    O bien, podemos describir el movimiento, con el origen como en el sistema $ii$ pero con los ejes orientados de manera inversa. Y en este caso, la ecuación de movimiento y sería la siguiente y la figura de la izquierda a continuación su gráfico:
+    \[ \xyz(t)= \sqb{(t+1)^3 \, \si{\metre\per\second^3} \, , \, (t+1)^2 \, \si{\metre\per\second^2}} \quad t \in [0;2] \]
+    
+    \begin{center}
+        \vspace{-6cm}
+        \def\svgwidth{\linewidth}
+        \input{./images/cinematica-boat-7.pdf_tex}
+        \vspace{-6cm}
+    \end{center}
+    
+    Notar, por la figura de la derecha anterior, que el movimiento del ejemplo es equivalente a un movimiento con el origen a la derecha que se da de derecha a izquierda, con los ejes orientados positivamente. Ambos movimientos se modelarían con la misma ecuación de movimiento mencionada.
+\end{mdframed}
 
 
 \end{document}

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg62186"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="cinematica-mcu-4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62188"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6832492"
+     inkscape:cx="460.82191"
+     inkscape:cy="531.2589"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs62183" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,85.132224,13.955858)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}_1$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,48.943984,33.282551)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-40"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-7"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}_1$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-01"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,92.133223,48.862233)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-4"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-3"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\xyz_1$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-01-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,32.357773,35.854564)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-4-2"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-3-2"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\Delta\xyz$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-01-5-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,45.925713,80.029863)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-4-2-0"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-3-2-5"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-2-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\Delta\vec{v}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-01-5-2-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,69.217104,50.341316)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-4-2-0-2"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-3-2-5-7"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-2-9-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\Delta\theta$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-01-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,74.363748,31.417314)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-4-1"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-3-6"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\xyz_2$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,41.154143,10.603268)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-7"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-2"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}_2$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-6-1-2-0-0-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,27.940996,53.398088)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-9-9-9-8-7-9"><rect
+           id="rect1021-2-9-4-3-2-5-0-0-1-6-2-0"
+           width="269.39813"
+           height="86.536896"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-0-7-5-5-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}_2$</flowPara></flowRoot>
+    <circle
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       transform="rotate(-28.943255)"
+       r="39.87006"
+       cy="180.76637"
+       cx="20.019886"
+       id="path815-3"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path817-4"
+       d="M 105.00005,95.475535 V 201.52446"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 158.02444,148.50001 H 51.975555"
+       id="path819-0"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       transform="translate(68.985185,-232.63749)"
+       id="g4244">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 61.660765,345.66459 8.904803,15.52115"
+         id="path908-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 61.660765,345.66459 -1.14187,0.65926 c 0,0 0.598638,-1.12073 -1.423255,-5.10218 2.437101,3.74173 3.706998,3.78365 3.706998,3.78365 z"
+         id="path910-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       transform="translate(68.985185,-232.63749)"
+       id="g4234">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 36.01483,381.13751 70.543318,361.20247"
+         id="path845-88"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 66.100395,363.76759 -0.65926,-1.14187 c 0,0 1.12073,0.59863 5.10218,-1.42326 -3.74173,2.43709 -3.783661,3.70699 -3.783661,3.70699 z"
+         id="path928-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <circle
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       r="1.4917369"
+       cy="128.56502"
+       cx="139.52847"
+       id="path930-9"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path944-8"
+       d="m 121.47175,139.99953 c 0,0 -4.4002,-7.92381 -13.0736,-9.30746"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       r="1.4917369"
+       cy="109.77962"
+       cx="114.50436"
+       id="path930-9-1"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       transform="rotate(-46.208816,-202.13991,183.96925)"
+       id="g4258">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4254"
+         d="m 61.660765,345.66459 8.904803,15.52115"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4256"
+         d="m 61.660765,345.66459 -1.14187,0.65926 c 0,0 0.598638,-1.12073 -1.423255,-5.10218 2.437101,3.74173 3.706998,3.78365 3.706998,3.78365 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       transform="rotate(-46.208816,-202.13991,183.96925)"
+       id="g4264">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4260"
+         d="M 36.01483,381.13751 70.543318,361.20247"
+         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4262"
+         d="m 66.100395,363.76759 -0.65926,-1.14187 c 0,0 1.12073,0.59863 5.10218,-1.42326 -3.74173,2.43709 -3.783661,3.70699 -3.783661,3.70699 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path4340"
+       d="M 105.00005,148.50001 84.089265,132.78017"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:transform-center-y="2.06153"
+       inkscape:transform-center-x="-2.450655"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.089265,132.78017 0.78796,-1.05716 c 0,0 -1.18291,0.46381 -4.90131,-2.00874 3.43188,2.85695 3.32538,4.12306 3.32538,4.12306 z"
+       id="path2992-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path4367"
+       d="m 114.50454,109.77939 25.0238,18.78566"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 96.095215,132.97885 8.904835,15.52116"
+       id="path4399"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.095215,132.97885 -1.14187,0.65926 c 0,0 0.59864,-1.12072 -1.42325,-5.10218 2.4371,3.74174 3.707,3.78365 3.707,3.78365 z"
+       id="path4401"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path4405"
+       d="m 87.633405,144.18696 17.366645,4.31305"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4407"
+       d="m 87.633405,144.18696 -0.31431,1.2805 c 0,0 -0.39474,-1.20771 -4.66803,-2.50347 4.38758,0.83014 5.29665,-0.0575 5.29665,-0.0575 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path4411"
+       d="m 93.530095,128.53592 -10.87903,14.42807"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.00005,148.5 -7.816845,10.31198"
+       id="path4413"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:transform-center-y="-2.451555"
+       inkscape:transform-center-x="-2.060045"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.183205,158.81199 -1.05787,-0.78702 c 0,0 0.46487,1.18251 -2.00435,4.90311 2.85387,-3.43443 4.12009,-3.32907 4.12009,-3.32907 z"
+       id="path2992-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path5022"
+       d="m 93.530095,128.53592 -10.87903,14.42808 22.348975,5.53601 z"
+       style="fill:#000000;fill-opacity:0.196078;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MCUa4.png"
+       inkscape:connector-curvature="0"
+       id="path5024"
+       d="m 114.51115,109.78101 25.01719,18.78402 -34.52829,19.93498 z"
+       style="fill:#000000;fill-opacity:0.196078;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
