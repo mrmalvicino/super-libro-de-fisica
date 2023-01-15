@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="397.27954"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="614.01633"
+     inkscape:cy="483.30727"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -64,22 +64,6 @@
        d="M 104.12918,83.483751 V 173.50153"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot7039-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,22.226407,6.676161)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion7035-2"><rect
-           id="rect7033-12"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara7037-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">x</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 155.04205,134.39663 H 53.216267"
@@ -104,26 +88,6 @@
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot7061-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-15.039013,7.074821)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion7055-9"><rect
-           id="rect7053-1"
-           width="126.42857"
-           height="72.85714"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara7059-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"><flowSpan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols'"
-           id="flowSpan7063-7">q</flowSpan><flowSpan
-           style="font-size:65%;baseline-shift:sub"
-           id="flowSpan7057-2" /></flowPara></flowRoot>
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -132,22 +96,6 @@
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot7039-1-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-29.502503,-38.895709)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion7035-8-7"><rect
-           id="rect7033-1-5"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara7037-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">y</flowPara></flowRoot>
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path828-2-0"
@@ -165,38 +113,6 @@
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       transform="matrix(0.26458333,0,0,0.26458333,-16.004453,-8.103339)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1096"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1092"><rect
-           y="450.37683"
-           x="483.57144"
-           height="102.14283"
-           width="226.42856"
-           id="rect1090" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1094">r</flowPara></flowRoot>
-    <flowRoot
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       transform="matrix(0.26458333,0,0,0.26458333,-7.405973,-37.508769)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1104"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1100"><rect
-           y="450.37683"
-           x="483.57144"
-           height="102.14283"
-           width="226.42856"
-           id="rect1098" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1102">A</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 143.23409,95.291721 V 134.39663"
@@ -254,22 +170,6 @@
        d="m 105.72795,131.71102 c -2.03449,-1.50067 8.45941,-10.17545 8.45941,-10.17545 0,0 2.1009,-1.78317 1.33708,-3.72743 m 14.09761,-9.51413 c -1.45937,-2.06434 -10.34402,8.25253 -10.34402,8.25253 0,0 -1.82518,2.06451 -3.75359,1.2616"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1161" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot1169"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-46.510923,-37.508769)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion1165"><rect
-           id="rect1163"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara1167"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">A</flowPara></flowRoot>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:1"
        d="M 104.12918,95.291721 H 65.024247"
@@ -294,40 +194,6 @@
        id="path1175"
        d="M 65.024247,95.291721 V 134.39663"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot1183"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,3.188027,-21.601369)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion1179"><rect
-           id="rect1177"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara1181"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">c(t)</flowPara></flowRoot>
-    <g
-       transform="translate(8.713887,3.781221)"
-       id="g1033-7"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 104.12918,134.39662 28.13179,10e-6"
@@ -336,24 +202,6 @@
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.853073,13.636081)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1203"
-       xml:space="preserve"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1199"><rect
-           y="450.37683"
-           x="483.57144"
-           height="102.14283"
-           width="226.42856"
-           id="rect1197" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1201">x<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1205">eq</flowSpan></flowPara></flowRoot>
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path828-2-0-9-6"
@@ -372,110 +220,6 @@
        inkscape:export-ydpi="300"
        r="1.25"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1027-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,55.952347,111.22301)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1023-6"><rect
-           id="rect1021-2"
-           width="224.9241"
-           height="118.35081"
-           x="150.68999"
-           y="314.73935" /></flowRegion><flowPara
-         id="flowPara1025-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">v <flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1350">Max</flowSpan></flowPara></flowRoot>
-    <g
-       transform="translate(-25.859613,101.55524)"
-       id="g1033-7-7-2"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-3"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 95.616417,196.64601 v 6.35004"
-       id="path1184"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1186"
-       d="m 94.822667,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1188"
-       d="m 102.231,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 101.43725,196.64601 v 6.35004"
-       id="path1190"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot1275"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-60.870823,13.636081)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion1269"><rect
-           id="rect1267"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara1273"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">x<flowSpan
-   id="flowSpan1271"
-   style="font-size:65%;baseline-shift:sub">min</flowSpan></flowPara></flowRoot>
-    <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       xml:space="preserve"
-       id="flowRoot1285"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,16.742827,13.636081)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion1279"><rect
-           id="rect1277"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara1283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">x<flowSpan
-   id="flowSpan1281"
-   style="font-size:65%;baseline-shift:sub">Max</flowSpan></flowPara></flowRoot>
     <path
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -528,302 +272,309 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,57.006897,122.61197)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1332"
        xml:space="preserve"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
+       id="flowRoot2769-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,41.72531,-3.1656024)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1326"><rect
-           y="314.73935"
-           x="150.68999"
-           height="118.35081"
-           width="224.9241"
-           id="rect1324" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1330">a<flowSpan
-   style="font-size:26.6667px"
-   id="flowSpan1348">=0</flowSpan></flowPara></flowRoot>
-    <g
-       id="g1338"
-       transform="translate(-24.805063,112.94419)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path1334"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path1336"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,16.512827,111.22301)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1360-6"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1354"><rect
-           y="314.73935"
-           x="150.68999"
-           height="118.35081"
-           width="224.9241"
-           id="rect1352" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1358-0">a <flowSpan
-   id="flowSpan1356"
-   style="font-size:65%;baseline-shift:sub">Max</flowSpan></flowPara></flowRoot>
-    <g
-       id="g1366"
-       transform="translate(-65.299163,101.55524)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path1362"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path1364"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1368"
-       d="m 56.176877,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 55.383127,196.64601 v 6.35004"
-       id="path1370"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 62.791457,196.64601 v 6.35004"
-       id="path1372"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1374"
-       d="m 61.997707,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1384"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,17.567347,122.61197)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1378"><rect
-           id="rect1376"
-           width="224.9241"
-           height="118.35081"
+         id="flowRegion2765-7"><rect
+           id="rect2763-8"
+           width="405.42691"
+           height="110.41418"
            x="150.68999"
            y="314.73935" /></flowRegion><flowPara
-         id="flowPara1382"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">v<flowSpan
-   id="flowSpan1380"
-   style="font-size:26.6667px">=0</flowSpan></flowPara></flowRoot>
-    <g
-       transform="translate(-64.244623,112.94419)"
-       id="g1390"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1386"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1388"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
+         id="flowPara2767-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$A$</flowPara></flowRoot>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot1400"
+       id="flowRoot2769-7-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,94.759197,111.22301)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
+       transform="matrix(0.26458333,0,0,0.26458333,16.314785,120.75373)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1394"><rect
-           id="rect1392"
-           width="224.9241"
-           height="118.35081"
+         id="flowRegion2765-7-9"><rect
+           id="rect2763-8-5"
+           width="405.42691"
+           height="110.41418"
            x="150.68999"
            y="314.73935" /></flowRegion><flowPara
-         id="flowPara1398"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">a <flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1396">Max</flowSpan></flowPara></flowRoot>
-    <g
-       transform="translate(12.947217,101.55524)"
-       id="g1406"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1402"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1404"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 134.42323,196.64601 v 6.35004"
-       id="path1408"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1410"
-       d="m 133.62948,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1412-2"
-       d="m 141.03781,196.64601 v 6.35004"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 140.24406,196.64601 v 6.35004"
-       id="path1414"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+         id="flowPara2767-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}=0$</flowPara></flowRoot>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,95.813717,122.61197)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1424"
        xml:space="preserve"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
+       id="flowRoot1259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,80.936301,-3.1656024)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1418"><rect
-           y="314.73935"
+         id="flowRegion1255"><rect
+           id="rect1253"
+           width="405.42691"
+           height="110.41418"
            x="150.68999"
-           height="118.35081"
-           width="224.9241"
-           id="rect1416" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1422">v<flowSpan
-   style="font-size:26.6667px"
-   id="flowSpan1420">=0</flowSpan></flowPara></flowRoot>
-    <g
-       id="g1430"
-       transform="translate(14.001767,112.94419)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         id="path1426"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         id="path1428"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-    </g>
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$A$</flowPara></flowRoot>
     <flowRoot
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       transform="matrix(0.26458333,0,0,0.26458333,-60.870823,66.151821)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1453"
        xml:space="preserve"
+       id="flowRoot1347"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,57.600311,-3.1656024)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1447"><rect
-           y="450.37683"
-           x="483.57144"
-           height="102.14283"
-           width="226.42856"
-           id="rect1445" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1451">x<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1449">min</flowSpan></flowPara></flowRoot>
+         id="flowRegion1343"><rect
+           id="rect1341"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$y$</flowPara></flowRoot>
     <flowRoot
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
        xml:space="preserve"
-       id="flowRoot1463"
+       id="flowRoot1347-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.853073,66.362721)"
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"><flowRegion
-         id="flowRegion1457"><rect
-           id="rect1455"
-           width="226.42856"
-           height="102.14283"
-           x="483.57144"
-           y="450.37683" /></flowRegion><flowPara
-         id="flowPara1461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">x<flowSpan
-   id="flowSpan1459"
-   style="font-size:65%;baseline-shift:sub">eq</flowSpan></flowPara></flowRoot>
-    <flowRoot
-       inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Osc2.png"
-       transform="matrix(0.26458333,0,0,0.26458333,16.742827,66.573631)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1473"
-       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,107.59384,41.262561)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1467"><rect
-           y="450.37683"
-           x="483.57144"
-           height="102.14283"
-           width="226.42856"
-           id="rect1465" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1471">x<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1469">Max</flowSpan></flowPara></flowRoot>
+         id="flowRegion1343-8"><rect
+           id="rect1341-7"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1345-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$x$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2270"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,105.12821,51.221227)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2266"><rect
+           id="rect2264"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{max}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,67.100485,51.221227)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2880"><rect
+           id="rect2878"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{eq}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,27.035077,51.221227)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2990"><rect
+           id="rect2988"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{min}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,72.263924,41.368208)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2990-8"><rect
+           id="rect2988-3"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2992-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\theta$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994-0-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,70.077253,26.191218)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2990-8-7"><rect
+           id="rect2988-3-1"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2992-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$r$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994-0-5-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,94.324105,13.843586)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2990-8-7-0"><rect
+           id="rect2988-3-1-8"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2992-6-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\xyz(t)$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,105.12821,98.84623)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion5244"><rect
+           id="rect5242"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara5246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{max}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5248-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,17.381549,109.72695)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion5244-7"><rect
+           id="rect5242-2"
+           width="567.75909"
+           height="95.129654"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara5246-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{\nnorm{\vec{a}}}{max}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,67.100485,98.84623)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion5252"><rect
+           id="rect5250"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara5254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{eq}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,27.035077,98.84623)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion5260"><rect
+           id="rect5258"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara5262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{x}{min}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6400"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,54.423218,109.72695)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion6396"><rect
+           id="rect6394"
+           width="481.84952"
+           height="110.94124"
+           x="150.68999"
+           y="314.73935"
+           style="stroke-width:1" /></flowRegion><flowPara
+         id="flowPara6398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{\nnorm{\vec{v}}}{max}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,96.756554,109.72695)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion14114"><rect
+           id="rect14112"
+           width="567.75909"
+           height="95.129654"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara14116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\sub{\nnorm{\vec{a}}}{max}$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16763"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,53.356454,120.75373)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion16759"><rect
+           id="rect16757"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara16761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{a}=0$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16873"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,90.398126,120.75373)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion16869"><rect
+           id="rect16867"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara16871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{v}=0$</flowPara></flowRoot>
   </g>
 </svg>

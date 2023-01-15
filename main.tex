@@ -1916,6 +1916,693 @@ Tomando límite, se observa que la velocidad tiende a un valor constante:
 \end{center}
 
 
+\chapter{Oscilaciones} % revisar fase
+
+Una oscilación, también conocida como movimiento oscilatorio, movimiento periódico o movimiento armónico, consiste en un cuerpo puntual yendo y viniendo en un segmento de recta. La velocidad va a ser variable no solo en dirección, si no también en módulo. Pero la característica principal de una oscilación es que pasa periódicamente por lo que se conoce como punto de equilibrio, donde la aceleración de la partícula es nula.
+
+El movimiento está producido por un sistema elástico que ejerce una fuerza restauradora al cuerpo, como podría serlo una masa unida a un resorte.
+
+Para que el sistema se ponga en movimiento, el cuerpo tiene que tener una velocidad inicial, que se produce por una perturbación en un primer instante.
+
+\section{Oscilación simple}
+
+El movimiento armónico simple consiste en una oscilación idealizada, ya que desprecia toda interacción de la partícula con el medio ambiente. Como no hay rozamiento, el movimiento se da de manera perpetua.
+
+Se puede abordar el estudio del MAS desde un punto de vista geométrico, ya que el MAS es la proyección del MCU sobre cualquiera de los ejes. Por lo tanto, la ecuación de movimiento del MAS va a ser cualquiera de las componentes vistas en la ecuación de movimiento del MCU (Def.\ \ref{defn:MCUmovementEqns}).
+
+En el siguiente gráfico se observa cómo a medida que una partícula gira en MCU, la proyección sobre el eje vertical genera un MAS. Se muestra una instancia en cada una de las 4 filas. Para cada uno de los 4 momentos, a la izquierda se muestra cómo la partícula recorre un círculo aumentando su posición angular. La altura de la partícula es proyectada sobre el eje vertical, que por comodidad llamamos $x$. A la derecha, en cada uno de los 4 instantes de tiempo se registra la altura que la partícula tiene en el círculo, pero en una línea de tiempo. Si se repite este proceso, se obtiene el gráfico de un MAS. La línea continua indica las posiciones ya recorridas por el cuerpo, mientras que la línea discreta indica las posiciones que va a tener. Nótese que la línea continua del cuarto gráfico contiene las 3 posiciones anteriores.
+
+\begin{center}
+    \def\svgwidth{\linewidth}
+    \input{./images/osc-1.pdf_tex}
+\end{center}
+
+A continuación se ve cómo una de las coordenadas de un MCU es la ecuación general de un MAS y cómo se relacionan los otros parámetros del MCU con el MAS. Como se puede usar cualquiera de las dos coordenadas o proyecciones, en este caso la posición del MAS se proyecta sobre el eje horizontal. Además se puede ver que el MAS se da entre los puntos $x_m$ y $x_M$. Cuando la proyección pasa por el centro de esos dos puntos, va a estar en lo que se conoce como posición de equilibro, donde la aceleración es nula y la velocidad máxima. Hacia los extremos, pierde velocidad y gana aceleración con sentido hacia el punto de equilibro. Finalmente, en los extremos va a tener aceleración máxima y velocidad nula, para luego hacer el mismo recorrido a la inversa.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/osc-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+\begin{itemize}
+    \item El radio $(r)$ del MCU es la amplitud $(A)$ máxima del MAS.
+    \item La velocidad angular $(\omega)$ del MCU es la frecuencia angular natural $(\omega_0)$ del MAS.
+    A $\omega_0$ se le suele llamar ``pulsación''.
+    \item La proyección de la velocidad tangencial del MCU es la velocidad del MAS.
+    \item La proyección de la aceleración centrípeta del MCU es la aceleración del MAS.
+\end{itemize}
+
+Por lo tanto, la función que describa la posición con respecto del tiempo será la siguiente, siendo $A$ la amplitud, $\omega_0$ la frecuencia y $\varphi$ la fase inicial:
+\[
+  x(t) = A \sin{(\omega_0 \, t + \varphi)} + x_0
+\]
+
+Para deducir $x(t)$ es necesario estudiar el MAS analíticamente. Para esto, se suelen plantear las ecuaciones de Newton, deducir una ecuación diferencial de movimiento, y calcular los parámetros de la solución, que va a describir la posición en función del tiempo.
+
+
+\subsection{MAS en resorte horizontal}
+\label{sec:horizontalSpring}
+
+Se tiene un resorte con cierta longitud natural $l_0$ y constante elástica $k$ dispuesto horizontalmente. Un extremo está fijo y en el otro hay adosada una partícula de masa $m$. El rozamiento es despreciable. La situación es la representada en la siguiente figura:
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{0.7\linewidth}
+    \input{./images/dinamica-elastica-1.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Primero, establecemos un sistema de referencia con el origen en el extremo fijo del resorte. Luego se hace el diagrama de cuerpo libre para ver qué fuerzas actúan sobre la partícula. Observamos que en este caso, en el eje en cuestión solo está la fuerza elástica que ejerce el resorte. La sumatoria de fuerzas es:
+\begin{equation*}
+    \left\{
+    \begin{aligned}
+        \sum F_x &= m \, a = \sub{F}{ela} = - k \, \Delta x = - k \left(x-l_0\right)
+        \\
+        \sum F_y &= 0 = N - \weight = N - m \, g
+    \end{aligned}
+    \right.
+\end{equation*}
+
+De la primer ecuación del sistema anterior:
+\begin{equation*}
+    m \, a = -k \, x + k \, l_0
+\end{equation*}
+
+Al escribir la aceleración como la segunda derivada de la posición, se deduce una ecuación lineal diferencial de segundo orden, igualada a una constante:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Ecuación diferencial de MAS en resorte horizontal}
+    \begin{equation*}
+        \ddot{x} + \omega_0^2 \, x = \omega_0^2 \, l_0
+    \end{equation*}
+\end{mdframed}
+
+Donde $\omega_0^2 = \sfrac{k}{m}$ es la frecuencia angular natural del sistema.
+
+Para resolver la ecuación diferencial hallada, se calcula la solución general $x(t)$ a partir de sumar una solución homogénea $x_h(t)$ más una solución particular $x_p$.
+\[ x(t) = x_h(t) + x_p \]
+
+La solución homogénea surge de hacer el mismo procedimiento pero con el origen del diagrama de cuerpo libre ubicado en $l_0$. Como se detalla en la sección Fuerza elástica (Sec. \ref{sec:elasticForce}), esto equivale a tomar $l_0 = 0$.
+\begin{gather*}
+    \sum F_x = m \, a = \sub{F}{ela} = - k \, \Delta x = -k \, x
+    \\
+    m \, a = - k \, x
+    \\
+    \ddot{x} + \omega_0^2 \, x = 0
+\end{gather*}
+
+Si se propone como solución homogénea:
+\[ x(t) = A \sin{(\omega_0 t + \varphi)} \]
+
+La primera derivada sería:
+\[ \dot{x}(t) = \omega_0 \, A \cos{(\omega_0 \, t + \varphi)} \]
+
+Y la segunda derivada sería:
+\[ \ddot{x}(t) = - \omega_0^2 \, A \sin{(\omega_0 \, t + \varphi)} \]
+
+A continuación, se verifica la ecuación diferencial, demostrando que la $x_h(t)$ propuesta es correcta:
+\[
+    \underbrace{- \omega_0^2 \, A \sin{(\omega_0 \, t + \varphi)}}_{\ddot{x}} + \omega_0^2 \underbrace{A \sin{(\omega_0 \, t + \varphi)}}_{x} = 0
+\]
+
+La solución particular surge de evaluar $\ddot{x} = 0$ ya que eventualmente la partícula va a pasar por el punto de equilibrio, donde la aceleración va a ser nula:
+\begin{align*}
+    0 + \omega_0^2 \, x &= \omega_0^2 \, l_0 
+    \\
+    x_p &= l_0
+\end{align*}
+
+Sumando la solución homogénea con la particular, se obtiene la solución general, dada a continuación.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:solMAShorizontal}
+    \end{defn}
+    \cusTi{Solución general de MAS en resorte horizontal}
+    \begin{equation*}
+        x(t) = A \sin{(\omega_0 \, t + \varphi)} + l_0
+    \end{equation*}
+\end{mdframed}
+
+La expresión obtenida en la definición \ref{defn:solMAShorizontal} es una familia de funciones de posición que describe la trayectoria del resorte, y es correcta. Pero los parámetros de amplitud y fase $A$ y $\varphi$ dependen de las condiciones iniciales. La frecuencia, en cambio, está dada por las condiciones dinámicas del sistema, y ya fue definida como $\omega_0^2 = \sfrac{k}{m}$.
+
+El hecho de que el resultado obtenido sea una familia de funciones y no una única función significa que, dependiendo de los valores de amplitud y fase que se tomen va a representarse uno de los infinitos movimientos que puedan darse. Por lo tanto, el resultado final que describa el movimiento en cuestión va a estar dado por las condiciones iniciales según cada situación.
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{MAS en resorte horizontal inicialmente perturbado}
+    \begin{formatI}
+        Se aplica un impulso inicial a un sistema masa-resorte y este se pone en movimiento. Parte inicialmente desde la posición $l_0$ con velocidad inicial $v_0$ en el sentido de compresión del resorte. Se desprecia el rozamiento. Determinar la función de posición que describe el movimiento.
+    \end{formatI}
+    
+    Por hipótesis, se supone que inicialmente para $t_0 = 0s$ la partícula está en el punto de equilibrio $x_0 = l_0$ entonces:
+    \begin{align*}
+        x(t_0) &= l_0
+        \\
+        A \sin{(\omega_0 \, t_0 + \varphi)} + l_0 &= l_0
+        \\
+        A \sin{(\varphi)} &= 0
+    \end{align*}
+    
+    Como la amplitud no puede ser nula, ya que si así lo fuera no se trataría de un MAS, el argumento del seno tiene que anular la ecuación:
+    \[ \therefore \varphi = k \pi \quad k \in \setZ \]
+    
+    Pero $k$ no puede tomar cualquier valor entero, ya que por hipótesis sabemos que en el instante inicial la velocidad es negativa. Por lo tanto, la posición en el instante posterior al inicial tiene que estar disminuyendo. Esto implica que al tomar un ángulo mayor que la fase, el seno del ángulo tiene que ser menor que el seno de la fase.
+    \begin{gather*}
+        \sin{(0^{\circ})} > \sin{(1^{\circ})} \hspace{1ex} \text{es falso.}
+        \\
+        \sin{(180^{\circ})} > \sin{(181^{\circ})} \hspace{1ex} \text{es verdadero.}
+    \end{gather*}
+    
+    Por lo tanto, las fases que corresponden con la situación planteada son aquellas donde $k$ es impar. Para simplificar la notación, se puede tomar la primera:
+    \[ \varphi = \pi \]
+    
+    Además, se sabe que para el instante inicial $t_0 = \SI{0}{\second}$ la partícula tiene una velocidad $-v_0$. Dado que $\nnorm{\vec{v}_0}=v_0>0$, el signo menos indica que el sentido de $\vec{v}_0$ es hacia el lado de compresión del resorte. Reemplazando $\dot{x}(t_0) = -v_0$ en la primera derivada de la posición se puede despejar la amplitud:
+    \begin{align*}
+        \dot{x}(t_0) &= - v_0
+        \\
+        \omega_0 \, A \underbrace{\cos{(\omega_0 \, t_0 + \pi)}}_{-1} &= - v_0
+        \\
+        A = \frac{v_0}{\omega_0}
+    \end{align*}
+
+    Reemplazando los parámetros $\omega_0, A, \varphi$ en la ecuación de posición (Def. \ref{defn:solMAShorizontal}), se tiene:
+    \[
+      x(t) = v_0 \sqrt{\frac{m}{k}} \, \sin{\left( \sqrt{\frac{k}{m}} \, t + \pi \right)} + l_0
+    \]
+\end{mdframed}
+
+
+\subsection{MAS vertical}
+
+Una partícula de masa $m$ se encuentra colgando del extremo inferior de un resorte vertical de constante elástica $k$ y longitud natural $l_0$, que tiene su otro extremo fijo. El rozamiento es despreciable.
+
+A diferencia del sistema masa-resorte dispuesto de manera horizontal, en esta situación la partícula está afectada por la gravedad y el peso va a hacer que la posición de equilibrio esté un poco más abajo que la longitud natural. A esta diferencia entre el punto de equilibrio $x_0$ y $l_0$ se la conoce como deflexión estática. En el siguiente gráfico se ilustra esta situación.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{0.7\linewidth}
+    \input{./images/dinamica-elastica-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+El eje vertical es llamado eje $x$, y el sentido positivo es considerado hacia abajo. Se puede considerar el sentido positivo hacia arriba, pero como se explicó en la sección \ref{sec:elasticForce}, esto implicaría que la aceleración fuese negativa y la fuerza elástica tenga signo positivo. En tal caso estaríamos representando el movimiento correctamente aunque con la ``polaridad'' invertida.
+
+La sumatoria de fuerzas con el sistema de referencia por convención (positivo en el sentido de estiramiento del resorte) queda entonces:
+
+\begin{gather*}
+    \sum F_x = m \, a = \weight - \sub{F}{ela}  = m \, g - k \left(x-l_0\right)
+    \\
+    m \, a = m \, g - k \, x + k \, l_0
+\end{gather*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:}
+    \end{defn}
+    \cusTi{Ecuación diferencial de MAS en resorte vertical}
+    \begin{equation*}
+        \ddot{x} + \omega_0^2 \, x = \omega_0^2 \, l_0 + g
+    \end{equation*}
+\end{mdframed}
+
+Donde $\omega_0 = \sqrt{\sfrac{k}{m}}=\pi\,\si{\radian\per\second}$ es la frecuencia angular natural de oscilación del sistema.
+
+Para resolver la ecuación diferencial hallada, se calcula la solución general $x(t)$ a partir de sumar una solución homogénea $x_h(t)$ más una solución particular $x_p$.
+
+La solución homogénea surge de estudiar la situación con origen en el punto de equilibrio. En esta posición, el estiramiento $\Delta x$ es tal que la fuerza elástica compensa el peso de la partícula, dejándola suspendida en equilibrio.
+\[ \ddot{x} + \omega_0^2 \, x = 0 \]
+
+Por lo tanto, la solución homogénea es la misma que la solución de un MAS dispuesto horizontalmente (Sec. \ref{sec:horizontalSpring}).
+\[ x_h(t) = A \sin{(\omega_0 \, t + \varphi)} \]
+
+La solución particular surge de evaluar $\ddot{x} = \SI{0}{\metre \per \second^2}$ ya que sabemos que eventualmente la partícula va a pasar por el punto de equilibrio, donde la aceleración va a ser nula:
+\begin{align*}
+    0 + \omega_0^2 \, x &= \omega_0^2 \, l_0 + g
+    \\
+    x_p &= l_0 + \frac{g}{\omega_0^2}
+\end{align*}
+
+Sumando ambas soluciones, se tiene la familia de funciones de posición que son solución general:
+\begin{equation*}
+    x(t) = x_h(t) + x_p
+\end{equation*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Solución general de MAS en resorte vertical}
+    \begin{equation*}
+        x(t) = A \sin{(\omega_0 \, t + \varphi)} + l_0 + \frac{g}{\omega_0^2}
+    \end{equation*}
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{MAS en resorte vertical inicialmente estirado}
+    \begin{formatI}
+        Analizar la posición en función del tiempo de un sistema masa-resorte colgado de un extremo fijo si, en el instante inicial, la partícula se encuentra en la posición $2 \, l_0$ desde el extremo fijo, con velocidad nula.
+    \end{formatI}
+    Sabemos que la posición en $t_0 = \SI{0}{\second}$ es $x_M = 2 \,l_0$ y la velocidad es nula, quedando un sistema de dos ecuaciones y dos incógnitas al reemplazar estos datos en la ecuación de posición y su derivada, la velocidad:
+    \[
+      \left\{
+        \begin{aligned}
+          x(t_0) &= A \sin{(\omega_0 \, t_0 + \varphi)} + l_0 + \frac{g}{\omega_0^2} = 2 \, l_0
+          \\
+          \dot{x}(t_0) &= \omega_0 \, A \cos{(\omega_0 \, t_0 + \varphi)} = 0
+        \end{aligned}
+      \right.
+    \]
+    
+    De la segunda ecuación se puede despejar la fase, teniendo en cuenta que ni la amplitud ni la frecuencia natural pueden ser nulas:
+    \[ \cos{(\omega_0 \, t_0 + \varphi)} = 0 \Rightarrow \varphi = \frac{2n-1}{2} \, \pi \]
+    
+    Esto se cumple para todo $n \in \setZ$. Pero inicialmente la partícula se encuentra en la extensión máxima del resorte con velocidad nula. Por lo tanto, luego de iniciarse el movimiento, la partícula deberá ascender porque ya se encuentra en la posición de máximo estiramiento del resorte. Esto implica que a medida que aumente el ángulo, la posición deberá disminuir, ya que el sentido negativo se había planteado hacia arriba. La posición fue definida con una función senoidal. Con lo cual para algún $\varepsilon \to 0$ se tiene que cumplir que $\sin(\varphi)>\sin(\varphi+\varepsilon)$.
+    \begin{align*}
+        & \sin{(90^{\circ})} > \sin{(91^{\circ})} \hspace{1ex} \text{es verdadero}
+        \\
+        & \sin{(270^{\circ})} > \sin{(271^{\circ})} \hspace{1ex} \text{es falso}
+    \end{align*}
+    
+    Por lo tanto, las fases que corresponden con la situación planteada son aquellas donde $k$ es impar. Para simplificar la notación, se puede tomar la primera:
+    \[ \varphi = \frac{1}{2} \pi \]
+    
+    Reemplazando este valor de fase en la primera ecuación del sistema anterior, se despeja la amplitud:
+    \begin{align*}
+        A \underbrace{\sin{(\omega_0 t_0 + \tfrac{\pi}{2} )}}_{1} + l_0 + \frac{g}{\omega_0^2} &= 2l_0
+        \\
+        A &= l_0-\frac{g}{\omega_0^2}
+    \end{align*}
+    
+    Por lo tanto, la ecuación que describe la posición en función del tiempo es:
+    \[
+      x(t) = \left( l_0-\frac{mg}{k}\right)  \sin{ \left(\sqrt{\frac{k}{m}} t + \frac{\pi}{2} \right)} + \left( \frac{mg}{k} + l_0 \right)
+    \]
+\end{mdframed}
+
+\begin{mdframed}[style=MyFrame2]
+    \begin{example}
+    \end{example}
+    \cusTi{MAS en resorte vertical inicialmente perturbado}
+    \begin{formatI}
+        Analizar la posición en función del tiempo de un sistema masa-resorte colgado de un extremo fijo si, en el instante inicial, la partícula se encuentra en la posición de equilibrio, con velocidad $v_0$.
+    \end{formatI}
+    Sabemos que la posición en $t_0 = \SI{0}{\second}$ es $x_0 = \SI{0}{\metre}$ y la velocidad es $v_0$. Evaluando estas condiciones iniciales, el sistema de ecuaciones de posición y velocidad quedaría:
+    % ...to be continued...
+    % (lo tengo hecho en https://es.overleaf.com/read/xpxqmxnstrjv pero tengo que unificar notación. Las secciones son "Ejercicio 50" y "Resorte colgado del techo")
+    
+    % Hola, Maxi, tanto tiempo. Lo vi, pero... ¿no termina con la ecuación genérica ese ejercicio también en el resuelto?
+\end{mdframed}
+
+
+\subsection{MAS en péndulo}
+
+Una partícula de masa $m$ se encuentra atada a una cuerda inextensible de masa despreciable que tiene un extremo fijo y su extremo móvil colgando en un plano vertical.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/osc-3.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Planteando la sumatoria de fuerzas en los ejes de coordenadas polares (Sec. \ref{A:polarCoordinates}), por la segunda Ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}), se tiene:
+\begin{align*}
+    \sum F_{\versor{r}} &= m \, a_c = T - \weight \cos(\theta) = T - m \, g \cos(\theta)
+    \\
+    \sum F_{\versor{\theta}} &= m \, a_t = - \weight \sin(\theta) = - m \, g \sin(\theta)
+\end{align*}
+
+Analizando el eje tangencial, en el cual la fuerza restauradora tiene más relevancia, usando la definición de aceleración tangencial (Prop.\ \ref{prop:circularAccel}) se tiene:
+\[ m \, \alpha \, r = - m \, g \sin(\theta) \]
+
+Donde $\alpha$ es la aceleración angular. Y al expresarla como $\alpha = \ddot{\theta}$, la segunda derivada de la posición angular, se deduce una ecuación diferencial:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Ecuación diferencial de MAS en péndulo}
+    \begin{equation*}
+        \ddot{\theta} + \omega_0^2 \sin(\theta) = 0
+    \end{equation*}
+\end{mdframed}
+
+Donde $\omega_0^2=\sfrac{g}{r}$ es la frecuencia angular natural del sistema.
+
+No es posible resolver la ecuación diferencial hallada con los métodos convencionales. Pero, por el Teorema de Taylor, es posible hacer una aproximación lineal de la función $\sin{(\theta)}$ con centro en $\theta_0 = 0$.
+\[
+  \sin(\theta) \approx \frac{\sin(\theta_0)}{0!} \left( \theta-\theta_0 \right)^0 + \frac{\cos(\theta_0)}{1!} \left( \theta-\theta_0 \right)^1 = \theta
+\]
+
+De esta forma, contemplando cierto error de aproximación, podemos reemplazar $\sin{(\theta)}$ por $\theta$. Cuanto más chico sea el ángulo $\theta$ que se aproxime, menor va a ser el error. Esta aproximación puede ser deducida también a partir de infinitésimos equivalentes:
+\[
+  \lim_{\theta \to 0} \frac{\sin(\theta)}{\theta} = 1 \Rightarrow \sin(\theta) \to \theta \text{ cuando } \theta \to 0
+\]
+
+En la práctica, esto funciona cuando $-15^{\circ}<\theta<15^{\circ}$ y es posible verificarlo en una calculadora.
+
+Bajo estas consideraciones, la ecuación diferencial queda parecida a las ya vistas en otros ejemplos:
+\[ \ddot{\theta} (t) + \omega_0^2 \theta (t) = 0 \text{ con } \omega_0^2 = \frac{g}{r}\]
+
+La solución general en este caso es igual a la homogénea, porque la ecuación diferencial no tiene término independiente:
+\[ \theta(t) = A \sin(\omega_0 t + \varphi) \]
+
+
+\section{Oscilación amortiguada}
+A diferencia de una oscilación simple, que se encuentra en el vacío, una oscilación amortiguada se da a partir de un resorte que se encuentra suspendido en un fluido. Este va a generar una fuerza de rozamiento (Def.\ \ref{defn:fluidFrictionForce}) contraria al desplazamiento. El movimiento armónico amortiguado es una oscilación un poco más realista, ya que considera cómo la viscosidad $(\gamma)$ del medio afecta a la velocidad de la partícula oscilando. 
+
+
+\subsection{MAA horizontal}
+
+La ecuación de movimiento se puede deducir haciendo la sumatoria de fuerzas según la $2^{\text{a}}$ Ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}), con origen en $l_0$:
+\begin{gather*}
+    \sum F_x = m \, a = - \sub{F}{ela} - \sub{F}{roz}
+    \\
+    m \, \ddot{x} = - k \, x - b \, \dot{x}
+\end{gather*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Ecuación diferencial de MAA en resorte horizontal}
+    \begin{equation*}
+        \ddot{x} + \gamma \, \dot{x} + \omega_0^2 \, x  = 0
+    \end{equation*}
+\end{mdframed}
+
+Donde $b=\gamma \, m$ es el coeficiente de amortiguación (a veces denotado como $R_a$) y $\omega_0=\sqrt{\sfrac{k}{m}}$ es la frecuencia angular natural, que es inherente a las propiedades del resorte y el cuerpo adosado a su extremo.
+
+Como solución a la ecuación diferencial homogénea, se propone la siguiente función exponencial:
+\[ x(t) = c \, e^{z t} \]
+
+Reemplazándola en la ecuación diferencial, se tiene:
+\[
+    z^2 \, c \, e^{z t} + \gamma \, z \, c \, e^{zt} + \omega_0^2 \, c \, e^{zt} = 0
+\]
+
+Como $c \neq 0$ entonces el término $c e^{z t}$ no se anula.
+Por lo tanto se lo puede factorizar y luego dividirlo en ambos miembros de la ecuación:
+\[ z^2 + \gamma \, z + \omega_0^2 = 0 \]
+
+Considerando la ecuación anterior como una función cuadrática con respecto de $z$, se puede aplicar la fórmula resolvente para calcular este parámetro:
+\[ z = \pm \sqrt{\dfrac{\gamma^2}{4} - \omega_0^2} - \dfrac{\gamma}{2} \]
+
+La frecuencia natural de oscilación $(\omega_0)$ no puede ser menor que la viscosidad del medio $(\gamma)$. De lo contrario, se trataría de un Movimiento Armónico Sobreamortiguado donde la masa no oscila, si no que se desplaza con una velocidad decreciente exponencialmente.
+
+Esto implica que el radicando va a ser negativo, con lo cual $z$ sí o sí tiene que ser un número complejo:
+\begin{align*}
+    z &= \pm \sqrt{(-1) \left( \omega_0^2-\dfrac{\gamma^2}{4} \right) } - \dfrac{\gamma}{2}
+    \\
+    z &= - \frac{\gamma}{2} \pm \iu \sqrt{\omega_0^2-\dfrac{\gamma^2}{4}}
+    \\
+    z &= - \frac{\gamma}{2} \pm \iu \, \omega_d
+\end{align*}
+
+Donde $\omega_d = \sqrt{\omega_0^2-\dfrac{\gamma^2}{4}} \in \setR$ es la frecuencia angular disminuida o pseudo pulsación. Esta va a ser la frecuencia angular a la que oscile un sistema amortiguado. Es apenas pero significativamente menor que la frecuencia angular natural del sistema si fuese un MAS.
+
+Reemplazando alguno de los dos posibles $z$, la función de posición $x(t)$ queda:
+\begin{align*}
+    x(t) &= c \, e^{\left( -\tfrac{\gamma}{2} + \iu \, \omega_d \right) t}
+    \\
+    &= c \, e^{-\tfrac{\gamma}{2}t} \, e^{\iu \, \omega_d \, t}
+\end{align*}
+
+Hay que contemplar que $c$ también puede ser complejo.
+Expresándolo en su forma polar $c=A \, e^{\iu \, \varphi}$ se tiene:
+\begin{align*}
+    x(t) &= A \, e^{\iu \, \varphi} \, e^{-\tfrac{\gamma}{2} t} \, e^{\iu \, \omega_d \, t}
+    \\
+    &= A \, e^{-\tfrac{\gamma}{2} t} \, e^{\iu \left(\omega_d \, t + \varphi\right)}
+\end{align*}
+
+Usando el teorema de Euler, se obtiene una función compleja $x(t)$ que es solución de la ecuación diferencial:
+\[
+    x(t) = A \, e^{-\tfrac{\gamma}{2} t} \, \big( \cos(\omega_d \, t + \varphi) + \iu \sin(\omega_d \, t + \varphi) \big)
+\]
+
+Si una función compleja de variable real satisface una ecuación diferencial ordinaria, lineal y homogénea, a esta ecuación satisfacen también las partes real e imaginaria de dicha función:
+\[
+    \left\{
+    \begin{aligned}
+        \Re[x(t)] &= A \, e^{-\tfrac{\gamma}{2}t} \, \cos(\omega_d \, t + \varphi)
+        \\
+        \Im[x(t)] &= A \, e^{-\tfrac{\gamma}{2}t} \, \sin(\omega_d \, t + \varphi)
+    \end{aligned}
+    \right.
+\]
+
+Pudiendo usar cualquiera de ambas como solución:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Solución general de MAA en resorte horizontal}
+    \begin{equation*}
+        x(t) = A \, e^{-\tfrac{\gamma}{2}t} \, \cos{(\omega_d \, t + \varphi)}
+    \end{equation*}
+\end{mdframed}
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/osc-4.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Para verificar que esta es efectivamente la solución, hay que reemplazarla en la ecuación diferencial:
+\[
+    \ddot{x} + \gamma \, \dot{x} + \omega_{0}^{2} \, x = 0
+\]
+
+Sean
+\begin{align*}
+    x(t) &= E(t) \, \psi(t)
+    \\
+    E(t) &= A \, e^{-\frac{\gamma}{2} t}
+    \\
+    \psi(t) &= \cos \left( \omega_d \, t + \varphi \right)
+    \\
+    \sigma(t) &= \sin \left( \omega_d \, t + \varphi \right)
+\end{align*}
+
+Derivamos una vez y resulta
+\begin{align*}
+    \dot{x} &= \dot{E} \, \psi + E \, \dot{\psi}
+    \\
+    \dot{E} &= A \, e^{-\frac{\gamma}{2} t} \left( - \frac{\gamma}{2} \right)
+    = - \frac{\gamma}{2} E
+    \\
+    \dot{\psi} &= - \sin \left( \omega_d \, t + \varphi \right) \omega_d
+    = - \omega_d \, \sigma
+    \\
+    \dot{\sigma} &= \cos \left( \omega_d \, t + \varphi \right) \omega_d
+    = \omega_d \, \psi
+\end{align*}
+
+Al derivar de nuevo, queda
+\begin{align*}
+    \ddot{x} &= \ddot{E} \, \psi + 2 \, \dot{E} \, \dot{\psi} + E \, \ddot{\psi}
+    \\
+    \ddot{E} &= - \frac{\gamma}{2} \dot{E}
+    = - \frac{\gamma}{2} \left(- \frac{\gamma}{2} E \right)
+    = \frac{\gamma^2}{4} E
+    \\
+    \ddot{\psi} &= -\omega_d \, \dot{\sigma}
+    =  - \omega_d \left( \omega_d \, \psi \, \right)
+    = - \omega_d^2 \, \psi
+    \\
+    \ddot{\sigma} &= \omega_d \, \dot{\psi}
+    = \omega_d \left( - \omega_d \, \sigma \right)
+    = - \omega_d^2 \, \sigma
+\end{align*}
+
+Con lo cual, se tiene:
+\begin{align*}
+    x &= E \, \psi
+    \\
+    \dot{x} &= \left( - \frac{\gamma}{2} E \right) \psi + E  \left( -\omega_d \, \sigma \right)
+    = - \frac{\gamma}{2} E \, \psi - \omega_d \, E \, \sigma
+    \\
+    \ddot{x} &= \left( \frac{\gamma^2}{4} E \right) \psi + 2 \left( - \frac{\gamma}{2} E \right) \left( -\omega_d \sigma \right) + E \left( - \omega_d^2 \psi \right)
+    \\
+    &= \left( \frac{\gamma^2}{4} - \omega_d^2 \right) E \, \psi + \gamma \, \omega_d \, E \, \sigma
+\end{align*}
+
+Multiplicamos coeficientes
+\begin{align*}
+    \omega_0^2 \, x &= \omega_0^2 \, E \, \psi
+    \\
+    \gamma \, \dot{x} &= - \frac{\gamma^2}{2} E \, \psi - \gamma \, \omega_d \, E \, \sigma
+    \\
+    \ddot{x} &= \left( \frac{\gamma^2}{4} - \omega_d^2 \right) E \, \psi + \gamma \, \omega_d \, E \, \sigma
+\end{align*}
+
+Sumamos miembro a miembro
+\[
+    \ddot{x} + \gamma \, \dot{x} + \omega_{0}^{2} \, x = \left( \omega_0^2 - \frac{\gamma^2}{4} - \omega_d^2 \right) E \, \psi
+\]
+
+Y como
+$\omega_d = \sqrt{\omega_0^2 - \frac{\gamma^2}{4}} \iff 0 = \omega_0^2 - \frac{\gamma^2}{4} - \omega_d^2$
+entonces
+\[
+  \ddot{x} + \gamma \, \dot{x} + \omega_{0}^{2} \, x = \left( 0 \right) E \, \psi = 0
+\]
+
+
+\section{Oscilación forzada}
+
+El movimiento armónico forzado consiste en una oscilación amortiguada a la que se le ejerce una fuerza externa que varía de la siguiente forma:
+\[
+    \vec{F} = F_0 \cos \left( \omega \, t \right) \iVer
+\]
+
+Donde $\omega$ es la frecuencia con la que la fuerza varía. La relación entre esta y la frecuencia natural del resorte $(\omega_0)$ va a determinar el comportamiento del sistema de las siguientes formas:
+\begin{itemize}
+    \item Estado transitorio: comportamiento errático inicial del sistema hasta que adopte la frecuencia que le impone la fuerza externa.
+    
+    \item Estado estacionario: una vez que adoptó la frecuencia de la fuerza externa, el sistema se comporta de manera estable.
+    
+    \begin{itemize}
+        \item Sistema estático: si la frecuencia de la fuerza externa es muy baja, el resorte tiende a estirarse o       comprimirse hasta un punto y dejar de oscilar.
+        
+        \item Sistema en resonancia: si el sistema es excitado con la frecuencia propia, la fuerza de rozamiento se     compensa con la fuerza externa, y la amplitud es máxima.
+        
+        \item Sistema en contrafase: si la frecuencia es muy alta, la inercia va a hacer que el movimiento se atrase.
+    \end{itemize}
+    
+    \item Decaimiento: si la fuerza externa deja de aplicarse, el sistema se va a volver comportar como una oscilación amortiguada hasta llegar al reposo.
+\end{itemize}
+
+
+\subsection{MAF horizontal}
+
+Al hacer la sumatoria de fuerzas con el origen de coordenadas en $l_0$, se deduce la ecuación diferencial de movimiento:
+\begin{gather*}
+    \sum F_x = m \, a = F - \sub{F}{ela} - \sub{F}{roz} 
+    \\
+    m \, \ddot{x} = F_0 \cos(\omega \, t) - k \, x - b \, \dot{x}
+    \\
+    \ddot{x} + \gamma \, \dot{x} + \omega_0^2 \, x  = \frac{F_0 \cos(\omega \, t)}{m}
+\end{gather*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Ecuación diferencial de MAF en resorte horizontal}
+    \begin{equation*}
+        \ddot{x} + \gamma \, \dot{x} + \omega_0^2 \, x  = A_0 \cos \left( \omega \, t \right)
+    \end{equation*}
+\end{mdframed}
+
+Donde $\omega_0 = \sqrt{\sfrac{k}{m}}$ es la frecuencia angular natural, $\gamma = \sfrac{b}{m}$ es proporcional al coeficiente de amortiguación (denotado como $b$ o $R_a$) y $A_0=\sfrac{F_0}{m}$ es proporcional al valor pico de la fuerza externa.
+
+Para resolver la ecuación diferencial hallada, se calcula la solución general $x(t)$ como la suma de la solución homogénea $x_h(t)$ más una solución particular $x_p(t)$, que en este caso depende del tiempo al igual que la homogénea.
+\[
+    x(t) = x_h(t) + x_p(t)
+\]
+
+Como eventualmente la fuerza externa va a ser nula, la solución homogénea es la solución ya conocida de la oscilación amortiguada.
+\[
+    x_h(t) = A \, e^{-\tfrac{\gamma}{2}t} \cos(\omega_d \, t + \varphi)
+\]
+
+Además, eventualmente la fuerza de rozamiento va a ser compensada por la fuerza elástica. La posición que el sistema tome cuando la fuerza neta que actúe sobre el cuerpo sea la externa va a ser la solución particular.
+
+Esta posición va a ser expresada con un número complejo. Pero como el movimiento se da sobre la recta real, luego se va a tomar la parte real del mismo:
+\[
+    \fasor{x}_p(t) = X \, e^{\iu \omega t} \implies \Re \left[ \fasor{x} (t) \right] = x_p(t)
+\]
+
+Observar que $X \in \setC$ es una constante compleja cuyo módulo y fase se puede calcular. Para ello, consideramos la fuerza externa aplicada al sistema como exponencial compleja, de manera tal que su parte real sea la fuerza original:
+\[
+    \fasor{F} = F_0 \, e^{\iu \omega t} \implies \Re \left( \fasor{F} \right) = F = F_0 \cos \left( \omega \, t \right)
+\]
+
+Y proponemos $\fasor{x}_p$ como solución de la ecuación diferencial resultante de aplicar la fuerza compleja ($\fasor{F}$).
+\[
+    \ddot{x} + \gamma \, \dot{x} + \omega_0^2 \, x  = A_0 \, e^{\iu \omega t}
+\]
+
+Tras reemplazar $x$ por $\fasor{x}_p$, resulta:
+\begin{align*}
+    - \omega^2 \, X \, e^{\iu \omega t} + \iu \, \gamma \, \omega \, X \, e^{\iu \omega t} + \omega_0^2 \, X \, e^{\iu \omega t} &= A_0 \, e^{\iu \omega t}
+    \\
+    X \left( - \omega^2 + i \, \gamma \, \omega + \omega_0^2 \right) &= A_0
+    \\
+    X &= \frac{A_0}{\omega_0^2 - \omega^2 + \iu \, \gamma \, \omega}
+\end{align*}
+
+Se multiplica y divide por el conjugado del denominador
+\begin{align*}
+    X &= \frac{A_0}{\omega_0^2 - \omega^2 + \iu \, \gamma \, \omega} \cdot \underbrace{\frac{\omega_0^2 - \omega^2 - \iu \, \gamma \, \omega}{\omega_0^2 - \omega^2 - \iu \, \gamma \, \omega}}_{=1}
+    \\
+    &= \frac{A_0 \left( \omega_0^2 - \omega^2 - \iu \, \gamma \, \omega \right)}{(\omega_0^2 - \omega^2)^2 + \left( \gamma \, \omega \right)^2}
+    \\
+    &= \underbrace{\frac{A_0 \left( \omega_0^2 - \omega^2 \right)}{(\omega_0^2 - \omega^2)^2 + \left( \gamma \, \omega \right)^2}}_B - \iu \underbrace{\frac{A_0 \, \gamma \, \omega}{(\omega_0^2 - \omega^2)^2 + \left( \gamma \, \omega \right)^2}}_C
+\end{align*}
+
+Ahora que se tiene $X = B - \iu \, C$ expresado en forma binomial se puede calcular su módulo:
+\begin{align*}
+    \norm{X} &= \sqrt{B^2+(-C)^2}
+    \\[1ex]
+    &= \sqrt{\frac{\big[A_0 \left( \omega_0^2 - \omega^2 \right) \big]^2 + \big[ A_0 \, \gamma \, \omega \big]^2}{\big[ \left( \omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2 \big]^2}}
+    \\[1ex]
+    &= \sqrt{\frac{A_0^2 \, \big[ \left( \omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2 \big]}{\big[ \left(\omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2 \big]^2}}
+    \\[1ex]
+    &= A_0 \left[ \left(\omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2 \right]^{\tfrac{1}{2}-1}
+\end{align*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Módulo de la amplitud compleja de un MAF}
+    \begin{equation*}
+        \norm{X} = \frac{A_0}{\sqrt{ \left(\omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2}}
+    \end{equation*}
+\end{mdframed}
+
+Y su fase ($\theta$) por definición:
+\begin{align*}
+    \theta &= \arctan \left( \frac{-C}{B} \right)
+    \\[1ex]
+    &=
+    \scale{0.97}{
+    \arctan \left( \frac{-A_0 \, \gamma \, \omega}{\left( \omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2} \cdot \frac{\left( \omega_0^2 - \omega^2 \right)^2 + \left( \gamma \, \omega \right)^2}{A_0 \left( \omega_0^2 - \omega^2 \right)} \right)
+    }
+\end{align*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Fase de la amplitud compleja de un MAF}
+    \begin{equation*}
+        \theta = \arctan \left( \frac{-\gamma \, \omega}{\omega_0^2 - \omega^2} \right)
+    \end{equation*}
+\end{mdframed}
+
+Para reemplazar el $X$ calculado y reescribir $\fasor{x}_p$ de la siguiente manera.
+\[
+    \fasor{x}_p(t) = X \, e^{\iu \omega t} = \norm{X} \, e^{\iu \theta} \, e^{\iu \omega t} = \norm{X} \, e^{\iu \left(\omega t + \theta \right)}
+\]
+
+Finalmente, sumando la solución homogénea con $x_p(t) = \Re \left[ \fasor{x}_p(t) \right]$ se tiene que la solución general es:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Solución general de MAF en resorte horizontal}
+    \begin{equation*}
+        x(t) = A \, e^{-\tfrac{\gamma}{2} t} \cos \left( \omega_d \, t + \varphi \right) + \norm{X} \cos \left( \omega \, t + \theta \right)
+    \end{equation*}
+\end{mdframed}
+
 
 
 \end{document}
