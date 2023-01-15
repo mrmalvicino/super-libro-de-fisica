@@ -2604,5 +2604,899 @@ Finalmente, sumando la solución homogénea con $x_p(t) = \Re \left[ \fasor{x}_p
 \end{mdframed}
 
 
+\chapter{Energía}
+
+La energía es la capacidad de un cuerpo para cambiar de estado físico. Ejemplos de estados físicos son la posición, la velocidad, la temperatura, o la carga eléctrica de un sistema, entre otros. Cada estado físico tiene asociado un tipo de energía diferente.
+
+La transferencia de energía se llama trabajo y se denota como $W$. Tanto la energía como el trabajo van a tener unidad de Joules $[J]$. Por convención, si el trabajo es positivo significa que una fuerza externa le está entregando energía al sistema.
+
+En el capítulo \ref{cha:dinamics} se vió que al aplicar una fuerza sobre un cuerpo, este puede cambiar su velocidad y posición. En este capítulo se analizará cómo un sistema puede transferirle parte de su energía a otro mediante una fuerza, y qué magnitudes se conservan o no durante el proceso.
+
+
+\section{Tipos de energía mecánica}
+
+Un sistema puede acumular varios tipos de energía. En mecánica clásica, se estudian los siguientes tipos de energía mecánica.
+
+La energía cinética es aquella que tiene un cuerpo por estar en movimiento, ya que es proporcional a su velocidad.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Energía cinética}
+    \begin{equation*}
+        \sub{E}{cin} = \frac{m \, v^2}{2}
+    \end{equation*}
+\end{mdframed}
+
+La energía potencial gravitatoria es aquella que tiene un cuerpo por estar a cierta distancia del centro de masa de un sistema.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Energía potencial gravitatoria}
+    \begin{equation*}
+        \sub{E}{gra} = m \, g \, h
+    \end{equation*}
+\end{mdframed}
+
+La energía potencial elástica es aquella que tiene un cuerpo por estar comprimiendo un resorte.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Energía potencial elástica}
+    \begin{equation*}
+        \sub{E}{ela} = \frac{k \, x^2}{2}
+    \end{equation*}
+\end{mdframed}
+
+La energía potencial es toda aquella que surge a partir de un campo de gradiente.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Energía potencial}
+    \begin{equation*}
+        \sub{E}{pot} = \sub{E}{gra} + \sub{E}{ela}
+    \end{equation*}
+\end{mdframed}
+
+La energía mecánica total de un cuerpo es la suma de energía cinética y potencial que el cuerpo tenga.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:mechanicEnergy}
+    \end{defn}
+    \cusTi{Energía mecánica}
+    \begin{equation*}
+        \sub{E}{mec} = \sub{E}{cin} + \sub{E}{pot}
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Trabajo}
+
+El trabajo que hace una fuerza cuantifica la energía que, el agente que la realiza, le está transfiriendo a un sistema. Los procesos que involucran cambios de energía mecánica se suelen caracterizar estudiando el desplazamiento (Def. \ref{defn:desplazamiento}) de un cuerpo o sistema.
+
+Consideremos una trayectoria $\xyz(t)$ junto con un campo de fuerza $\vec{F}$ que afecta a todos los puntos del recorrido, tales como $\xyz_0$ y $\xyz_1$.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/energia-1.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Para el segmento recto comprendido entre los puntos $\xyz_0$ y $\xyz_1$, vemos que la componente tangente ($\sub{F}{tan}$) de la fuerza ($\vec{F}$) y el ángulo ($\theta$) que esta forma con el desplazamiento ($\Delta \xyz$) permanecen constantes.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/energia-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Por trigonometría vemos que:
+\begin{equation*}
+    \sub{F}{tan} = \nnorm{\vec{F}} \cos\bb{\theta}
+\end{equation*}
+
+El trabajo se define multiplicando la componente de fuerza que está contibuyendo al sentido de movimiento por la distancia de desplazamiento.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Trabajo}
+    \begin{equation*}
+        W = \sub{F}{tan} \, \nnorm{\Delta \xyz}
+    \end{equation*}
+\end{mdframed}
+
+Pero la situación anterior se puede poner engorrosa fácilmente. Ya sea porque la fuerza varía en módulo o dirección para diferentes puntos del espacio, o porque la dirección de la trayectoria varía con el tiempo. En cualquiera de estos casos, la definición anterior no valdría, y habría que estudiar el diferencial de trabajo ($\dif W$) de un campo vectorial de fuerza a lo largo de una trayectoria.
+
+En el caso de la trayectoria anterior, se observa que fuera del tramo recto el ángulo $\theta$ varía y, en otra circunstancia, también podría hacerlo el largo de $\vec{F}$.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/energia-3.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Aplicando la propiedad $\vec{u} \cdot \vec{v} = \nnorm{\vec{u}} \, \nnorm{\vec{v}} \cos\bb{\theta}$ para el producto interno y luego integrando, se tiene:
+\begin{align*}
+    \Delta W &= \nnorm{\vec{F}} \, \nnorm{\Delta \vec{r}} \cos\bb{\theta}
+    \\[1ex]
+    &= \vec{F} \cdot \Delta \xyz
+    \\[1ex]
+    W = \int \dif W &= \int_C \vec{F} \cdot \dif \xyz
+\end{align*}
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:workLineIntegral}
+    \end{defn}
+    \cusTi{Trabajo}
+    \begin{equation*}
+        W = \int_C \Vec{F} \cdot \dif \Vec{s}
+    \end{equation*}
+\end{mdframed}
+
+\begin{itemize}
+    \item Donde $\dif \Vec{s}$ (o $\dif \Vec{r}$ en algunas bibliografías) es el diferencial de desplazamiento, también llamado ``line element'' o simplemente diferencial del vector de posición. Está dado por un segmento de recta infinitesimal de la trayectoria $(C)$ y se define con un versor tangente $(\versor{t})$ a la curva:
+    \[ \dif \Vec{s} = \versor{t} \, \dif s \]
+    
+    \item Donde $\dif s$ es el elemento de arco, que es el largo del diferencial de distancia:
+    \[
+      \dif s = \norm{\dfrac{\dif}{\dif t} \xyz(t)} \dif t  = \norm{\dif \Vec{s} \,}
+    \]
+\end{itemize}
+
+La anterior es una integral que en Cálculo Multivariable se conoce como integral curvilínea de tipo 2. Pero este método sería muy engorroso ya que requeriría conocer la expresión vectorial de los factores, para después calcular su producto interno.
+
+No obstante, podemos valernos de que las fuerzas perpendiculares a la trayectoria no hacen trabajo. Si se logra descomponer al campo de fuerzas en una componente tangencial y otra normal, sólo hace falta computar la integral para la componente tangencial para calcular el trabajo.
+\begin{align*}
+    W &= \int_C \Vec{F} \cdot \dif \Vec{s}
+    \\
+    &= \int_C \Vec{F} \cdot \versor{t} \, \dif s
+    \\
+    &= \int_C \bb{\sub{F}{rad} \, \versor{r} + \sub{F}{tan} \, \versor{\theta}} \cdot \versor{t} \, \dif s
+    \\
+    &= \int_C \sub{F}{rad} \underbrace{\versor{r} \cdot \versor{t}}_0 \dif s
+    + \int_C \sub{F}{tan} \, \versor{\theta} \cdot \versor{t} \, \dif s
+    \\
+    &= \int_C \underbrace{\norm{\sub{F}{tan} \, \versor{\theta}}}_{\sub{F}{tan}} \, \underbrace{\norm{\versor{t}}}_{=1} \, \underbrace{\cos{(\theta)}}_{=1} \dif s
+\end{align*}
+
+En tal caso, el producto interno del integrando pasa a ser una simple multiplicación entre magnitudes escalares.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \cusTi{Trabajo de fuerzas tangentes}
+    \begin{equation*}
+        W = \int_C \sub{F}{tan} \, \dif s
+    \end{equation*}
+\end{mdframed}
+
+Observar que $\norm{\sub{F}{tan}}$ puede no ser constante, mientras que $\theta=\ang{0}$ sí lo es.
+
+En una circunferencia, donde el radio no varía, se puede hacer un cambio de variable para expresar el elemento de arco $(\dif s)$ como un diferencial de ángulo $(\dif \theta)$ y poder así computar la integral.
+
+Coloquialmente hacemos tender los $\Delta$ a $\dif$ en la definición de longitud de arco (Sec. \ref{A:arcLength}). Formalmente, estamos calculando el diferencial $\dif s$ como sigue.
+
+El largo de arco en función del ángulo está dado por $s(\theta) = r \, \theta$ y su derivada es $s'(\theta) = r$ quedando el diferencial definido como $\dif s = r \, \dif \theta$. Reemplazando $\dif s$ en la definición \ref{defn:workLineIntegral} se tiene:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+        \label{prop:workOnCircumference}
+    \end{prop}
+    \cusTi{Trabajo de fuerzas tangentes a circunferencias}
+    \begin{equation*}
+        W = r \int_{\theta_0}^{\theta_1} \sub{F}{tan} \, \dif \theta
+    \end{equation*}
+\end{mdframed}
+
+
+\subsection{Trabajo de la fuerza Peso}
+
+Como se quiere calcular la integral de la fuerza Peso (Def.\ \ref{defn:weightForce}) que es constante, se aplica su definición teniendo en cuenta que $\norm{\Vec{g}} = g$, ya que está contenida en una sola dimensión.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/energia-4.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Para trayectorias rectas, como el arco de curva es un segmento de recta, se integra con respecto a la distancia:
+\begin{align*}
+    W &= \int_C F \cdot \dif s
+    \\
+    W &= m \, g \int_{y_0}^{y_1} \dif y
+    \\
+    W &= m \, g \, \Delta y = \Delta \sub{E}{gra}
+\end{align*}
+
+La fuerza Peso tiene en todo momento y lugar la misma dirección y sentido, porque es constante. Si la trayectoria es circular, no se puede aplicar el cambio de variable polar (Prop. \ref{prop:workOnCircumference}) en la integral de línea a mansalva. Como se mencionó, esto se puede hacer solo cuando la fuerza y el diferencial de distancia tienen igual dirección y sentido. Por lo tanto, es necesario descomponer la fuerza peso para estudiar su componente tangencial:
+\begin{align*}
+    W &= \int_C F \cdot \dif s
+    \\
+    W &= r \int_{\theta_0}^{\theta_1} F \, \dif \theta
+    \\
+    W &= - m \, g \, r \int_{\theta_0}^{\theta_1} \sin(\theta)  \, \dif \theta
+    \\
+    W &= - m \, g \, r \, \big( \cos(\theta_1) - \cos(\theta_0) \big)
+    = \sub{E}{gra}
+\end{align*}
+
+
+\subsection{Trabajo de la fuerza elástica}
+
+Por comodidad de notación, se suele expresar el estiramiento $\Delta l$ como $x$ para definir la Fuerza Elástica (Def.\ \ref{defn:elasticForce}), ya que $l$ es la posición en el eje $x$ del extremo móvil del resorte. Como la trayectoria es recta, el arco de curva es un segmento de recta, y se integra con respecto a la distancia:
+\begin{align*}
+    W &= \int_C F \cdot \dif s
+    \\
+    W &= - k \int_{x_0}^{x_1} x \, \dif x
+    \\
+    W &= - \frac{k \bb{x_1^2 - x_0^2}}{2} = \Delta \sub{E}{ela}
+\end{align*}
+
+
+\section{Fuerzas conservativas y disipativas}
+
+De manera intuitiva, uno puede esperar que los sistemas en la realidad siempre pierdan energía, y esto es cierto. Por ejemplo, un reloj de péndulo eventualmente se va a detener por el rozamiento con el aire, a menos que tenga un mecanismo eléctrico que lo mantenga andando. Un patinador que se lance entre dos rampas en su skate eventualmente va a frenarse, a menos que se impulse con las piernas en cada bajada. Un resorte en movimiento oscilatorio, eventualmente va a frenar por la fricción con el fluido en el que se mueve.
+
+Esto se debe a que los sistemas que se ven afectados por fuerzas disipativas, como la fricción, no conservan su energía mecánica. Dicho de otra forma, un sistema conserva la energía mecánica solo si realiza trabajo mediante fuerzas conservativas.
+
+Las fuerzas conservativas son producidas por campos de gradiente de fuerza. Calcular el trabajo de un campo de gradiente en cualquier trayectoria del espacio verifica las siguientes implicaciones, que son equivalentes entre si:
+\begin{itemize}
+    \item \concept{Independencia de la trayectoria:} El trabajo de un punto al otro es igual, independientemente del camino que se tome, por más que un camino sea más largo y requiera de más recorrido aplicando la fuerza.
+    
+    \item \concept{Trabajo nulo en trayectorias cerradas:} El trabajo de todo camino que empiece y termine en el mismo punto es nulo, se tome el camino que se tome.
+\end{itemize}
+
+Las fuerzas conservativas son aquellas que cumplen las condiciones anteriores. Por el contrario, las fuerzas disipativas son las que no cumplen alguna, y por ende las dos condiciones anteriores.
+
+
+\section[Principio de conservación de la energía]{Principio de conservación \\ de la energía}
+
+Un sistema puede intercambiar energía con su entorno en forma de trabajo, de calor, de masa y puede acumular energía en forma de energía cinética, potencial, interna, eléctrica, y otras. La relación entre todas las formas de acumular energía de un sistema, y todas las formas de transferencia de energía, viene dada por el principio de conservación de la energía. Este es la piedra angular de todas las formas de transferencias y energías mencionadas, aunque varias no se ven en este texto.
+
+El principio establece que si hay variación de la energía acumulada por el sistema $(\sub{E}{sis})$, entonces también va a haber transferencia $(T)$ de energía con el medio ambiente:
+\[ \Delta \sub{E}{sis} = \sum T \]
+
+Como se ve en la ecuación anterior, si hay variación de energía hay transferencia con el medio.
+Es decir, que si aumenta la energía del sistema disminuye la energía del medio y viceversa, de manera que la energía total, del medio más el sistema no varía, simplemente se transfiere de uno al otro:
+\[ \Delta \sub{E}{tot} = 0 \]
+
+En Mecánica Clásica se estudia un caso particular del principio de conservación de la energía, donde solo hay transferencia de energía por trabajo producido por una fuerza, y el sistema solo acumula energía mecánica (Def.\ \ref{defn:mechanicEnergy}). Bajo estas condiciones, se tiene:
+\begin{align*}
+    \sum \sub{W}{no con} &= \Delta \sub{E}{mec}
+    \\
+    \sum \sub{W}{con} &= - \Delta \sub{E}{pot}
+    \\
+    \sum \sub{W}{tot} &= \Delta \sub{E}{cin}
+\end{align*}
+
+Nótese que la tercer ecuación se deduce de sumar las dos primeras. Como la primer ecuación es la definición de trabajo de fuerzas disipativas, es razonable que la segunda reciba el signo negativo para poder realizar la suma.
+
+
+\section{Momento lineal}
+
+El momento o cantidad de movimiento es la razón por la cual en un choque entre dos cuerpos de masas muy distintas, el que sea muy masivo no va a alterar tanto su movimiento, mientras que el de menor masa va a cambiar drásticamente su velocidad. Por ejemplo, un camión que choque a una moto casi no se va a inmutar, mientras que la moto probablemente salga arrojada, por la arbolada.
+
+El momento o cantidad de movimiento de un cuerpo es una magnitud vectorial que se define como la masa del cuerpo por la velocidad del mismo.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+        \label{defn:momentum}
+    \end{defn}
+    \cusTi{Momento}
+    \begin{equation*}
+        \Vec{P} = m \, \Vec{v}
+    \end{equation*}
+\end{mdframed}
+
+
+\section[Principio de conservación del momento]{Principio de conservación \\ del momento}
+
+Este principio se deduce de la definición de fuerza (Def.\ \ref{defn:force}) del capítulo \ref{cha:dinamics}:
+\[ \Vec{F} = m \, \frac{\Delta \Vec{v}}{\Delta t} \]
+
+El principio de conservación del momento establece que la variación del momento lineal es igual a la fuerza externa neta que se aplique en un cuerpo. Aplicando la definición de momento (Def.\ ~\ref{defn:momentum}) a la ecuación anterior, se tiene:
+\[ \Vec{F} = \frac{\Delta \Vec{P}}{\Delta t} \]
+
+Si definimos el impulso $(\Vec{I})$ como la variación del momento, el principio se puede expresar de la siguiente manera:
+\[ \Vec{F} \, \Delta t = \underbrace{\Delta \Vec{P}}_{\Vec{I}} \]
+
+Por lo tanto, si sobre un cuerpo no se aplican fuerzas externas, el momento lineal se conserva:
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{prop}
+    \end{prop}
+    \begin{equation*}
+        \Delta \Vec{P} = 0 \iff \sum \sub{F}{ext} = 0
+    \end{equation*}
+\end{mdframed}
+
+
+\section{Colisiones}
+
+Como en los choques de cuerpos macroscópicos los intervalos de tiempos son muy cortos, sería poco preciso calcular una función de la fuerza con respecto al tiempo. Calcular el trabajo (Def.\ \ref{defn:workLineIntegral}) sería más engorroso ya que la Fuerza no sería constante, por las deformaciones que sufren las estructuras de los cuerpos en los choques.
+
+En estos casos se usa el principio de conservación del momento, ya que en todas las colisiones el momento se conserva.
+
+Las colisiones se clasifican en varios tipos, que nos permiten identificar patrones en diferentes situaciones.
+
+
+\subsection{Colisiones elásticas}
+
+Las colisiones elásticas son una idealización de las colisiones reales. En las colisiones elásticas, suponemos que la energía cinética se conserva:
+\[ \Delta \sub{E}{cin} = 0 \]
+
+Hay colisiones que son más aptas para ser estudiadas como elásticas. Es decir que algunos casos de choques reales se pueden estudiar como colisiones elásticas comentiendo un error casi nulo.
+
+
+\subsection{Colisiones inelásticas}
+
+Durante un choque de dos cuerpos macroscópicos las estructuras de los cuerpos se deforman. Cuando uno de los cuerpos es golpeado, parte de la energía que se le aplicó en forma de energía cinética se convierte en energía interna. Es decir, sus moléculas empiezan a oscilar como resortes y estas vibraciones internas aumentan la temperatura del cuerpo.
+
+El modelo de colisiónes inelásticas contempla la pérdida de energía cinética que se da durante el choque:
+\[ \Delta \sub{E}{cin} \neq 0 \]
+
+
+\subsection{Colisiones inelásticas plásticas}
+
+Un caso particular de las colisiones inelásticas son las plásticas. Al ser un caso particular de colisiones inelásticas, en las colisiones plásticas la energía no se conserva.
+\[ \Delta E_{cin} \neq 0 \]
+
+Normalmente en una colisión se espera que los cuerpos que chocan salgan disparados con diferentes velocidades. Dos cuerpos $A$ y $B$ que colisionen plásticamente se quedan unidos después de chocar, moviéndose con la misma velocidad final.
+\[ v_{FA} = v_{FB} = v_F \]
+
+
+\subsection{Explosiones ``inelásticas''}
+
+Si bien las explosiones no son colisiones, siguen el mismo modelo de análisis. Las explosiones se pueden pensar como un choque plástico que ocurren al revés en el tiempo.
+
+Como es imaginable, mucha energía cinética se disipa en calor:
+\[ \Delta E_{cin} \neq 0 \]
+
+De manera análoga a las colisiones plásticas, la velocidad inicial de los fragmentos es la misma:
+\[ v_{0A} = v_{0B} = v_0 \]
+
+
+\appendix
+\chapter{Matemática}
+
+
+\section{Vectores}
+Geométricamente, un vector es un segmento orientado que se dibuja sencillamente como una flechita.
+Analíticamente, se expresa a partir de una sola letra con una flechita encima y a partir de sus coordenadas, que son dos o tres números escritos en forma ordenada.
+\[ \vec{v} = (x, y, z) \]
+Tanto $x$ como $y$ como $z$ son números reales.
+Los vectores de coordenadas complejas existen (simplifican la expresión de un campo electromagnético, por ejemplo, y también de una cosa que se llama ``hamiltoniano de Dirac''), pero no los usamos en este libro.
+
+Cuando los vectores están en el plano ($z = 0$) suelen usarse directamente dos coordenadas.
+\[ \vec{v} = (x, y) \]
+
+
+\section{Módulo}
+El módulo de un vector $\Vec{v} = (x, y, z)$ corresponde geométricamente a la longitud del segmento orientado que lo representa.
+Matemáticamente se define como
+\[ \norm{\vec{v}} = \sqrt{x^2 + y^2 + z^2} \]
+
+Una propiedad importante (porque se usa en la sección~\ref{sec:innerProduct}) es la homogeneidad de grado uno:
+\begin{multline*}
+    \norm{\lambda \vec{v}} = \sqrt{\left(\lambda x\right)^2 + \left(\lambda y\right)^2 + \left(\lambda z\right)^2} =
+    \\
+    = \sqrt{\lambda^2 x^2 + \lambda^2 y^2 + \lambda^2 z^2} = \sqrt{\lambda^2 \left( x^2 + y^2 + z^2 \right)} =
+    \\
+    = \sqrt{\lambda^2} \cdot \sqrt{x^2 + y^2 + z^2} = \left| \lambda \right| \norm{\vec{v}}
+\end{multline*}
+donde $\lambda$ es un número real cualquiera.
+Este número real se llama \emph{escalar} porque hace justamente de factor de escala del vector $\vec{v}$.
+El escalamiento del vector no afecta su dirección, sino sólo la magnitud, como refleja la propiedad de homogeneidad recién desarrollada.
+
+
+\section{Producto interno}
+\label{sec:innerProduct}
+El producto interno entre dos vectores cuantifica la componente de uno en la dirección del otro.
+Para dos vectores $\vec{u}=(a,b,c)$ y $\vec{v}=(p,q,r)$ se define:
+\[ \vec{u} \cdot \vec{v} = ap + bq + cr \]
+
+A veces conviene tener al producto interno expresado en términos de los módulos ($\norm{\vec{u}}$ y $\norm{\vec{v}}$) y del ángulo ($\alpha$) que forman los vectores.
+
+% Las ecuaciones de la recta en dirección de $\vec{v}$ y la perpendicular que pasa por el punto terminal del vector $\vec{u}$ (la punta de la flechita) son, respectivamente:
+% \[
+%   \left\{
+%     \begin{aligned}
+%       y &= \frac{q}{p} x
+%       \\
+%       y &= b - \frac{p}{q}(x-a)
+%     \end{aligned}
+%   \right.
+% \]
+
+% El punto de intersección $(d, e)$ resulta de igualar ambas ecuaciones con $x = d$ y despejar $d$
+% \begin{align*}
+%     \frac{q}{p} d &= b - \frac{p}{q}(d-a)
+%     \\
+%     \left( \frac{q}{p} + \frac{p}{q} \right) d &= \frac{qb + pa}{q}
+%     \\
+%     \left( \frac{q^2 + p^2}{pq} \right) d &= \frac{ap + bq}{q}
+%     \\
+%     d &= \frac{ap+bq}{p^2+q^2} p
+% \end{align*}
+% para luego reemplazar en cualquiera de las ecuaciones anteriores y obtener
+% \[ y = \frac{q}{p} x \implies e = \frac{q}{p} d = \frac{ap+bq}{p^2+q^2} q \]
+% es decir, la intersección de ambas rectas es
+% \[ (d, e) = \left( \frac{ap+bq}{p^2+q^2} p, \frac{ap+bq}{p^2+q^2} q \right) = \frac{ap+bq}{p^2+q^2} (p, q) \]
+% pero $\vec{v} = (p, q)$, $\norm{\vec{v}} = \sqrt{p^2+q^2}$ y $\vec{u} \cdot \vec{v} = ap+bq$ por definición, con lo cual el punto de intersección queda
+% \[ (d, e) = \frac{\vec{u} \cdot \vec{v}}{\norm{\vec{v}}^2} \vec{v} \]
+% en consecuencia
+% \begin{align*}
+%   \norm{(d, e)} &= \norm{\frac{\vec{u} \cdot \vec{v}}{\norm{\vec{v}}^2} \vec{v}} = \frac{\left| \vec{u} \cdot \vec{v} \right|}{\norm{\vec{v}}}
+%   \\
+%   \cos\alpha &= \frac{\norm{(d, e)}}{\norm{(a, b)}} = \frac{\left| \vec{u} \cdot \vec{v} \right|}{\norm{\vec{u}} \norm{\vec{v}}}
+%   \implies \left| \vec{u} \cdot \vec{v} \right| = \norm{\vec{u}} \norm{\vec{v}} \cos \alpha
+% \end{align*}
+% donde el ángulo fue orientado positivamente (en sentido contrario al de las agujas del reloj) porque el vector $\vec{u}$ está por encima de $\vec{v}$.
+% Si el ángulo se orienta negativamente, el coseno es negativo y el signo de la expresión queda negativo.
+% Por ende, en el caso general ha de ser
+% \[ \vec{u} \cdot \vec{v} = \norm{\vec{u}} \norm{\vec{v}} \cos \alpha \]
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/producto-interno.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+La ecuación de la recta que genera el vector $\vec{v}$ es
+\[ \left\{
+  \begin{aligned}
+    x &= t p
+    \\
+    y &= t q
+    \\
+    z &= t r
+  \end{aligned}
+\right. \quad t \in \setR \]
+
+La ecuación del plano perpendicular a $\vec{v}$ que pasa por el punto terminal (la punta de la flecha) de $\vec{u}$ es
+\[ p(x-a) + q(y-b) + r(z-c) = 0 \]
+
+Luego, por sustitución, la intersección recta--plano es
+\begin{align*}
+    p(tp-a) + q(tq-b) + r(tr-c) &= 0
+    \\
+    tp^2 - ap + tq^2 - bq + tr^2 - cr &= 0
+    \\
+    t \left(p^2+q^2+r^2\right) &= ap + bq + cr
+    \\
+    t &= \frac{ap + bq + cr}{p^2+q^2+r^2}
+    \\
+    t &= \frac{\vec{u} \cdot \vec{v}}{\norm{\vec{v}}^2}
+\end{align*}
+
+La intersección entre la recta y el plano es la proyección de $\vec{u}$ sobre $\vec{v}$, designada como $\vec{w}$ en el dibujo:
+\[
+  \vec{w} = t \vec{v} = \frac{\vec{u} \cdot \vec{v}}{\norm{\vec{v}}^2} \vec{v}
+  \implies
+  \norm{\vec{w}} = \left| t \right| \norm{\vec{v}} = \frac{\left| \vec{u} \cdot \vec{v} \right|}{\norm{\vec{v}}^2} \norm{\vec{v}} = \frac{\left| \vec{u} \cdot \vec{v} \right|}{\norm{\vec{v}}}
+\]
+de lo cual se sigue
+\[ \cos \alpha = \frac{\text{Adyacente}}{\text{Hipotenusa}} = \frac{\norm{\vec{w}}}{\norm{\vec{u}}} = \frac{\left| \vec{u} \cdot \vec{v} \right|}{\norm{\vec{u}}\norm{\vec{v}}} \]
+donde el ángulo ($\alpha$) es claramente agudo en el dibujo, en cuyo caso el $\cos\alpha$ es positivo.
+Si el ángulo es obtuso, el coseno es negativo y el signo de la expresión queda negativo.
+Por ende, en el caso general ha de ser
+\[ \vec{u} \cdot \vec{v} = \norm{\vec{u}} \norm{\vec{v}} \cos \alpha \]
+que relaciona el producto interno entre dos vectores con sus módulos y el ángulo que forman.
+
+
+\section{Funciones escalares}
+\label{sec:scalarFunctions}
+
+Las funciones escalares son aquellas que toman elementos del conjunto de los reales y los transforman en otros elementos de dicho conjunto.
+\[ f: D \subseteq \setR \longrightarrow \setR \quad / \quad f(x) = y \]
+
+Es importante destacar que los gráficos de las funciones escalares se realizan en 2 dimensiones, donde el eje $x$ representa los valores de partida y el eje $y$ los valores de llegada de la función. Notar que los puntos $(P)$ que conforman el gráfico, son vectores que tienen en la primer coordenada a la variable independiente $(x)$ y en la segunda su imagen $(y)$ como se muestra en el esquema siguiente.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/funcion.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+
+\section{Trayectorias}
+\label{A:trajectory}
+
+Una trayectoria es una función vectorial que toma un escalar y lo transforma en un vector.
+Es común utilizar trayectorias en cinemática para describir movimiento.
+Dependiendo del tipo de movimiento (lineal, plano, espacial) se requieren diferentes trayectorias.
+\begin{itemize}
+  \item Si el movimiento es en el espacio tridimensional, se tiene un vector de 3~coordenadas:
+    \[
+      \xyz:D \subseteq \setR \longrightarrow \setR^3 \Big/ \xyz(t) =
+        \begin{bmatrix} x(t) & y(t) & z(t) \end{bmatrix}
+    \]
+  \item Si se estudian trayectorias curvas en un plano, alcanza con una función que entregue un vector con 2~coordenadas de posición:
+    \[
+      \xyz:D \subseteq \setR \longrightarrow \setR^2 \Big/ \xyz(t) =
+        \begin{bmatrix} x(t) & y(t) \end{bmatrix}
+    \]
+  \item En caso de que la trayectoria no sea curva sino recta, basta con una sola coordenada. En tal caso, la trayectoria es una función escalar (Sec. \ref{sec:scalarFunctions}) que suele denotarse directamente $x(t)$.
+\end{itemize}
+
+
+\section{Ecuación implícita}
+
+Uno tiende a confundirse los gráficos de las funciones escalares con los gráficos que se mencionaron en la sección~\ref{A:trajectory}, y es natural porque en ambos casos se trata de curvas, un concepto que se mencionó pero todavía no se definió rigurosamente.
+
+Una curva puede hacer referencia a la función vectorial que recorre su trayectoria, o bien al conjunto de puntos que conforman la curva. Por un lado, tenemos las mencionadas anteriormente trayectorias curvas que matemáticamente se las conoce como parametrizaciones justamente porque a medida que un parámetro $(t)$ aumenta, el vector resultante indica la posición de la partícula, como se explicó anteriormente. Y por otro lado, podemos definir una curva mediante una ecuación implícita que delimite los puntos del plano o del espacio que la conformen.
+
+Hay varias definiciones de las que se deduce implícitamente una curva. En este texto solo se va a mencionar el caso ya conocido de Análisis Matemático de una variable, en el que se obtiene una ecuación implícita a partir de la gráfica de una función escalar. Una ecuación implícita de una curva plana se forma estableciendo una relación entre las dos variables igualada a cero. Para diferenciar las curvas implícitas de las paramétricas, las notamos con $C$ mayúscula en vez de $\xyz$.
+\[
+C = \{ [x,y] \in \setR^2 / y-f(x)=0 \}
+\]
+
+Un axioma de las ecuaciones implícitas, es que si se evalúa la trayectoria parametrizada de una curva en las ecuaciones implícitas, la igualdad sigue valiendo 0.
+
+Sea $\xyz(t) = \begin{bmatrix}x(t) & y(t)\end{bmatrix}$ una parametrización de la curva delimitada por $C$, se tiene que:
+\[
+y(t) - f \big( x(t) \big) =0
+\]
+
+\begin{example}
+  ``Bote en una laguna: Implícita''
+\end{example}
+
+Para visualizar esto en el ejemplo ya mencionado, partimos de la ecuación paramétrica de la curva:
+\[
+  \xyz:D \subseteq \setR \longrightarrow \setR^2 \quad / \quad \xyz(t) =
+  \begin{bmatrix}
+      t^3 & t^2
+  \end{bmatrix}
+\]
+
+Expresamos esta parametrización en forma de sistema de ecuaciones:
+\[
+\left\{
+  \begin{aligned}
+    x &= t^3
+    \\
+    y &= t^2
+  \end{aligned}
+\right.
+\]
+
+La idea es deshacerse del parámetro $t$ para que el sistema quede solo en función de $x$ e $y$. Entonces despejamos $t$ de la primer ecuación del sistema:
+\[
+  \left\{
+    \begin{aligned}
+      \sqrt[3]{x} &= t
+      \\
+      \sqrt{y} &= t
+    \end{aligned}
+  \right.
+\]
+
+Igualando las ecuaciones, se tiene:
+\begin{align*}
+  \sqrt[3]{x} &= \sqrt{y}
+  \\
+  \sqrt[3]{x}^2 &= y
+  \\
+  \sqrt[3]{x}^2 - y &= 0
+\end{align*}
+
+Por lo tanto, la ecuación implícita de la curva parametrizada en el ejemplo, sería:
+  \[ C = \left\{ [x,y] \in \setR^2 \quad \Big/ \quad \sqrt[3]{x}^2 -y=0 \right\} \]
+
+Donde se verifica que si reemplazo las funciones escalares componentes $x(t)$ e $y(t)$ en la ecuación anterior, la ecuación da 0.
+
+Es muy importante observar que, esta curva sale de graficar la función escalar $f(x) = \sqrt[3]{x}^2$.
+Pero, a diferencia de la parametrización, esta función escalar no es inyectiva.
+
+\section{Longitud de arco}
+\label{A:arcLength}
+
+A continuación se deduce una fórmula para calcular la longitud de arco $(s)$ en función del ángulo $(\theta)$.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/geometria.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Sabemos que si $\theta_1 = 2\pi \Rightarrow s_1 = 2 \pi r$ pero como $2 \pi = \theta_1$ se tiene que $s_1= \theta_1 r$. Si hubiésemos barrido la mitad del ángulo, la longitud de arco hubiese sido la mitad. Es decir, si $\theta_2 = \pi \Rightarrow s_2 = \pi r$ por lo que nuevamente se tiene $s_2= \theta_2 r$. Por extrapolación, se deduce que $s_i = \theta_i r$ para todos los ángulos $(\theta_i)$. Es decir, el ángulo barrido $(\theta)$ es linealmente proporcional a la longitud de arco $(s)$. Por lo tanto, la diferencia de las ecuaciones también es válida, particularmente para $\Delta s = s_1-s_2$ y en general para cualquier $\Delta s$:
+\[
+  \Delta s = \Delta \theta \, r
+\]
+
+\section{Transformaciones}
+
+Una circunferencia $(C)$ es un conjunto de puntos $(x,y)$ que verifican la ecuación de un círculo:
+\[
+    C = \left\{ [x,y] \in \setR^2 \quad / \quad x^2 + y^2 = r^2 \right\}
+\]
+
+Si se quiere estudiar la trayectoria que una partícula tiene mientras recorre un arco de circunferencia, naturalmente uno podría despejar una variable en función de otra para formar una función vectorial $(\xyz)$ que describa el movimiento, por ejemplo, de un cuerpo puntual que se mueve a lo largo de la mitad superior del círculo.
+Para un semicírculo de radio $r$, $y = \sqrt{r^2 - x^2}$.
+Designando $x = t$ se tiene
+\[
+    \xyz(t) = \begin{bmatrix} x(t) & y(t) \end{bmatrix} = \begin{bmatrix} t & \sqrt{r^2-t^2} \end{bmatrix}
+\]
+
+Pero ese despeje deja una función bastante incómoda y poco versátil. En primer lugar, el parámetro $t$ solo puede tomar valores de $-r$ hasta $r$, y para cambiar esto la ecuación sería todavía peor. En segundo lugar, la raíz hace bastante incómoda la derivación y si quisiéramos calcular la velocidad y la aceleración de la partícula recorriendo ese medio círculo, sería muy engorroso. Y en tercer lugar, ni siquiera estamos describiendo el movimiento completo, sino solo medio círculo.
+
+Ante este inconveniente, en vez de usar coordenadas cartesianas para describir el movimiento por el círculo, surge la posibilidad de usar coordenadas polares. Esto, en matemática se conoce como una transformación y está relacionado en álgebra con los cambios de base. Lo que quiere decir, es que en vez de calcular una trayectoria con las variables $x$ e $y$ a lo largo del círculo, se pretende calcular una función que transforme las variables $r$ y $\theta$ de un cuadrado en las variables $x$ e $y$ de un círculo.
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/transformaciones-1.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Cabe mencionar, que si se estudia un movimiento circular, $r$ en realidad no sería una variable, si no más bien un parámetro. Es decir, puede tomar cualquier valor real positivo ($\setR_{> 0}$) pero durante el análisis del movimiento circular permanece constante. De hecho, se vio que el radio es el largo del vector posición (Prop.\ \ref{prop:circularMovRadius}) y este no cambia con el tiempo. Esto aliviana un poco la situación, ya que la transformación en vez de transformar un área cuadrada en un área circular, transforma una recta en una circunferencia, sin su interior, como se muestra en gris en el gráfico anterior.
+
+La representación gráfica anterior solo nos permite visualizar los conjuntos de la transformación. A continuación se explican las aplicaciones útiles en Física.
+
+\subsection{De polares a cartesianas}
+
+Se define entonces, una función $(T)$ que toma las variables independientes $r$ y $\theta$ y las transforma en variables dependientes $x$ e $y$ que verifiquen la ecuación de una circunferencia.
+\[
+    T:[r,\theta] \in \setR^2 \longrightarrow [x,y] \in \setR^2 \Big/
+    T(r,\theta) = [x,y]
+\]
+
+El vector posición está compuesto por dos coordenadas $x_n$ e $y_n$, que son la imagen de la transformación $(T)$. Para que dicha imagen $[x,y]$ verifique la ecuación de una circunferencia hay que analizar la trigonometría del movimiento. Necesitamos calcular una ecuación para cada coordenada $x_n$ e $y_n$ válida para todos los infinitos $n$ ángulos que describan el movimiento. El vector posición forma un ángulo $(\theta)$ que varía con el tiempo. Conforme transcurra el tiempo, el ángulo $(\theta)$ va a cambiar y la posición $(\xyz)$ va a tener diferentes coordenadas. Es decir, la notación $x_n$ e $y_n$ de las cordenadas es porque estas están en función del ángulo y este está a su vez en función del tiempo.
+
+Notar que el vector posición que se mueve por la circunferencia forma en todo momento un triángulo rectángulo con la proyección de sus coordenadas:
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/transformaciones-2.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Como se muestra en el gráfico, por trigonometría, se calculan las ecuaciones que relacionan las coordenadas $x_n$ e $y_n$ con el ángulo $(\theta)$:
+\[
+  \left\{
+    \begin{aligned}
+      \sin{(\theta)} &= \dfrac{y_n}{r}
+      \\[1ex]
+      \cos{(\theta)} &= \dfrac{x_n}{r}
+    \end{aligned}
+  \right.
+\]
+
+Estas relaciones se cumplen para cualquier coordenada sin importar la posición y el ángulo que forme el triángulo rectángulo. Por lo tanto, ya no es necesario la notación sub $n$ para las coordenadas $x$ e $y$ de la posición.
+\[
+  \left\{
+    \begin{aligned}
+      y &= r \, \sin{(\theta)}
+      \\
+      x &= r \, \cos{(\theta)}
+    \end{aligned}
+  \right.
+\]
+
+Finalmente, podemos establecer una fórmula para la transformación:
+\[
+  T(r, \theta) = [x,y] =
+  \begin{bmatrix}
+      r \, \cos{(\theta)} & r \, \sin{(\theta)}
+  \end{bmatrix}
+\]
+
+Ahora lo único que restaría es, a partir de la transformación anterior, definir un caso particular que es el que se va a usar en movimientos circulares. Como $r$ es constante, se puede definir una transformación equivalente pero de una sola variable, ya que solo el ángulo varía conforme se da el movimiento.
+\[ \xyz(\theta) = \begin{bmatrix} r \, \cos{(\theta)} & r \, \sin{(\theta)} \end{bmatrix} \]
+
+Esta función vectorial es la que describe el movimiento de la partícula. Pero dependiendo de qué tan rápido aumente el ángulo podemos definir distintos movimientos sobre el mismo círculo. Es decir, el ángulo $(\theta)$ está en función del tiempo, siendo $\xyz$ una función compuesta por $\theta (t)$:
+\[
+  \xyz(t) =
+    \begin{bmatrix}
+        r \, \cos{\big( \theta (t) \big)} & r \, \sin{\big( \theta (t) \big)}
+    \end{bmatrix}
+\]
+
+Esta ecuación de movimiento con coordenadas cartesianas es muy importante porque es una de las dos formas que se usa en la resolución de problemas para describir los Movimientos Circulares. En secciones posteriores se estudia si se trata de un MCU o de un MCUV dependiendo de cómo aumente o disminuya $\theta(t)$. Pero antes, a continuación, se muestra la segunda forma de describir los movimientos circulares en general, que es con coordenadas polares.
+
+\subsection{De cartesianas a polares}
+
+En algunas situaciones resulta útil describir el movimiento usando la inversa de la transformación.
+\begin{multline*}
+  T^{-1}:[x,y] \in \setR^2 \longrightarrow [r,\theta] \in \setR^2 \Big/ \\
+  T^{-1} (x,y) = [r,\theta]
+\end{multline*}
+
+Para calcular la fórmula de la transformación inversa hay que despejar $r$ y $\theta$ de la fórmula de la transformación $T$. Se suelen usar el teorema de Pitágoras y relaciones trigonométricas para realizar el despeje.
+
+Para despejar $r$ tomamos la norma en ambos miembros de la ecuación. Luego, aplicamos el teorema de Pitágoras teniendo en cuenta que el radio es positivo y su valor será igual a su módulo.
+\begin{align*}
+  \norm{[x,y]} &= \norm{\begin{bmatrix} r \, \cos{(\theta)} & r \, \sin{(\theta)} \end{bmatrix}}
+  \\
+  \sqrt{x^2 + y^2} &= \sqrt{r^2 \, \cos^2{(\theta)} + r^2 \, \sin^2{(\theta)}}
+  \\
+  \sqrt{x^2 + y^2} &= \sqrt{r^2 \left( \cos^2{(\theta)} + \sin^2{(\theta)} \right)} = |r| = r
+\end{align*}
+
+Para despejar $\theta$ separamos cada componente de la ecuación y luego las dividimos entre sí.
+\begin{gather*}
+  \left\{
+    \begin{aligned}
+      x &= r \, \cos{(\theta)}
+      \\
+      y &= r \, \sin{(\theta)}
+    \end{aligned}
+  \right.
+  \implies
+  \dfrac{y}{x} = \dfrac{r}{r} \, \tan{(\theta)}
+  \\
+  \arctan{\left( \dfrac{y}{x} \right)} = \theta \iff \theta \in \left[ -\tfrac{\pi}{2};\tfrac{\pi}{2} \right]
+\end{gather*}
+
+Por lo tanto, tenemos que la transformación $T^{-1}$ inversa a $T$ tendría la siguiente fórmula:
+\[
+  T^{-1} (x,y) = [r,\theta] =
+  \begin{bmatrix}
+      \sqrt{x^2 + y^2} & \arctan{\left( \dfrac{y}{x} \right)} 
+  \end{bmatrix}
+\]
+
+Pero estaríamos en el mismo problema que antes, ya que no es conveniente usar una raíz y una trigonométrica inversa para definir una trayectoria. Para trabajar con la transformación inversa no lo vamos a hacer con la fórmula anterior, si no con un cambio de base usando consideraciones geométricas. Esto es, expresar los versores $\versor{r}$ y $\versor{\theta}$ en términos de los versores $\iVer$ y $\jVer$ que generan las coordenadas cartesianas $x$ e $y$.
+
+\subsection{Coordenadas polares}
+\label{A:polarCoordinates}
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/transformaciones-3.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+\begin{itemize}
+  \item El sistema de coordenadas polares puede ser interpretado como un sistema que acompaña a la partícula en todo momento, girando y rotando alrededor de la circunferencia.
+  \item También puede ser entendido como un sistema fijo, con la partícula quieta en el origen, de manera que el sistema de ejes cartesianos y la circunferencia rotan sobre su propio centro.
+\end{itemize}
+
+Así como antes se expresó el vector $\xyz$ en términos del ángulo según las coordenadas cartesianas, ahora se pretende hacer lo mismo pero con los versores $\versor{r}$ y $\versor{\theta}$.
+Pero antes de descomponerlos, hay que trasladarlos al origen para poder establecer las relaciones trigonométricas correspondientes, como se muestra en el siguiente gráfico:
+
+\begin{center}
+    \vspace{-2cm}
+    \def\svgwidth{\linewidth}
+    \input{./images/transformaciones-4.pdf_tex}
+    \vspace{-2cm}
+\end{center}
+
+Teniendo en cuenta que los versores son vectores de norma unitaria, las componentes $r_x$ y $r_y$ del versor $\versor{r}$ se expresarian de la siguiente forma:
+\[
+  \left\{
+    \begin{aligned}
+      \cos{(\theta)} &= \dfrac{r_x}{\norm{\versor{r}}} = r_x
+      \\[1ex]
+      \sin{(\theta)} &= \dfrac{r_y}{\norm{\versor{r}}} = r_y
+    \end{aligned}
+  \right.
+\]
+
+Esto significa, que el versor $\versor{r}$, que en la base polar tendría coordenadas $[1,0]$ si se lo expresa en base cartesiana tiene coordenadas $[r_x,r_y]$:
+
+Con el mismo razonamiento se calculan las componentes $\theta_x$ y $\theta_y$ del versor $\versor{\theta}$. No confundir el ángulo $(\theta)$ con las componentes del versor. Esto es:
+\[
+\left\{
+  \begin{aligned}
+    \cos{(\theta)} &= \dfrac{\theta_y}{\norm{\versor{\theta}}} = \theta_y
+    \\[1ex]
+    \sin{(\theta)} &= \dfrac{\theta_x}{\norm{\versor{\theta}}} = \theta_x
+  \end{aligned}
+\right.
+\]
+
+Esto significa, que el versor $\versor{\theta}$, que en la base polar tendría coordenadas $[0,1]$ si se lo expresa en base cartesiana tiene coordenadas $[\theta_x,\theta_y]$:
+
+Definir ambos versores polares es útil porque permite expresar vectores del sistema de coordenadas polares en el sistema cartesiano fácilmente:
+\[
+  \left\{
+    \begin{aligned}
+      \versor{r} &= \cos{(\theta)} \iVer + \sin{(\theta)} \jVer
+      \\
+      \versor{\theta} &= -\sin{(\theta)} \iVer + \cos{(\theta)} \jVer
+    \end{aligned}
+  \right.
+\]
+
+Esto se haría reemplazando los versores según el sistema anterior.
+
+Podemos expresar la aceleración centrípeta como:
+\[ \Vec{a_c} = {a_c}_x \iVer + {a_c}_y \jVer = -\norm{\Vec{a_c}} \versor{r} + 0 \cdot \versor{\theta} \]
+
+Y la velocidad tangencial como:
+\[ \Vec{v} = v_x \iVer + v_y \jVer = 0 \cdot \versor{r} + \norm{\Vec{v}} \versor{\theta}\]
+
+De manera que $\Vec{a_c}$ y $\Vec{v}$ expresados en coordenadas cartesianas tendrían ambas componentes, pero expresados en el sistema de coordenadas polares están contenidos en un solo eje, simplificando las cuentas.
+
+
+\section{Diferencial e incremento}
+
+Dada una función escalar $f$ de una variable, se define su \emph{incremento} $\Delta f$ como la función de dos variables
+\[ \left( \Delta f \right)\!(x, h) = f(x+h) - f(x) \]
+donde $x$ es un valor de la variable independiente de $f(x)$ en donde se calcula el incremento y $h$ es el incremento dado a dicha variable independiente.
+
+Cuando la función $f$ es derivable en $x$, en los cursos de Análisis se demuestra que el incremento puede aproximarse para valores de $h$ tan pequeños como se quiera con otra función de dos variables llamada \emph{diferencial}:
+\[ \left( \dif f \right)\!(x, h) = f'(x) h \]
+
+Como $f(x) = x$ implica $\left( \dif f \right)\!(x, h) = h$ entonces el diferencial de una variable independiente es igual al incremento, lo que justifica expresar a la derivada de una función como cociente de diferenciales si se adoptan las notaciones que figuran a continuación.
+\[
+  \left\{ \begin{aligned}
+    y &= f(x)
+    \\
+    \dif y &= \left( \dif f \right)\!(x, h)
+    \\
+    \dif x &= h
+  \end{aligned} \right.
+  \implies \frac{\dif y}{\dif x} = f'(x)
+\]
+
+
+\section{Ecuaciones diferenciales}
+
+Dada:
+\[ \ddot{x}+\omega^2 x=0 \]
+
+Familia de soluciones:
+\[ x(t) = A \sin{(\omega t + \varphi)} \]
+
+Primera derivada:
+\[ \dot{x}(t) = \omega A\cos{(\omega t + \varphi)} \]
+
+Segunda derivada:
+\[ \ddot{x}(t) = - \omega^2 A\sin{(\omega t + \varphi)} \]
+
+Se verifica la ecuación diferencial:
+\[ \underbrace{- \omega^2 A\sin{(\omega t + \varphi)}}_{\ddot{x}} + \omega^2 \underbrace{A \sin{(\omega t + \varphi)}}_{x} = 0 \]
+
+
+\section{Números complejos}
+
+Son binomios de la forma $x + iy$, donde $x$ e $y$ son números reales e $i$ es una magnitud muy especial denominada \emph{unidad imaginaria}, que tiene la propiedad
+\[ i^2 = -1 \]
+
+Al cambiar el signo que acompaña a la unidad imaginaria de un número complejo se tiene su \emph{conjugado}.
+\[ \overline{x + iy} = x - iy \]
+
+En los cursos de Análisis de variable compleja también se demuestra el maravilloso Teorema de Euler
+\[ e^{i\theta} = \cos \theta + i \sen \theta \]
+que permite relacionar funciones exponenciales con trigonométricas utilizando la unidad imaginaria.
+
+
+\section{Campos de gradientes}
+
+En el Análisis vectorial, una función escalar de varias variables (llamada también \emph{campo escalar}) es una cuya expresión es del tipo
+\[ f(x, y, z) = x^2 + y^3 z^4 \]
+o sea, varias variables de entrada, y una sola de salida.
+
+El \emph{gradiente} es la función vectorial que resulta de derivar la función escalar $f(x, y, z)$ respecto a cada una de las variables, manteniendo las otras fijas como constantes, para guardar seguidamente dichos resultados en un vector que obviamente tiene tantas componentes como variables.
+El gradiente suele denotarse $f'(x,y,z)$ o $\nabla f$ (es como la letra griega delta mayúscula $\Delta$ pero dada vuelta).
+Para el caso del ejemplo,
+\[ \left(\nabla f\right)\!(x, y, z) = \left( 2x, 3 y^2 z^4, 4 y^3 z^3 \right) \]
+
+El resultado es lo que se conoce como \emph{campo vectorial}, porque es una función vectorial que tiene tantas componentes como variables independientes, y en particular es un \emph{campo de gradientes} porque proviene de calcular el gradiente de un campo escalar.
+
+
+Dicho de otra forma, un campo vectorial
+\[ \Vec{G}(x, y, z) = \Big( P(x, y, z), Q(x, y, z), R(x, y, z) \Big) \]
+es \emph{campo de gradientes} si existe una función escalar $f(x, y, z)$ tal que
+\[ \left(\nabla f\right)\!(x, y, z) = \Vec{G}(x, y, z) \]
+
 
 \end{document}

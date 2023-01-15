@@ -8,7 +8,7 @@
    version="1.1"
    id="svg15419"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="calculo-transformaciones-2.svg"
+   sodipodi:docname="transformaciones-2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="397.27954"
-     inkscape:cy="322.74304"
+     inkscape:zoom="2.6832492"
+     inkscape:cx="418.3361"
+     inkscape:cy="550.63839"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -79,22 +79,6 @@
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1089"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,55.204207,61.233442)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1085"><rect
-           id="rect1083"
-           width="72.782242"
-           height="38.95388"
-           x="150.68999"
-           y="314.73935" /></flowRegion><flowPara
-         style="font-size:32px"
-         id="flowPara1087">q</flowPara></flowRoot>
     <path
        inkscape:connector-curvature="0"
        id="path1091"
@@ -121,105 +105,67 @@
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot1043-1"
+       id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,54.777697,73.877123)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
+       transform="matrix(0.26458333,0,0,0.26458333,82.71574,54.679961)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1039-2"><rect
-           id="rect1037-2"
-           width="79.846931"
-           height="62.55191"
+         id="flowRegion1023-6-9-7-1-2-40"><rect
+           id="rect1021-2-9-4-3-2-5"
+           width="182.62221"
+           height="96.283279"
            x="150.68999"
            y="314.73935" /></flowRegion><flowPara
-         id="flowPara1041-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">x<flowSpan
-   style="font-size:65%;baseline-shift:sub"
-   id="flowSpan1049-2">n</flowSpan></flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,82.418447,53.723325)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot1059-9"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1053-0"><rect
-           y="314.73935"
-           x="150.68999"
-           height="62.55191"
-           width="79.846931"
-           id="rect1051-3" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'"
-         id="flowPara1057-5">y<flowSpan
-   id="flowSpan1055-5"
-   style="font-size:65%;baseline-shift:sub">n</flowSpan></flowPara></flowRoot>
+         id="flowPara1025-1-57-2-9-2-19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$y_\nth$</flowPara></flowRoot>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot1027-6-1"
+       id="flowRoot1027-6-5-1-5-15-37-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,49.393687,44.834222)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
+       transform="matrix(0.26458333,0,0,0.26458333,54.254412,76.97309)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion1023-6-7"><rect
-           id="rect1021-2-0"
-           width="79.846931"
-           height="62.55191"
+         id="flowRegion1023-6-9-7-1-2-40-0"><rect
+           id="rect1021-2-9-4-3-2-5-6"
+           width="182.62221"
+           height="96.283279"
            x="150.68999"
            y="314.73935" /></flowRegion><flowPara
-         id="flowPara1025-1-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif'">c</flowPara></flowRoot>
-    <g
-       transform="translate(-32.418123,35.166549)"
-       id="g1033-7-8"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
+         id="flowPara1025-1-57-2-9-2-19-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$x_\nth$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-5-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,54.648835,61.097592)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-4"
-         d="m 124.99982,95.870887 -2.02754,-10e-7"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-6"
-         d="m 124.99987,95.870887 -1e-5,-0.371694 c 0,0 0.1757,0.304117 1.34217,0.371694 -1.16655,0.06758 -1.34216,0.371693 -1.34216,0.371693 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 89.057797,130.25733 v 6.35"
-       id="path1184-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-0-5"><rect
+           id="rect1021-2-9-4-3-2-5-6-8"
+           width="182.62221"
+           height="96.283279"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\theta$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-37-5-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,42.467692,44.729066)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1186-8"
-       d="m 88.263997,130.25733 v 6.35"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1188-2"
-       d="m 95.672397,130.25733 v 6.35"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 94.878597,130.25733 v 6.35"
-       id="path1190-0"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\CircleTri.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-40-0-5-8"><rect
+           id="rect1021-2-9-4-3-2-5-6-8-1"
+           width="269.82993"
+           height="63.114552"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-19-3-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\nnorm{\xyz}$</flowPara></flowRoot>
   </g>
 </svg>

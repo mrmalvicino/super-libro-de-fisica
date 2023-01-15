@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="397.27954"
-     inkscape:cy="561.25984"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="478.89701"
+     inkscape:cy="554.17887"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -112,110 +112,6 @@
          d="m 311.75946,-142.00237 -0.93234,-0.93233 c 0,0 1.23748,0.28817 4.55997,-2.6953 -2.98347,3.32249 -2.6953,4.55997 -2.6953,4.55997 z"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <g
-       id="g9646-9"
-       transform="translate(-114.59529,447.81479)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot882-0-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         transform="matrix(0.26458333,0,0,0.26458333,179.53923,-385.17267)"><flowRegion
-           id="flowRegion878-9-4"><rect
-             id="rect876-38-5"
-             width="79.846931"
-             height="62.55191"
-             x="150.68999"
-             y="314.73935" /></flowRegion><flowPara
-           id="flowPara880-4-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols'">D</flowPara></flowRoot>
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-2-0-4-1"
-         d="m 228.59135,-299.46492 h -1.9118"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-7-7-1-5"
-         d="m 228.59135,-299.46492 v -0.3717 c 0,0 0.1757,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="155.05641"
-         y="-294.59286"
-         id="text13701-1-9-8"
-         transform="skewX(-13.401959)"><tspan
-           sodipodi:role="line"
-           id="tspan13699-43-0-7"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-           x="155.05641"
-           y="-294.59286">r</tspan></text>
-    </g>
-    <g
-       id="g14232-1-3"
-       transform="translate(-98.408207,426.3585)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-2-0-2-8"
-         d="m 198.33877,-267.02829 h -1.9118"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-7-7-7-4"
-         d="m 198.33877,-267.02829 v -0.3717 c 0,0 0.1757,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="131.57666"
-         y="-260.31259"
-         id="text54459-28-8-6"
-         transform="skewX(-13.401959)"><tspan
-           sodipodi:role="line"
-           id="tspan54457-81-6-3"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-           x="131.57666"
-           y="-260.31259">F</tspan></text>
-    </g>
-    <g
-       id="g14232-1-3-5"
-       transform="translate(-74.147647,410.90891)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       style="opacity:0.3">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-2-0-2-8-9"
-         d="m 198.33877,-267.02829 h -1.9118"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-7-7-7-4-6"
-         d="m 198.33877,-267.02829 v -0.3717 c 0,0 0.1757,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="131.57666"
-         y="-260.31259"
-         id="text54459-28-8-6-9"
-         transform="skewX(-13.401959)"><tspan
-           sodipodi:role="line"
-           id="tspan54457-81-6-3-8"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-           x="131.57666"
-           y="-260.31259">F</tspan></text>
-    </g>
     <path
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -258,123 +154,6 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        sodipodi:nodetypes="csc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1029-4-2-0-4-7-5"
-       d="m 79.153483,157.67707 h -1.9118"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path1031-5-7-7-1-6-0"
-       d="m 79.153483,157.67707 v -0.3717 c 0,0 0.17571,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="114.54165"
-       y="162.5491"
-       id="text13701-1-9-6-5"
-       transform="skewX(-13.401959)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan13699-43-0-6-6"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-         x="114.54165"
-         y="162.5491">r<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan19881-24">1</tspan></tspan></text>
-    <g
-       id="g5727"
-       transform="translate(-222.87664,291.41627)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-2-0-4-7-5-2"
-         d="m 310.4775,-145.66542 h -1.9118"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-7-7-1-6-0-7"
-         d="m 310.4775,-145.66542 v -0.3717 c 0,0 0.17571,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="268.73514"
-         y="-140.79338"
-         id="text13701-1-9-6-5-8"
-         transform="skewX(-13.401959)"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"><tspan
-           sodipodi:role="line"
-           id="tspan13699-43-0-6-6-1"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-           x="268.73514"
-           y="-140.79338">dr<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan19881-24-8" /></tspan></text>
-    </g>
-    <g
-       id="g5727-2"
-       transform="translate(-194.21453,277.62206)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       style="opacity:0.3">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1029-4-2-0-4-7-5-2-9"
-         d="m 310.4775,-145.66542 h -1.9118"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path1031-5-7-7-1-6-0-7-2"
-         d="m 310.4775,-145.66542 v -0.3717 c 0,0 0.17571,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="268.73514"
-         y="-140.79338"
-         id="text13701-1-9-6-5-8-2"
-         transform="skewX(-13.401959)"
-         inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"><tspan
-           sodipodi:role="line"
-           id="tspan13699-43-0-6-6-1-5"
-           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-           x="268.73514"
-           y="-140.79338">dr<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan19881-24-8-9" /></tspan></text>
-    </g>
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
        id="path1353-4-5-5-1-7-6-6-1-8"
@@ -385,45 +164,91 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
-       inkscape:connector-curvature="0"
-       id="path1029-4-2-0-4-7-5-8"
-       d="m 130.26874,132.55925 h -1.9118"
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path1031-5-7-7-1-6-0-3"
-       d="m 130.26874,132.55925 v -0.3717 c 0,0 0.17571,0.3041 1.3422,0.3717 -1.1666,0.068 -1.3422,0.3717 -1.3422,0.3717 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="159.67209"
-       y="137.43129"
-       id="text13701-1-9-6-5-1"
-       transform="skewX(-13.401959)"
-       inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
-         sodipodi:role="line"
-         id="tspan13699-43-0-6-6-7"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.46667px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic,  Medium Italic';stroke-width:0.264583"
-         x="159.67209"
-         y="137.43129">r<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan19881-24-7">2</tspan></tspan></text>
-    <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="M 84.000043,156.55312 125.17622,138.45113"
        id="path4436"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\W3.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2083-2-8-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,89.497051,46.498865)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2079-9-6-1"><rect
+           id="rect2077-7-2-8"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2081-9-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\xyz_2$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2083-2-8-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,30.306499,73.757289)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2079-9-6-1-8"><rect
+           id="rect2077-7-2-8-6"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2081-9-0-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\xyz_1$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2083-2-8-2-8-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,30.864297,58.836209)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2079-9-6-1-8-4"><rect
+           id="rect2077-7-2-8-6-5"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2081-9-0-8-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\dif\xyz$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2083-2-8-2-8-5-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,64.488311,63.298588)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2079-9-6-1-8-4-6"><rect
+           id="rect2077-7-2-8-6-5-6"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2081-9-0-8-3-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\Delta\xyz$</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2471"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,56.764834,73.757289)"
+       inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion2467"><rect
+           id="rect2465"
+           width="405.42691"
+           height="110.41418"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara2469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">$\vec{F}$</flowPara></flowRoot>
   </g>
 </svg>
