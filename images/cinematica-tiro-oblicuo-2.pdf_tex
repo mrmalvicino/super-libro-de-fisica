@@ -61,7 +61,7 @@
     \put(0.55501321,0.47889815){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{60}$\end{minipage}}}%
     \put(0.73756679,0.30966967){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{45}$\end{minipage}}}%
     \put(0.5336931,0.23638174){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{30}$\end{minipage}}}%
-    \put(0.40177479,0.25103932){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{15}$\end{minipage}}}%
+    \put(0.40177479,0.22103932){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{15}$\end{minipage}}}%
     \put(0.67191196,0.14293056){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.88433211\unitlength}\raggedright $\frac{\sqrt{3} \, v_0^2}{2g}$\end{minipage}}}%
     \put(0.80893708,0.14293056){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.88433211\unitlength}\raggedright $\frac{v_0^2}{g}$\end{minipage}}}%
   \end{picture}%

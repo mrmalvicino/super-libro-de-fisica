@@ -1537,11 +1537,11 @@ Es importante notar que la fuerza Normal $(\Vec{N})$ no es el par de reacción d
     \[
       \left\{
         \begin{aligned}
-          \sum F_A &= m_A a_A = 0 = N_A - \weight_A - N_{BA}
+          \sum F_A &= m_A \, a_A = 0 = N_A - \weight_A - N_{BA}
           \\
-          \sum F_B &= m_B a_B = 0 = N_{AB} - \weight_B
+          \sum F_B &= m_B \, a_B = 0 = N_{AB} - \weight_B
           \\
-          \sum F_C &= m_C a_C = 0 = N_C - \weight_C
+          \sum F_C &= m_C \, a_C = 0 = N_C - \weight_C
         \end{aligned}
       \right.
     \]
@@ -1552,9 +1552,9 @@ Es importante notar que la fuerza Normal $(\Vec{N})$ no es el par de reacción d
         \begin{aligned}
           N_A &= (m_A + m_B) g
           \\
-          N_B &= m_B g
+          N_B &= m_B \, g
           \\
-          N_C &= m_C g
+          N_C &= m_C \, g
         \end{aligned}
       \right.
     \]
@@ -1612,21 +1612,21 @@ La fuerza de Tensión $(\Vec{T})$ es una fuerza de vínculo que se da cuando hay
         \land
         \left\{
         \begin{aligned}
-            \sum F_{Ax} &= m_A a_A = T
+            \sum F_{Ax} &= m_A \, a_A = T
             \\
-            \sum F_{Ay} &= 0 = N_A - m_A g
+            \sum F_{Ay} &= 0 = N_A - m_A \, g
             \\
-            \sum F_{Bx} &= m_B a_B = F - T
+            \sum F_{Bx} &= m_B \, a_B = F - T
             \\
-            \sum F_{By} &= 0 = N_B - m_B g
+            \sum F_{By} &= 0 = N_B - m_B \, g
         \end{aligned}
         \right.
         \\
         \left\{
         \begin{aligned}
-            m_A a &= T
+            m_A \, a &= T
             \\
-            m_B a &= F - T
+            m_B \, a &= F - T
         \end{aligned}
         \right.
         \Rightarrow
@@ -1658,13 +1658,13 @@ Podemos extrapolar situaciones más complejas a partir del modelo planteado ante
         (a_{Ax}=a_{By}=a) \quad \land \quad
         \left\{
         \begin{aligned}
-            m_A a &= T
+            m_A \, a &= T
             \\
-            m_B a &= m_B g - T
+            m_B \, a &= m_B \, g - T
         \end{aligned}
         \right.
         \\[1ex]
-        \Rightarrow T=\dfrac{m_B g}{\frac{m_B}{m_A}+1}
+        \Rightarrow T=\dfrac{m_B \, g}{\frac{m_B}{m_A}+1}
     \end{gather*}
 \end{mdframed}
 
@@ -1785,9 +1785,9 @@ Si se deja caer un cuerpo en caída libre desde el reposo, cada vez va a caer co
 
 Comenzamos por hacer la sumatoria de fuerzas y aplicar la segunda Ley de Newton (Def.\ \ref{defn:NewtonSecondLaw}):
 \begin{gather*}
-    \sum \Vec{F} = m\Vec{a} = \Vec{\weight} - \Vec{\sub{F}{roz}}
+    \sum \Vec{F} = m \, \Vec{a} = \Vec{\weight} - \Vec{\sub{F}{roz}}
     \\
-    \sum F_x = ma = mg - bv
+    \sum F_x = m \, a = m \, g - b \, v
     \\
     a(t) + \frac{b}{m} v(t) = g
     \\

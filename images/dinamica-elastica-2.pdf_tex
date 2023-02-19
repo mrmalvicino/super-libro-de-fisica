@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{841.88976378bp}%
+    \setlength{\unitlength}{595.27559055bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,15 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.70707071)%
+  \begin{picture}(1,1)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-elastica-2.pdf}}%
-    \put(0.41257295,0.17130669){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $l_0$\end{minipage}}}%
-    \put(0.56334907,0.17410859){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $A$\end{minipage}}}}%
-    \put(0.41257295,0.13567254){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
-    \put(0.41257295,0.1000384){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
-    \put(0.41257295,0.20694083){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
+    \put(0.9224169,0.63043322){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $l_0 \, \text{posibles}$\end{minipage}}}%
+    \put(0.05043773,0.2445921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $2A$\end{minipage}}}%
+    \put(0.52397134,0.24757319){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
+    \put(0.77601166,0.13866559){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
+    \put(0.27828828,0.36967971){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{dinamica-elastica-2.pdf}}%
   \end{picture}%
 \endgroup%

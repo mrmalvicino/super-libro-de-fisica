@@ -54,10 +54,10 @@
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{geometria.pdf}}%
-    \put(0.82864783,0.28844862){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.82864783,0.43146665){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $s$\end{minipage}}}%
-    \put(0.29927299,0.46700466){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.09156937,0.62024305){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.37078201,0.28978784){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.85691459,0.26395077){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.83618563,0.39000873){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $s$\end{minipage}}}%
+    \put(0.35015316,0.4462757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.10099163,0.60516744){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.38774206,0.25963663){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $\theta$\end{minipage}}}%
   \end{picture}%
 \endgroup%
