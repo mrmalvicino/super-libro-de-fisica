@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,15 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-mcu-1.pdf}}%
-    \put(0.51546138,0.77433725){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
-    \put(0.6088939,0.93903497){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.63696791,0.78365317){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
-    \put(0.54164922,0.86018989){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
-    \put(0.40641866,0.96818647){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.5285866,0.44901082){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.66115977,0.68270353){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.70099451,0.46222936){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
+    \put(0.56574502,0.57082875){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
+    \put(0.37386383,0.71841379){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{cinematica-mcu-1.pdf}}%
   \end{picture}%
 \endgroup%

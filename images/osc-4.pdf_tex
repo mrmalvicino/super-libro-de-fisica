@@ -50,11 +50,11 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{osc-4.pdf}}%
-    \put(0.01056132,0.99806669){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.90458523,0.76141329){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $t$\end{minipage}}}%
+    \put(0.01554283,0.64330478){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.90956676,0.40665139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $t$\end{minipage}}}%
   \end{picture}%
 \endgroup%

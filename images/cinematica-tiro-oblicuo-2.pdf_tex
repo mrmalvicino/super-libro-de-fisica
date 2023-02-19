@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,19 +50,19 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-tiro-oblicuo-2.pdf}}%
-    \put(0.23326156,0.96074874){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.45945145,0.63562103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.32800549\unitlength}\raggedright $\frac{v_0^2}{2g}$\end{minipage}}}%
-    \put(0.71019137,0.67615967){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.35990682,0.94735525){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28184728\unitlength}\raggedright $\ang{75}$\end{minipage}}}%
-    \put(0.50572246,0.87239819){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28184728\unitlength}\raggedright $\ang{60}$\end{minipage}}}%
-    \put(0.63437927,0.7531324){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28184728\unitlength}\raggedright $\ang{45}$\end{minipage}}}%
-    \put(0.49069686,0.70148186){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28184728\unitlength}\raggedright $\ang{30}$\end{minipage}}}%
-    \put(0.39772586,0.71181197){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28184728\unitlength}\raggedright $\ang{15}$\end{minipage}}}%
-    \put(0.58810824,0.63562103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.32800549\unitlength}\raggedright $\frac{\sqrt{3} \, v_0^2}{2g}$\end{minipage}}}%
-    \put(0.68467833,0.63562103){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.32800549\unitlength}\raggedright $\frac{v_0^2}{g}$\end{minipage}}}%
+    \put(0.16841329,0.60426042){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.4893584,0.14293056){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.88433211\unitlength}\raggedright $\frac{v_0^2}{2g}$\end{minipage}}}%
+    \put(0.84513802,0.20045161){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.34811265,0.58525614){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{75}$\end{minipage}}}%
+    \put(0.55501321,0.47889815){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{60}$\end{minipage}}}%
+    \put(0.73756679,0.30966967){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{45}$\end{minipage}}}%
+    \put(0.5336931,0.23638174){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{30}$\end{minipage}}}%
+    \put(0.40177479,0.25103932){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39991843\unitlength}\raggedright $\ang{15}$\end{minipage}}}%
+    \put(0.67191196,0.14293056){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.88433211\unitlength}\raggedright $\frac{\sqrt{3} \, v_0^2}{2g}$\end{minipage}}}%
+    \put(0.80893708,0.14293056){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.88433211\unitlength}\raggedright $\frac{v_0^2}{g}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

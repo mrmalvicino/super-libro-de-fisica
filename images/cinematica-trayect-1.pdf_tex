@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,12 +50,12 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-trayect-1.pdf}}%
-    \put(0.27193841,0.72872205){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44712896\unitlength}\raggedright $y_\ith$\end{minipage}}}%
-    \put(0.49662184,0.57221962){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44712896\unitlength}\raggedright $x_\ith$\end{minipage}}}%
-    \put(0.52451171,0.75217567){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44712896\unitlength}\raggedright $P_{t_\ith}$\end{minipage}}}%
+    \put(0.18028702,0.37653142){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63443974\unitlength}\raggedright $y_\ith$\end{minipage}}}%
+    \put(0.49909459,0.15446716){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63443974\unitlength}\raggedright $x_\ith$\end{minipage}}}%
+    \put(0.53866806,0.40981021){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63443974\unitlength}\raggedright $P_{t_\ith}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

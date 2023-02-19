@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{209.76377953bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,13 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7027027)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{transformaciones-2.pdf}}%
-    \put(0.5837419,0.75735835){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $y_\nth$\end{minipage}}}%
-    \put(0.44821176,0.65120059){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $x_\nth$\end{minipage}}}%
-    \put(0.45008997,0.7267982){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.39208453,0.80474357){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33996427\unitlength}\raggedright $\nnorm{\xyz}$\end{minipage}}}%
+    \put(0.75956637,0.44777017){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.65295665\unitlength}\raggedright $y_\nth$\end{minipage}}}%
+    \put(0.37495383,0.14651167){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.65295665\unitlength}\raggedright $x_\nth$\end{minipage}}}%
+    \put(0.38028387,0.36104543){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.65295665\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.21567383,0.58224173){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.96476346\unitlength}\raggedright $\nnorm{\xyz}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

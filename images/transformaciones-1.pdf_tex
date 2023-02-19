@@ -50,18 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{transformaciones-1.pdf}}%
-    \put(0.86641123,0.7540715){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.79283223,0.83466316){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.45287777,0.83205039){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $T$\end{minipage}}}%
-    \put(0.13374809,0.61218179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.06016909,0.69277344){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.03497068,0.54158296){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\theta=0$\end{minipage}}}%
-    \put(0.03497068,0.91955917){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40288401\unitlength}\raggedright $\theta=2\pi$\end{minipage}}}%
-    \put(0.18887768,0.63648409){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $r$ const.\end{minipage}}}}%
-    \put(0.45287777,0.6705298){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $T^{-1}$\end{minipage}}}%
+    \put(0.86641123,0.40304954){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.79283223,0.4836412){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.45287777,0.48102844){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $T$\end{minipage}}}%
+    \put(0.13374809,0.26115983){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.06016909,0.34175148){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.03497068,0.190561){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\theta=0$\end{minipage}}}%
+    \put(0.03497068,0.56853721){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40288401\unitlength}\raggedright $\theta=2\pi$\end{minipage}}}%
+    \put(0.18887768,0.28546209){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $r$ const.\end{minipage}}}}%
+    \put(0.45287777,0.31950784){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $T^{-1}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

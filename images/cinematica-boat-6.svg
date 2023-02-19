@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
    version="1.1"
    id="svg67172"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.94867184"
-     inkscape:cx="454.84643"
-     inkscape:cy="537.06664"
+     inkscape:cx="454.31938"
+     inkscape:cy="115.42453"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -40,7 +40,7 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 146.63463,148.49995 H 64.613735"
+       d="M 114.53337,53.436781 H 32.512478"
        id="path819-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -48,13 +48,13 @@
     <path
        inkscape:connector-curvature="0"
        id="path821-1"
-       d="m 105.62413,107.48954 v 82.02092"
+       d="m 73.522873,12.426371 v 82.02092"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 105.62413,148.49995 c 0,0 -5.10259,-18.8988 -41.766295,-23.0565"
+       d="m 73.522873,53.436781 c 0,0 -5.10259,-18.8988 -41.766295,-23.0565"
        id="path825-0"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -62,14 +62,14 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path874-7-6"
-       cx="63.856964"
-       cy="125.44336"
+       cx="31.755705"
+       cy="30.380192"
        r="1.2756697"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 69.073535,124.58305 1.0644,1.7635 -1.5322,1.5105"
+       d="m 36.972278,29.519881 1.0644,1.7635 -1.5322,1.5105"
        id="path897-0"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -77,13 +77,13 @@
     <path
        inkscape:connector-curvature="0"
        id="path909-4"
-       d="m 77.774135,126.36205 0.7872,1.9035 -1.7419,1.263"
+       d="m 45.672878,31.298881 0.7872,1.9035 -1.7419,1.263"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 85.464835,128.75935 0.3575,2.0286 -1.9735,0.857"
+       d="m 53.363578,33.696181 0.3575,2.0286 -1.9735,0.857"
        id="path911-9"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -91,13 +91,13 @@
     <path
        inkscape:connector-curvature="0"
        id="path913-9"
-       d="m 93.634535,132.71545 -0.1248,2.0561 -2.1189,0.3737"
+       d="m 61.533278,37.652281 -0.1248,2.0561 -2.1189,0.3737"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 101.74473,139.35265 -0.4523,2.0096 -2.151395,0.03"
+       d="m 69.643473,44.289481 -0.4523,2.0096 -2.151395,0.03"
        id="path915-3"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -105,20 +105,20 @@
     <path
        inkscape:connector-curvature="0"
        id="path917-4"
-       d="m 105.62413,148.49995 c 0,0 5.1027,-18.8988 41.7664,-23.0565"
+       d="m 73.522873,53.436781 c 0,0 5.1027,-18.8988 41.766397,-23.0565"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        inkscape:connector-curvature="0"
        id="path929-6"
-       d="m 141.37923,127.88476 1.0644,-1.7635 -1.5322,-1.5105"
+       d="m 109.27797,32.821591 1.0644,-1.7635 -1.5322,-1.5105"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 133.61713,129.70125 0.7872,-1.9036 -1.74189,-1.2629"
+       d="m 101.51587,34.638081 0.7872,-1.9036 -1.74189,-1.2629"
        id="path931-9"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -126,13 +126,13 @@
     <path
        inkscape:connector-curvature="0"
        id="path933-4"
-       d="m 126.49854,132.24125 0.35749,-2.02859 -1.9735,-0.857"
+       d="m 94.397283,37.178081 0.35749,-2.02859 -1.9735,-0.857"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 119.08283,136.07545 -0.1249,-2.0561 -2.11879,-0.3737"
+       d="m 86.981573,41.012281 -0.1249,-2.0561 -2.11879,-0.3737"
        id="path935-3"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -140,7 +140,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path937-9"
-       d="m 111.98003,141.49526 -0.4523,-2.00961 -2.1513,-0.03"
+       d="m 79.878773,46.432091 -0.4523,-2.00961 -2.1513,-0.03"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
@@ -148,7 +148,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,55.715771,20.860846)"
+       transform="matrix(0.26458333,0,0,0.26458333,23.614514,-74.202323)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -164,7 +164,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,97.299351,55.578732)"
+       transform="matrix(0.26458333,0,0,0.26458333,65.198094,-39.484437)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -180,7 +180,7 @@
        xml:space="preserve"
        id="flowRoot90126"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,54.926931,94.944189)"
+       transform="matrix(0.26458333,0,0,0.26458333,22.825674,-0.1189802)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -196,7 +196,7 @@
        xml:space="preserve"
        id="flowRoot91232"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,24.793701,55.578732)"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.3075563,-39.484437)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

@@ -50,12 +50,12 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-rozamiento-6.pdf}}%
-    \put(0.10662577,0.93625707){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\dot{x}(t)$\end{minipage}}}%
-    \put(0.82651966,0.59802347){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $t$\end{minipage}}}%
-    \put(0.08004279,0.7708043){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\frac{m \, g}{b}$\end{minipage}}}%
+    \put(0.10662577,0.57607873){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\dot{x}(t)$\end{minipage}}}%
+    \put(0.82651966,0.23784514){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $t$\end{minipage}}}%
+    \put(0.08004279,0.41062597){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\frac{m \, g}{b}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

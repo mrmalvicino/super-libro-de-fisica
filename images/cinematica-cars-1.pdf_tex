@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,13 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-cars-1.pdf}}%
-    \put(0.43564195,0.74442381){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16212037\unitlength}\raggedright 300 km\end{minipage}}}%
+    \put(0.40868114,0.40762841){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23003566\unitlength}\raggedright 300 km\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{cinematica-cars-1.pdf}}%
-    \put(0.38458504,0.84774331){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16212037\unitlength}\raggedright 50 km/h\end{minipage}}}%
-    \put(0.45158837,0.62095745){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20736131\unitlength}\raggedright 100 km/h\end{minipage}}}%
+    \put(0.33623553,0.5542304){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23003566\unitlength}\raggedright 50 km/h\end{minipage}}}%
+    \put(0.43130782,0.23243966){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.29422889\unitlength}\raggedright 100 km/h\end{minipage}}}%
   \end{picture}%
 \endgroup%

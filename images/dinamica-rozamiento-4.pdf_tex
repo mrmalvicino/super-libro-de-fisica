@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-rozamiento-4.pdf}}%
-    \put(0.66299602,0.83859057){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{F}{roz}_{BA}$\end{minipage}}}%
-    \put(0.48268867,0.86864179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.48268867,0.73889331){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $B$\end{minipage}}}%
-    \put(0.65830055,0.76737622){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{F}{roz}_{AB}$\end{minipage}}}%
-    \put(0.20898773,0.74092409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.72687986,0.53219847){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\sub{F}{roz}_{BA}$\end{minipage}}}%
+    \put(0.47103835,0.57483872){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.47103835,0.39073615){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $B$\end{minipage}}}%
+    \put(0.72021736,0.43115108){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\sub{F}{roz}_{AB}$\end{minipage}}}%
+    \put(0.0826789,0.39361765){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

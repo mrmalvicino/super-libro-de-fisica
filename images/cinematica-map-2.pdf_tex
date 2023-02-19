@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-map-2.pdf}}%
-    \put(0.42932718,0.78022259){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.18133846\unitlength}\raggedright Ruta 40\end{minipage}}}%
-    \put(0.18004874,0.75183456){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.18133846\unitlength}\raggedright Boedo\end{minipage}}}}%
-    \put(0.69167302,0.75183456){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.18133846\unitlength}\raggedright Aráoz\end{minipage}}}}%
-    \put(0.59558853,0.69059834){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $+x$\end{minipage}}}%
-    \put(0.19866608,0.69901523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.67533047\unitlength}\raggedright $\vec{0}$\end{minipage}}}%
+    \put(0.399721,0.45842395){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25730457\unitlength}\raggedright Ruta 40\end{minipage}}}%
+    \put(0.0460151,0.41814364){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.25730457\unitlength}\raggedright Boedo\end{minipage}}}}%
+    \put(0.77196848,0.41814364){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lt]{\begin{minipage}{0.25730457\unitlength}\raggedright Aráoz\end{minipage}}}}%
+    \put(0.63563237,0.3312544){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $+x$\end{minipage}}}%
+    \put(0.0724316,0.34319729){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.95823918\unitlength}\raggedright $\vec{0}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

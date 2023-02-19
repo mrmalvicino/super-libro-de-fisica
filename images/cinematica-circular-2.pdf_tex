@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,13 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-circular-2.pdf}}%
-    \put(0.69060395,0.74475556){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.44724316,0.94923345){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.26505764,0.767987){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32316766\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.52012094,0.79445283){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32316766\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.77158825,0.4028826){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.42627904,0.69302014){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.16777254,0.43584613){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.4585487\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.52968669,0.47339899){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.4585487\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
   \end{picture}%
 \endgroup%

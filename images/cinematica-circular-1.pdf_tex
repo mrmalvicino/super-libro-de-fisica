@@ -50,19 +50,19 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-circular-1.pdf}}%
-    \put(0.44219759,0.97442671){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.557782,0.74393605){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.72153118,0.74557661){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.57965636,0.98773658){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
-    \put(0.61101038,0.77566104){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\xyz$\end{minipage}}}%
-    \put(0.74215247,0.91184042){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}_c$\end{minipage}}}%
-    \put(0.43422906,0.83585307){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $y_\nth$\end{minipage}}}%
-    \put(0.63884922,0.70238159){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $x_\nth$\end{minipage}}}%
-    \put(0.51767571,0.86698539){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}$\end{minipage}}}%
-    \put(0.68540871,0.79445283){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}_\theta$\end{minipage}}}%
+    \put(0.44783219,0.59734457){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.5634166,0.36685391){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.7271658,0.36849447){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.58529096,0.61065444){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
+    \put(0.61664499,0.3985789){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\xyz$\end{minipage}}}%
+    \put(0.74778709,0.53475829){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}_c$\end{minipage}}}%
+    \put(0.43986366,0.45877093){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $y_\nth$\end{minipage}}}%
+    \put(0.64448382,0.32529944){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $x_\nth$\end{minipage}}}%
+    \put(0.52331031,0.48990325){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}$\end{minipage}}}%
+    \put(0.69104333,0.41737069){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36167083\unitlength}\raggedright $\vec{a}_\theta$\end{minipage}}}%
   \end{picture}%
 \endgroup%

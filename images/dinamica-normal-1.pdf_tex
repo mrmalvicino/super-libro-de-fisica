@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-normal-1.pdf}}%
-    \put(0.41804519,1.06773114){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
-    \put(0.57683549,0.95785635){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_C$\end{minipage}}}%
-    \put(0.37276517,0.61320638){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
-    \put(0.45577426,0.61226728){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
-    \put(0.41898429,0.90714491){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $B$\end{minipage}}}%
-    \put(0.41710609,0.78787911){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.5739359,0.76440159){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $C$\end{minipage}}}%
-    \put(0.56752726,0.61226728){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_C$\end{minipage}}}%
+    \put(0.42180159,0.70224045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
+    \put(0.58059189,0.5751005){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_C$\end{minipage}}}%
+    \put(0.37652157,0.25302805){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
+    \put(0.45953066,0.25208894){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
+    \put(0.42274069,0.54696658){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $B$\end{minipage}}}%
+    \put(0.42086249,0.42770078){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.5776923,0.40422326){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $C$\end{minipage}}}%
+    \put(0.57128366,0.25208894){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_C$\end{minipage}}}%
   \end{picture}%
 \endgroup%

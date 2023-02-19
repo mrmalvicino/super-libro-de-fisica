@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-rozamiento-5.pdf}}%
-    \put(0.23297154,0.71186921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
-    \put(0.53910737,0.70971621){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
-    \put(0.65337605,0.71186921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
-    \put(0.35648382,0.71533054){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m \, g$\end{minipage}}}%
-    \put(0.77590209,0.71498918){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m \, g$\end{minipage}}}%
-    \put(0.31040686,0.78404981){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m$\end{minipage}}}%
-    \put(0.13423782,0.7276454){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
-    \put(0.72417095,0.78404981){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m$\end{minipage}}}%
+    \put(0.19111838,0.32146495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
+    \put(0.6255003,0.31841001){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
+    \put(0.78763829,0.32146495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
+    \put(0.36637229,0.32637629){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m \, g$\end{minipage}}}%
+    \put(0.96149283,0.32589192){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m \, g$\end{minipage}}}%
+    \put(0.30099283,0.42388336){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m$\end{minipage}}}%
+    \put(0.05102323,0.34385008){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
+    \put(0.88809051,0.42388336){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m$\end{minipage}}}%
   \end{picture}%
 \endgroup%

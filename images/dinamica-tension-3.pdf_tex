@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-tension-3.pdf}}%
-    \put(0.73025452,0.57679787){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
-    \put(0.43155245,0.71901281){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
-    \put(0.50714769,0.71901281){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
-    \put(0.4699612,0.90190104){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.72706566,0.73633483){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $B$\end{minipage}}}%
+    \put(0.82550179,0.1696454){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
+    \put(0.40166777,0.37143687){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
+    \put(0.50893129,0.37143687){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
+    \put(0.45616668,0.63094045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.82097706,0.39601541){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $B$\end{minipage}}}%
   \end{picture}%
 \endgroup%

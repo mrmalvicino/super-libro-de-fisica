@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="148mm"
+   viewBox="0 0 210 148"
    version="1.1"
    id="svg65779"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.67081229"
-     inkscape:cx="285.47479"
-     inkscape:cy="431.56633"
+     inkscape:zoom="0.47433592"
+     inkscape:cx="-67.462738"
+     inkscape:cy="429.02085"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -40,7 +40,7 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 50.19345,102.62663 v 91.74674"
+       d="M 50.587872,30.052925 V 121.79967"
        id="path1398"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
@@ -49,7 +49,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1412"
-       d="M 96.06681,148.49999 H 4.32008"
+       d="M 96.461232,75.926285 H 4.7145023"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
        inkscape:export-xdpi="300"
@@ -57,14 +57,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path1430"
-       d="m 159.80655,102.62663 v 91.74674"
+       d="M 160.20098,30.052925 V 121.79967"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 205.67992,148.49999 H 113.93317"
+       d="M 206.07435,75.926285 H 114.3276"
        id="path1432"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
@@ -72,7 +72,7 @@
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 10.82425,192.98925 c 0,0 -3.55819,-40.16618 39.3692,-44.48926"
+       d="m 11.218672,120.41555 c 0,0 -3.5581897,-40.166185 39.3692,-44.489265"
        id="path1434"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
@@ -81,14 +81,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path1436"
-       d="m 89.56264,104.01075 c 0,0 3.55819,40.16616 -39.36919,44.48924"
+       d="m 89.957062,31.437045 c 0,0 3.55819,40.16616 -39.36919,44.48924"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 199.17575,104.01075 c 0,0 3.55819,40.16616 -39.3692,44.48924"
+       d="m 199.57018,31.437045 c 0,0 3.55819,40.16616 -39.3692,44.48924"
        id="path1438"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
@@ -97,7 +97,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1440"
-       d="m 120.43734,104.01075 c 0,0 -3.55818,40.16616 39.36921,44.48924"
+       d="m 120.83177,31.437045 c 0,0 -3.55818,40.16616 39.36921,44.48924"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xtytGraph.png"
        inkscape:export-xdpi="300"
@@ -106,7 +106,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,108.31209,16.109415)"
+       transform="matrix(0.26458333,0,0,0.26458333,108.70652,-56.46429)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -122,7 +122,7 @@
        xml:space="preserve"
        id="flowRoot80189"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0.11221836,16.109415)"
+       transform="matrix(0.26458333,0,0,0.26458333,0.50664067,-56.46429)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -138,7 +138,7 @@
        xml:space="preserve"
        id="flowRoot80189-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,45.176505,55.011689)"
+       transform="matrix(0.26458333,0,0,0.26458333,45.570927,-17.562016)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -154,7 +154,7 @@
        xml:space="preserve"
        id="flowRoot80810"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,152.98198,55.011689)"
+       transform="matrix(0.26458333,0,0,0.26458333,153.37641,-17.562016)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

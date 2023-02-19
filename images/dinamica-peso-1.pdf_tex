@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,16 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-peso-1.pdf}}%
-    \put(0.68606618,0.81382945){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $\vec{F}_{12}$\end{minipage}}}%
-    \put(0.18966809,0.70523826){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $\vec{F}_{21}$\end{minipage}}}%
-    \put(0.42632146,0.65828322){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $\vec{r}$\end{minipage}}}%
-    \put(0.53641833,0.69115176){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $\Delta\vec{r}$\end{minipage}}}%
-    \put(0.47349858,0.78412272){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.35138382,0.67783334){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $m_1$\end{minipage}}}%
-    \put(0.59187283,0.7499706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36073166\unitlength}\raggedright $m_2$\end{minipage}}}%
+    \put(0.75760602,0.52904462){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $\vec{F}_{12}$\end{minipage}}}%
+    \put(0.05325738,0.37496253){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $\vec{F}_{21}$\end{minipage}}}%
+    \put(0.38904931,0.30833714){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $\vec{r}$\end{minipage}}}%
+    \put(0.54526786,0.35497493){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $\Delta\vec{r}$\end{minipage}}}%
+    \put(0.45598983,0.48689319){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.28271888,0.33607717){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $m_1$\end{minipage}}}%
+    \put(0.62395329,0.43843409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51184897\unitlength}\raggedright $m_2$\end{minipage}}}%
   \end{picture}%
 \endgroup%

@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-peso-2.pdf}}%
-    \put(0.90164937,0.87844036){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.79407418,0.97671895){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.56829906,0.98601557){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.47931709,0.89039316){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.24291725,1.04445149){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.24291725,0.91845942){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.24291725,0.69167369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
-    \put(0.52009981,0.61607845){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{AT}$\end{minipage}}}%
+    \put(0.90164937,0.4882108){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.79407418,0.58648939){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.56829906,0.59578601){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.47931709,0.5001636){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.24291725,0.65422193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.24291725,0.52822986){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.24291725,0.30144413){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{TA}$\end{minipage}}}%
+    \put(0.52009981,0.22584889){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_{AT}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

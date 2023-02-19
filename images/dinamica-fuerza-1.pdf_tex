@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,11 +50,11 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-fuerza-1.pdf}}%
-    \put(0.71873885,0.86606959){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
-    \put(0.47562247,0.79404985){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.82384929,0.58360515){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.47888686,0.48141497){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $A$\end{minipage}}}%
   \end{picture}%
 \endgroup%

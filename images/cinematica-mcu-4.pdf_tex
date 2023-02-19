@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,18 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.59524896,0.95128265){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.42292401,0.85925078){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.62858706,0.78506182){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
-    \put(0.34394206,0.8470031){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
-    \put(0.40855129,0.63664453){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\vec{v}$\end{minipage}}}%
-    \put(0.51946268,0.77801857){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
-    \put(0.54397051,0.86813286){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
-    \put(0.38582953,0.96724737){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
-    \put(0.32290978,0.76346251){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.63263509,0.70074822){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.38811996,0.57016246){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.67993914,0.46489434){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
+    \put(0.27605097,0.55278399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
+    \put(0.36772623,0.25430224){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\vec{v}$\end{minipage}}}%
+    \put(0.5251005,0.45490053){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.55987512,0.58276541){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
+    \put(0.3354859,0.71680528){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.24620788,0.43424667){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-mcu-4.pdf}}%
   \end{picture}%
 \endgroup%

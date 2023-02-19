@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,18 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-trayect-2.pdf}}%
-    \put(0.66055258,0.86026495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $P_F$\end{minipage}}}%
-    \put(0.53272918,0.72649307){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $P_\ith$\end{minipage}}}%
-    \put(0.63463551,0.57939877){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $x_F$\end{minipage}}}%
-    \put(0.26650802,0.83859057){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $y_F$\end{minipage}}}%
-    \put(0.26650802,0.7384214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $y_\ith$\end{minipage}}}%
-    \put(0.26650802,0.68802457){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $y_0$\end{minipage}}}%
-    \put(0.49659244,0.57939877){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $x_\ith$\end{minipage}}}%
-    \put(0.37717407,0.57939877){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $x_0$\end{minipage}}}%
-    \put(0.35711734,0.65606051){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30532476\unitlength}\raggedright $P_0$\end{minipage}}}%
+    \put(0.71074422,0.57627774){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $P_F$\end{minipage}}}%
+    \put(0.52937318,0.38646629){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $P_\ith$\end{minipage}}}%
+    \put(0.67397,0.17775141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $x_F$\end{minipage}}}%
+    \put(0.15162694,0.54552355){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $y_F$\end{minipage}}}%
+    \put(0.15162694,0.40339162){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $y_\ith$\end{minipage}}}%
+    \put(0.15162694,0.33188261){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $y_0$\end{minipage}}}%
+    \put(0.47809807,0.17775141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $x_\ith$\end{minipage}}}%
+    \put(0.3086531,0.17775141){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $x_0$\end{minipage}}}%
+    \put(0.28019422,0.2865282){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43323107\unitlength}\raggedright $P_0$\end{minipage}}}%
   \end{picture}%
 \endgroup%

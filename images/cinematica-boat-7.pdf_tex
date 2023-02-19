@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-boat-7.pdf}}%
-    \put(0.88875418,0.75179646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.67841923,0.91730402){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.53597627,0.75179646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-x$\end{minipage}}}%
-    \put(0.38478578,0.75179646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-x$\end{minipage}}}%
-    \put(0.05720641,0.75179646){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.67841923,0.56452625){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-y$\end{minipage}}}%
-    \put(0.19307566,0.91730402){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.19307566,0.56452625){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-y$\end{minipage}}}%
+    \put(0.90080799,0.39312214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.69047299,0.55862971){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.54803005,0.39312214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-x$\end{minipage}}}%
+    \put(0.37164115,0.39312214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-x$\end{minipage}}}%
+    \put(0.04406177,0.39312214){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.69047299,0.20585193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-y$\end{minipage}}}%
+    \put(0.17993103,0.55862971){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.17993103,0.20585193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25273514\unitlength}\raggedright $-y$\end{minipage}}}%
   \end{picture}%
 \endgroup%

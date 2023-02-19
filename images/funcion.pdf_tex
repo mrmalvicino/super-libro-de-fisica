@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{funcion.pdf}}%
-    \put(0.2274936,0.90905665){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $f(x)$\end{minipage}}}%
-    \put(0.71377404,0.62259739){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.58529098,0.56795855){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x_0$\end{minipage}}}%
-    \put(0.24493276,0.80537753){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y_0$\end{minipage}}}%
-    \put(0.61963396,0.80819483){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $P=\sqb{x_0 , f(x)}$\end{minipage}}}%
+    \put(0.13624388,0.63484915){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $f(x)$\end{minipage}}}%
+    \put(0.8262364,0.22838669){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.64392935,0.15085859){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $x_0$\end{minipage}}}%
+    \put(0.16098863,0.48773688){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $y_0$\end{minipage}}}%
+    \put(0.69265926,0.4917344){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $P=\sqb{x_0 , f(x)}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

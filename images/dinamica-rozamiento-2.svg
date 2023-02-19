@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="105mm"
+   height="74mm"
+   viewBox="0 0 105 74"
    version="1.1"
    id="svg13233"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3416246"
-     inkscape:cx="343.24058"
-     inkscape:cy="535.54475"
+     inkscape:cx="216.90121"
+     inkscape:cy="190.44075"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -40,7 +40,7 @@
        xlink:href="#linearGradient4496"
        id="linearGradient1525"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.29470172,-20.479943,0,2248.9031,187.29152)"
+       gradientTransform="matrix(0,0.29470172,-19.243187,0,2066.9358,75.791519)"
        x1="-135.54034"
        y1="104.68308"
        x2="-30.737953"
@@ -65,8 +65,8 @@
     <rect
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
-       y="119.06124"
-       x="90.827415"
+       y="7.5612402"
+       x="38.327415"
        height="28.33057"
        width="28.33057"
        id="rect1493"
@@ -77,19 +77,19 @@
        inkscape:export-xdpi="300"
        inkscape:connector-curvature="0"
        id="path1499"
-       d="M 52.7488,147.39174 H 157.2512"
+       d="M 3.4041762,35.891739 H 101.59582"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz2.png" />
     <path
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        style="opacity:0.2;fill:url(#linearGradient1525);fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 157.2512,147.39174 v 30.79702 H 52.7488 v -30.79702 z"
+       d="m 101.59582,35.891739 v 30.79702 H 3.4041762 v -30.79702 z"
        id="path1523"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz2.png" />
     <g
-       transform="rotate(90,-17.505751,213.02495)"
+       transform="rotate(90,11.994247,131.02495)"
        id="g2943-4-8-1-8"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -108,7 +108,7 @@
     </g>
     <g
        id="g1794"
-       transform="translate(59.6474,-272.71778)"
+       transform="translate(7.1473956,-384.21778)"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -185,7 +185,7 @@
     </g>
     <g
        id="g1961"
-       transform="translate(68.5866,-272.15082)"
+       transform="translate(16.086596,-383.65082)"
        inkscape:export-filename="C:\Backup\Academic\Apuntes MMR\Editting\LaTex\Super Apunte F1\PNG\Froz2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -205,7 +205,7 @@
        xml:space="preserve"
        id="flowRoot4985"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,61.586441,45.151131)"
+       transform="matrix(0.26458333,0,0,0.26458333,9.0864366,-66.34887)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -221,7 +221,7 @@
        xml:space="preserve"
        id="flowRoot4985-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,14.452975,43.17902)"
+       transform="matrix(0.26458333,0,0,0.26458333,-38.047029,-68.320981)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -237,7 +237,7 @@
        xml:space="preserve"
        id="flowRoot1453"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,18.199987,52.580081)"
+       transform="matrix(0.26458333,0,0,0.26458333,-34.300017,-58.91992)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

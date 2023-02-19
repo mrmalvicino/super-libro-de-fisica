@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{297.63779528bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-boat-2.pdf}}%
-    \put(0.62909281,0.77762409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $t=2$\end{minipage}}}%
-    \put(0.43967178,0.84523814){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.61465138,0.65703726){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $x=8$\end{minipage}}}%
-    \put(0.3187433,0.77762409){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $t=-2$\end{minipage}}}%
-    \put(0.50422908,0.65703726){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $x=0$\end{minipage}}}%
-    \put(0.32090299,0.65703726){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $x=-8$\end{minipage}}}%
-    \put(0.63494551,0.71146681){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.41447336,0.80244254){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20906694\unitlength}\raggedright $y=4$\end{minipage}}}%
+    \put(0.75693647,0.48712921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $t=2$\end{minipage}}}%
+    \put(0.37809441,0.6223573){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.72805362,0.24595555){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $x=8$\end{minipage}}}%
+    \put(0.13623746,0.48712921){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $t=-2$\end{minipage}}}%
+    \put(0.50720902,0.24595555){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $x=0$\end{minipage}}}%
+    \put(0.14055683,0.24595555){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $x=-8$\end{minipage}}}%
+    \put(0.76864187,0.35481465){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.32769759,0.53676611){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41813389\unitlength}\raggedright $y=4$\end{minipage}}}%
   \end{picture}%
 \endgroup%

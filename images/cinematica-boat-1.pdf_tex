@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-boat-1.pdf}}%
-    \put(0.1665856,0.7935888){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60114149\unitlength}\raggedright Muelle A\end{minipage}}}%
-    \put(0.32321844,0.62692503){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60114149\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.67790937,0.7935888){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60114149\unitlength}\raggedright Muelle C\end{minipage}}}%
-    \put(0.56175003,0.61659492){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60114149\unitlength}\raggedright Muelle B\end{minipage}}}%
-    \put(0.19174434,0.70487039){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60114149\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.02850023,0.47900467){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.85297103\unitlength}\raggedright Muelle A\end{minipage}}}%
+    \put(0.25074954,0.2425223){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.85297103\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.75402722,0.47900467){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.85297103\unitlength}\raggedright Muelle C\end{minipage}}}%
+    \put(0.58920653,0.22786472){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.85297103\unitlength}\raggedright Muelle B\end{minipage}}}%
+    \put(0.06419845,0.35312045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.85297103\unitlength}\raggedright $y$\end{minipage}}}%
   \end{picture}%
 \endgroup%

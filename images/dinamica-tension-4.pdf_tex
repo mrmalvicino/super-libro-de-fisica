@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,16 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-tension-4.pdf}}%
-    \put(0.28403683,0.70694548){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m_A$\end{minipage}}}%
-    \put(0.66326673,0.85106781){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
-    \put(0.2490553,0.89185988){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
-    \put(0.24952247,0.56599193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
-    \put(0.36408323,0.73247217){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{T}_{BA}$\end{minipage}}}%
-    \put(0.67769999,0.60851089){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{T}_{AB}$\end{minipage}}}%
-    \put(0.70891114,0.70539702){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $m_B$\end{minipage}}}%
+    \put(0.22180418,0.3533998){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m_A$\end{minipage}}}%
+    \put(0.75990065,0.55789771){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
+    \put(0.17216821,0.61577834){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
+    \put(0.17283109,0.15339814){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
+    \put(0.33538352,0.38962011){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{T}_{BA}$\end{minipage}}}%
+    \put(0.78038028,0.21372911){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{T}_{AB}$\end{minipage}}}%
+    \put(0.82466636,0.35120267){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $m_B$\end{minipage}}}%
   \end{picture}%
 \endgroup%

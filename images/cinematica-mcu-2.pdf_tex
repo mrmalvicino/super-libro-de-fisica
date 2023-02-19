@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,13 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.63475938,0.77940906){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
-    \put(0.54676722,0.86775879){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28043859\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
-    \put(0.39470103,0.84053297){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
-    \put(0.51597717,0.77744874){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.68204065,0.45726958){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
+    \put(0.5571869,0.58263068){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39791963\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
+    \put(0.3414173,0.54399945){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
+    \put(0.51349832,0.45448804){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-mcu-2.pdf}}%
   \end{picture}%
 \endgroup%

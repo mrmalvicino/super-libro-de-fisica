@@ -50,30 +50,30 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{osc-2.pdf}}%
-    \put(0.60937795,0.77144403){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28528201\unitlength}\raggedright x(t)\end{minipage}}}%
+    \put(0.59211279,0.41120763){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28528201\unitlength}\raggedright x(t)\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{osc-2.pdf}}%
-    \put(0.38854937,1.03281342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.26754687,0.44272136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}=0$\end{minipage}}}%
-    \put(0.57526838,1.03281342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.46414462,1.03281342){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.70220904,0.82125073){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.69046795,0.77382851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
-    \put(0.50938354,0.77382851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
-    \put(0.31859588,0.77382851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
-    \put(0.53397135,0.82074765){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.52355863,0.89301903){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.63901983,0.95181728){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\xyz(t)$\end{minipage}}}%
-    \put(0.69046795,0.54704279){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
-    \put(0.2726267,0.49522983){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.71533141\unitlength}\raggedright $\sub{\nnorm{\vec{a}}}{max}$\end{minipage}}}%
-    \put(0.50938354,0.54704279){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
-    \put(0.31859588,0.54704279){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
-    \put(0.4490156,0.49522983){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60709212\unitlength}\raggedright $\sub{\nnorm{\vec{v}}}{max}$\end{minipage}}}%
-    \put(0.65060292,0.49522983){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.71533141\unitlength}\raggedright $\sub{\nnorm{\vec{a}}}{max}$\end{minipage}}}%
-    \put(0.44393577,0.44272136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{a}=0$\end{minipage}}}%
-    \put(0.62032469,0.44272136){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}=0$\end{minipage}}}%
+    \put(0.37128422,0.67257701){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.25028172,0.08248495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}=0$\end{minipage}}}%
+    \put(0.55800323,0.67257701){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.44687946,0.67257701){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.6849439,0.46101433){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.6732028,0.41359211){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
+    \put(0.49211839,0.41359211){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
+    \put(0.30133073,0.41359211){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
+    \put(0.51670619,0.46051125){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.50629347,0.53278263){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.62175467,0.59158088){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\xyz(t)$\end{minipage}}}%
+    \put(0.6732028,0.18680638){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
+    \put(0.25536155,0.13499343){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.71533141\unitlength}\raggedright $\sub{\nnorm{\vec{a}}}{max}$\end{minipage}}}%
+    \put(0.49211839,0.18680638){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
+    \put(0.30133073,0.18680638){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
+    \put(0.43175045,0.13499343){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.60709212\unitlength}\raggedright $\sub{\nnorm{\vec{v}}}{max}$\end{minipage}}}%
+    \put(0.63333776,0.13499343){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.71533141\unitlength}\raggedright $\sub{\nnorm{\vec{a}}}{max}$\end{minipage}}}%
+    \put(0.42667062,0.08248495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{a}=0$\end{minipage}}}%
+    \put(0.60305954,0.08248495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{v}=0$\end{minipage}}}%
   \end{picture}%
 \endgroup%

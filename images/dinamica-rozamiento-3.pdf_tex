@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,15 +50,15 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-rozamiento-3.pdf}}%
-    \put(0.16861168,0.91393978){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
-    \put(0.75558585,0.63003086){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $F$\end{minipage}}}%
-    \put(0.1587821,0.82898555){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\mu_e \, N$\end{minipage}}}%
-    \put(0.29741521,0.57699941){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright Z. estática\end{minipage}}}%
-    \put(0.50560769,0.57699941){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright Zona dinámica\end{minipage}}}%
-    \put(0.1587821,0.75339031){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\mu_d \, N$\end{minipage}}}%
+    \put(0.09000544,0.62578782){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\sub{F}{roz}$\end{minipage}}}%
+    \put(0.8749039,0.22294408){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $F$\end{minipage}}}%
+    \put(0.07605806,0.50524465){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\mu_e \, N$\end{minipage}}}%
+    \put(0.22479692,0.14769676){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright Z. estática\end{minipage}}}%
+    \put(0.52020517,0.14769676){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright Zona dinámica\end{minipage}}}%
+    \put(0.07605806,0.39798113){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\mu_d \, N$\end{minipage}}}%
   \end{picture}%
 \endgroup%

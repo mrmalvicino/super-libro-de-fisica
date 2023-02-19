@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{209.76377953bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7027027)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{geometria.pdf}}%
-    \put(0.62003769,0.69191985){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.62003769,0.74231668){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $s$\end{minipage}}}%
-    \put(0.43349608,0.75483959){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.36030528,0.80883789){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.45869449,0.69239176){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.82864783,0.28844862){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.82864783,0.43146665){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $s$\end{minipage}}}%
+    \put(0.29927299,0.46700466){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.09156937,0.62024305){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.37078201,0.28978784){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.44958376\unitlength}\raggedright $\theta$\end{minipage}}}%
   \end{picture}%
 \endgroup%

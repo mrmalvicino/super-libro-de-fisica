@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{297.63779528bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-fuerza-2.pdf}}%
-    \put(0.43525369,0.66400139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}q\end{tabular}}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=2]{dinamica-fuerza-2.pdf}}%
-    \put(0.68402999,0.81800543){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
-    \put(0.43160759,0.61602369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $F_x$\end{minipage}}}%
-    \put(0.22778504,0.74057958){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $F_y$\end{minipage}}}%
-    \put(0.42875259,0.77908273){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $F$\end{minipage}}}%
-    \put(0.67765199,0.67988255){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $F_x \, \iVer$\end{minipage}}}%
-    \put(0.30680275,0.82634289){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.27715172\unitlength}\raggedright $F_y \, \jVer$\end{minipage}}}%
+    \put(0.85718919,0.58277618){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.38615201,0.14876148){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $F_x$\end{minipage}}}%
+    \put(0.01607092,0.39787325){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $F_y$\end{minipage}}}%
+    \put(0.380442,0.47487955){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $F$\end{minipage}}}%
+    \put(0.74113211,0.33845984){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $F_x \, \iVer$\end{minipage}}}%
+    \put(0.13654233,0.56939987){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $F_y \, \jVer$\end{minipage}}}%
+    \put(0.38615201,0.31654117){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.55430344\unitlength}\raggedright $\theta$\end{minipage}}}%
   \end{picture}%
 \endgroup%

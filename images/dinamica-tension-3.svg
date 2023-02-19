@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
    version="1.1"
    id="svg6748"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.94867182"
-     inkscape:cx="509.65991"
-     inkscape:cy="431.65612"
+     inkscape:cx="360.50401"
+     inkscape:cy="216.61864"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -36,7 +36,7 @@
   <defs
      id="defs6745">
     <linearGradient
-       gradientTransform="matrix(0,0.29470172,-27.498648,0,2983.6427,206.54724)"
+       gradientTransform="matrix(0,0.29470172,-27.498648,0,2952.4635,110.56727)"
        inkscape:collect="always"
        xlink:href="#linearGradient4496"
        id="linearGradient4498-86"
@@ -65,7 +65,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1000-7"
-       d="m 52.74875,128.13612 h 104.5024 v 5.10267 H 52.74875 Z"
+       d="M 21.569566,32.156153 H 126.07197 v 5.10267 H 21.569566 Z"
        style="fill:#000000;fill-opacity:0.392157;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -73,14 +73,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path2536-5"
-       d="m 34.84175,166.64747 h 140.3165"
+       d="M 3.6625662,70.667503 H 143.97907"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFab.png" />
     <path
        style="fill:#000000;fill-opacity:0.392157;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 64.16295,133.23879 v 33.40868 h 3.59069 v -33.40868 z"
+       d="m 32.983766,37.258823 v 33.40868 h 3.59069 v -33.40868 z"
        id="path2538-7"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -89,14 +89,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path2540-2"
-       d="m 142.24625,133.23879 v 33.40868 h 3.5908 v -33.40868 z"
+       d="m 111.06707,37.258823 v 33.40868 h 3.5908 v -33.40868 z"
        style="fill:#000000;fill-opacity:0.392157;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFab.png" />
     <rect
-       y="99.805496"
-       x="90.834625"
+       y="3.8255286"
+       x="59.655441"
        height="28.33057"
        width="28.33057"
        id="rect1002-4"
@@ -109,13 +109,13 @@
        id="rect1008-1"
        width="21.526999"
        height="21.526999"
-       x="149.37418"
-       y="137.48457"
+       x="118.19499"
+       y="41.504604"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFab.png" />
     <g
-       transform="translate(209.76761,15.990332)"
+       transform="translate(178.58843,-79.989635)"
        id="g2943-4"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -133,7 +133,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,84.36664,417.79204)"
+       transform="matrix(1,0,0,-1,53.187456,321.81207)"
        id="g3069-8-3-1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -151,7 +151,7 @@
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,194.84111,250.48721)"
+       transform="matrix(1,0,0,-1,163.66193,154.50724)"
        id="g2943-9-3-6-4"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -170,7 +170,7 @@
     </g>
     <g
        id="g3648"
-       transform="translate(-231.41227,27.868602)"
+       transform="translate(-262.59145,-68.111365)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFab.png">
@@ -187,7 +187,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 160.13764,116.26473 v 21.21986"
+       d="m 128.95846,20.284763 v 21.21986"
        id="path3652"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -195,7 +195,7 @@
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Dinamica Clasica Parte 1\PNG\tensionFab.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 152.78765,108.91482 h -33.6224"
+       d="M 121.60847,12.934853 H 87.986066"
        id="path3654"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -204,8 +204,8 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path3679"
-       cx="152.78763"
-       cy="116.26472"
+       cx="121.60844"
+       cy="20.28475"
        r="0.9921875"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -213,7 +213,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1000-6-33"
-       d="M 175.15825,166.64747 V 197.4445 H 34.84175 v -30.79703 z"
+       d="M 143.97907,70.667503 V 101.46453 H 3.6625662 V 70.667503 Z"
        style="opacity:0.2;fill:url(#linearGradient4498-86);fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -222,7 +222,7 @@
        xml:space="preserve"
        id="flowRoot2083"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,113.48339,92.597663)"
+       transform="matrix(0.26458333,0,0,0.26458333,82.304206,-3.3823046)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -238,7 +238,7 @@
        xml:space="preserve"
        id="flowRoot2083-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,50.755956,62.732525)"
+       transform="matrix(0.26458333,0,0,0.26458333,19.576772,-33.247442)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -254,7 +254,7 @@
        xml:space="preserve"
        id="flowRoot2769"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,66.630957,62.732525)"
+       transform="matrix(0.26458333,0,0,0.26458333,35.451773,-33.247442)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -270,7 +270,7 @@
        xml:space="preserve"
        id="flowRoot2879"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,58.821794,24.325996)"
+       transform="matrix(0.26458333,0,0,0.26458333,27.64261,-71.653971)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -286,7 +286,7 @@
        xml:space="preserve"
        id="flowRoot2879-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,112.81373,59.094901)"
+       transform="matrix(0.26458333,0,0,0.26458333,81.634546,-36.885066)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

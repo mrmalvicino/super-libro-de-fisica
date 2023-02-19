@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
    version="1.1"
    id="svg17166"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3416246"
-     inkscape:cx="382.74493"
-     inkscape:cy="449.82778"
+     inkscape:zoom="0.6708123"
+     inkscape:cx="403.98782"
+     inkscape:cy="300.38209"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -42,7 +42,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path24050"
-       d="m 164.43225,145.65697 v -1.31852 c 0,0 0.6713,1.0788 5.1303,1.31852 -4.459,0.23972 -5.1303,1.31852 -5.1303,1.31852 z"
+       d="m 133.43225,49.656965 v -1.31852 c 0,0 0.6713,1.0788 5.1303,1.31852 -4.459,0.23972 -5.1303,1.31852 -5.1303,1.31852 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
@@ -51,7 +51,7 @@
        xml:space="preserve"
        id="flowRoot24058"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,51.61475,57.396215)"
+       transform="matrix(0.26458333,0,0,0.26458333,20.61475,-38.60379)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -67,7 +67,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path24068"
-       d="m 45.56775,145.65697 v -1.31852 c 0,0 -0.6713,1.0788 -5.1303,1.31852 4.459,0.23972 5.1303,1.31852 5.1303,1.31852 z"
+       d="m 14.56775,49.656965 v -1.31852 c 0,0 -0.6713,1.0788 -5.1303005,1.31852 4.4590005,0.23972 5.1303005,1.31852 5.1303005,1.31852 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
@@ -75,7 +75,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path24070"
-       d="M 88.65535,145.65697 H 45.55385"
+       d="m 57.655349,49.656965 h -43.1015"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
@@ -83,14 +83,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path24072"
-       d="m 164.43225,145.65697 h -43.1015"
+       d="M 133.43225,49.656965 H 90.330749"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
        id="g24096"
-       transform="translate(-1390.2597,361.18466)"
+       transform="translate(-1421.2597,265.18466)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -153,25 +153,25 @@
     </g>
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 40.43745,140.92495 V 150.389"
+       d="m 9.4374495,44.924945 v 9.46405"
        id="path24098"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 169.56255,140.92494 V 150.389"
+       d="m 138.56255,44.924935 v 9.46406"
        id="path24100"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 78.4646,118.79638 v 11.78222 h 24.0541 v 4.85779 l 18.6176,-10.7489 -18.6176,-10.7489 v 4.85779 z"
+       d="m 47.464599,22.796375 v 11.78222 h 24.0541 v 4.85779 l 18.6176,-10.7489 -18.6176,-10.7489 v 4.85779 z"
        id="path24110" />
     <g
        id="g24154"
-       transform="matrix(-1,0,0,1,1599.9563,408.80965)"
+       transform="matrix(-1,0,0,1,1568.9563,312.80965)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\cars1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -234,13 +234,13 @@
     </g>
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 131.7196,166.42141 v 11.78222 h -24.0541 v 4.85779 l -18.6176,-10.7489 18.6176,-10.7489 v 4.85779 z"
+       d="m 100.7196,70.421405 v 11.78222 H 76.665499 v 4.85779 l -18.6176,-10.7489 18.6176,-10.7489 v 4.85779 z"
        id="path24164" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot24108"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,40.8928,35.69912)"
+       transform="matrix(0.26458333,0,0,0.26458333,9.8927995,-60.300885)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -256,7 +256,7 @@
        xml:space="preserve"
        id="flowRoot24162"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,54.9635,83.32415)"
+       transform="matrix(0.26458333,0,0,0.26458333,23.963499,-12.675855)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

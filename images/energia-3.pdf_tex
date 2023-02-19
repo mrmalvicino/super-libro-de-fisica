@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{297.63779528bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,14 +50,14 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{energia-3.pdf}}%
-    \put(0.61603386,0.79631595){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
-    \put(0.33417408,0.66651393){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
-    \put(0.33683026,0.73756669){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\dif\xyz$\end{minipage}}}%
-    \put(0.49694462,0.71631727){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
-    \put(0.46016616,0.66651393){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.74373533,0.51685879){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\xyz_2$\end{minipage}}}%
+    \put(0.18001579,0.25725475){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\xyz_1$\end{minipage}}}%
+    \put(0.18532815,0.39936027){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\dif\xyz$\end{minipage}}}%
+    \put(0.50555685,0.35686143){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\Delta\xyz$\end{minipage}}}%
+    \put(0.43199993,0.25725475){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

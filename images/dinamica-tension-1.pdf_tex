@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,17 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-tension-1.pdf}}%
-    \put(0.61445493,0.66861335){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_B$\end{minipage}}}%
-    \put(0.54023971,0.67049152){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
-    \put(0.25848033,0.62259738){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
-    \put(0.78349304,0.79507735){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
-    \put(0.3358193,0.61978007){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
-    \put(0.45132869,0.84892067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $l_0$\end{minipage}}}%
-    \put(0.30631849,0.80349933){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.58725745,0.7908191){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $B$\end{minipage}}}%
+    \put(0.66132548,0.27902201){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{N}_B$\end{minipage}}}%
+    \put(0.55602011,0.28168699){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_B$\end{minipage}}}%
+    \put(0.15622639,0.21372908){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{\weight}_A$\end{minipage}}}%
+    \put(0.90117686,0.45846417){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.26596413,0.20973154){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\vec{N}_A$\end{minipage}}}%
+    \put(0.42986259,0.53486348){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $l_0$\end{minipage}}}%
+    \put(0.22410487,0.47041428){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.62273447,0.45242206){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $B$\end{minipage}}}%
   \end{picture}%
 \endgroup%

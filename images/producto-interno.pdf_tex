@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,22 +50,22 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{producto-interno.pdf}}%
-    \put(0.35741862,0.89775391){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.29738553,0.63792155){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $a$\end{minipage}}}%
-    \put(0.66926942,0.71023231){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $q$\end{minipage}}}%
-    \put(0.35741862,0.84735709){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $z$\end{minipage}}}%
-    \put(0.35741862,0.79696026){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $c$\end{minipage}}}%
-    \put(0.42966494,0.73183163){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\alpha$\end{minipage}}}%
-    \put(0.35741862,0.74656343){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\vec{u}$\end{minipage}}}%
-    \put(0.55095396,0.77660992){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
-    \put(0.46981798,0.71040332){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\vec{w}$\end{minipage}}}%
-    \put(0.60165647,0.71023231){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.51635798,0.71023231){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $b$\end{minipage}}}%
-    \put(0.26467431,0.60380168){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.22961534,0.57062091){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $p$\end{minipage}}}%
+    \put(0.35524215,0.62680651){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.27006007,0.25812546){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $a$\end{minipage}}}%
+    \put(0.79773316,0.36072856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $q$\end{minipage}}}%
+    \put(0.35524215,0.5552975){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $z$\end{minipage}}}%
+    \put(0.35524215,0.48378849){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $c$\end{minipage}}}%
+    \put(0.45775382,0.39137624){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\alpha$\end{minipage}}}%
+    \put(0.35524215,0.41227947){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\vec{u}$\end{minipage}}}%
+    \put(0.62985311,0.45491301){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\vec{v}$\end{minipage}}}%
+    \put(0.51472774,0.36097121){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\vec{w}$\end{minipage}}}%
+    \put(0.70179587,0.36072856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.58076422,0.36072856){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $b$\end{minipage}}}%
+    \put(0.2236455,0.20971213){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.17389967,0.16263131){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $p$\end{minipage}}}%
   \end{picture}%
 \endgroup%

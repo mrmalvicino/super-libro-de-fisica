@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{297.63779528bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,12 +50,12 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-rozamiento-2.pdf}}%
-    \put(0.48312619,0.80273373){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $A$\end{minipage}}}%
-    \put(0.25868111,0.81212474){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
-    \put(0.27652403,0.76735778){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{\vec{F}}{roz}$\end{minipage}}}%
+    \put(0.46625234,0.54356271){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $A$\end{minipage}}}%
+    \put(0.01736219,0.56234472){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\vec{F}$\end{minipage}}}%
+    \put(0.05304802,0.47281081){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.02161141\unitlength}\raggedright $\sub{\vec{F}}{roz}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

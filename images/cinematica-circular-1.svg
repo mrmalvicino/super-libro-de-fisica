@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="148mm"
+   viewBox="0 0 210 148"
    version="1.1"
    id="svg33955"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.7946873"
-     inkscape:cx="502.41293"
-     inkscape:cy="502.14941"
+     inkscape:zoom="0.67081228"
+     inkscape:cx="126.71205"
+     inkscape:cy="243.73436"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -41,15 +41,15 @@
     <circle
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path815-37"
-       cx="102.82519"
-       cy="148.5"
+       cx="104.00845"
+       cy="78.687248"
        r="39.87006"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 102.8255,95.475503 V 201.5245"
+       d="M 104.00877,25.662752 V 131.71175"
        id="path817-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
@@ -58,14 +58,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path819-8"
-       d="M 155.85,148.5 H 49.801"
+       d="M 157.03327,78.687249 H 50.984267"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 102.8255,148.5 137.354,128.565"
+       d="m 104.00877,78.687249 34.5285,-19.935"
        id="path845"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
@@ -74,7 +74,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path849"
-       d="m 141.7905,126.1423 18.2589,-10.5036"
+       d="m 142.97377,56.329549 18.2589,-10.5036"
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
@@ -83,14 +83,14 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path872-6"
-       d="m 141.7792,126.1273 0.6593,1.1418 c 0,0 -1.1207,-0.5986 -5.1022,1.4233 3.7417,-2.4371 3.7836,-3.707 3.7836,-3.707 z"
+       d="m 142.96247,56.314549 0.6593,1.1418 c 0,0 -1.1207,-0.5986 -5.1022,1.4233 3.7417,-2.4371 3.7836,-3.707 3.7836,-3.707 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 123.5129,104.5914 137.354,128.565"
+       d="m 124.69617,34.778649 13.8411,23.9736"
        id="path908"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
@@ -98,7 +98,7 @@
        inkscape:export-ydpi="300" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 123.5129,104.5914 -1.1419,0.6592 c 0,0 0.5986,-1.1207 -1.4233,-5.1021 2.4371,3.7417 3.707,3.7836 3.707,3.7836 z"
+       d="m 124.69617,34.778649 -1.1419,0.6592 c 0,0 0.5986,-1.1207 -1.4233,-5.1021 2.4371,3.7417 3.707,3.7836 3.707,3.7836 z"
        id="path910-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -107,7 +107,7 @@
        inkscape:export-ydpi="300" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 114.08239,126.20055 -0.13534,1.31155 c 0,0 -0.55704,-1.14192 -4.96787,-1.83779 4.46002,0.21898 5.23841,-0.78525 5.23841,-0.78525 z"
+       d="m 115.26566,56.387799 -0.13534,1.31155 c 0,0 -0.55704,-1.14192 -4.96787,-1.83779 4.46002,0.21898 5.23841,-0.78525 5.23841,-0.78525 z"
        id="path910-1-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -116,7 +116,7 @@
        inkscape:export-ydpi="300" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.9111,131.1301 -0.6593,-1.1419 c 0,0 1.1208,0.5987 5.1022,-1.4232 -3.7417,2.4371 -3.7837,3.707 -3.7837,3.707 z"
+       d="m 134.09437,61.317349 -0.6593,-1.1419 c 0,0 1.1208,0.5987 5.1022,-1.4232 -3.7417,2.4371 -3.7837,3.707 -3.7837,3.707 z"
        id="path928-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -126,15 +126,15 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path930-4"
-       cx="137.35417"
-       cy="128.56494"
+       cx="138.53745"
+       cy="58.75219"
        r="1.4917369"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 126.853,150.52211 c 0,0 0.8124,-9.0271 -5.5849,-15.0452"
+       d="m 128.03627,80.709359 c 0,0 0.8124,-9.0271 -5.5849,-15.0452"
        id="path944"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
@@ -142,7 +142,7 @@
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 137.354,148.5 V 128.565 H 102.8255"
+       d="m 138.53727,78.687249 v -19.935 h -34.5285"
        id="path1035"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
@@ -154,7 +154,7 @@
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:connector-curvature="0"
        id="path1288"
-       d="m 139.8494,133.0595 3.115,5.60051"
+       d="m 141.03267,63.246749 3.115,5.60051"
        style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="300"
@@ -163,11 +163,11 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path1290"
-       d="m 139.919,133.008 -1.1419,0.6592 c 0,0 0.5986,-1.1207 -1.4233,-5.1021 2.4371,3.7417 3.707,3.7836 3.707,3.7836 z"
+       d="m 141.10227,63.195249 -1.1419,0.6592 c 0,0 0.5986,-1.1207 -1.4233,-5.1021 2.4371,3.7417 3.707,3.7836 3.707,3.7836 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g1400"
-       transform="matrix(0.82012835,0,0,0.82012835,40.79933,19.941697)"
+       transform="matrix(0.82012835,0,0,0.82012835,41.982597,-49.871054)"
        style="stroke-width:1.21932"
        inkscape:export-filename="C:\Users\Admin\Desktop\BACKUPn\Malvicino, M. R. (2020). Tipos de Trayectorias Parte 2\PNG\Circle.png"
        inkscape:export-xdpi="300"
@@ -182,7 +182,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,52.991435,9.0956061)"
+       transform="matrix(0.26458333,0,0,0.26458333,54.174702,-60.717145)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -198,7 +198,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,77.264161,57.498644)"
+       transform="matrix(0.26458333,0,0,0.26458333,78.447428,-12.314106)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -214,7 +214,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,111.65149,57.154127)"
+       transform="matrix(0.26458333,0,0,0.26458333,112.83476,-12.658623)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -230,7 +230,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-6-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,81.857776,6.3005341)"
+       transform="matrix(0.26458333,0,0,0.26458333,83.041043,-63.512217)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -246,7 +246,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-6-0-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,88.442122,50.836396)"
+       transform="matrix(0.26458333,0,0,0.26458333,89.625389,-18.976355)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -262,7 +262,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-6-0-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,115.98196,22.238726)"
+       transform="matrix(0.26458333,0,0,0.26458333,117.16523,-47.574025)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -278,7 +278,7 @@
        xml:space="preserve"
        id="flowRoot36969"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,51.318043,38.19607)"
+       transform="matrix(0.26458333,0,0,0.26458333,52.50131,-31.616681)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -294,7 +294,7 @@
        xml:space="preserve"
        id="flowRoot36969-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,94.288277,66.225082)"
+       transform="matrix(0.26458333,0,0,0.26458333,95.471544,-3.5876678)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -310,7 +310,7 @@
        xml:space="preserve"
        id="flowRoot42154"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,68.84184,31.658284)"
+       transform="matrix(0.26458333,0,0,0.26458333,70.025107,-38.154467)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -326,7 +326,7 @@
        xml:space="preserve"
        id="flowRoot42154-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,104.06577,46.890121)"
+       transform="matrix(0.26458333,0,0,0.26458333,105.24904,-22.92263)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

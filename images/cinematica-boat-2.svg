@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="105mm"
+   height="74mm"
+   viewBox="0 0 105 74"
    version="1.1"
    id="svg65343"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.8973437"
-     inkscape:cx="307.53522"
-     inkscape:cy="566.31807"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="173.67004"
+     inkscape:cy="123.35791"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -40,7 +40,7 @@
      id="layer1">
     <g
        id="g1300"
-       transform="translate(-140.59108,-219.72454)"
+       transform="translate(-193.22224,-330.57205)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -63,7 +63,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 105,128.05387 v 40.89226"
+       d="m 52.36884,17.206362 v 40.89226"
        id="path1284"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
@@ -72,7 +72,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1302"
-       d="M 141.5717,158.38896 H 68.428301"
+       d="M 88.940538,47.541452 H 15.797141"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
        inkscape:export-xdpi="300"
@@ -80,16 +80,16 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path1304"
-       cx="104.99998"
-       cy="158.38898"
+       cx="52.368824"
+       cy="47.541466"
        r="0.73024255"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <circle
        r="0.73024255"
-       cy="134.00952"
-       cx="74.47477"
+       cy="23.16201"
+       cx="21.843609"
        id="circle1306"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
@@ -98,15 +98,15 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="circle1308"
-       cx="135.52521"
-       cy="134.00952"
+       cx="82.894051"
+       cy="23.16201"
        r="0.73024255"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.474771,157.02363 v 2.73069"
+       d="m 21.843611,46.176122 v 2.73069"
        id="path1348"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
@@ -115,14 +115,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path1350"
-       d="m 135.52522,157.02363 v 2.73069"
+       d="m 82.894058,46.176122 v 2.73069"
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 106.36533,134.15329 h -2.73067"
+       d="M 53.73417,23.305782 H 51.0035"
        id="path1352"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Admin\Desktop\Introduccion a Cinematica\xyGraph.png"
@@ -132,7 +132,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,92.239431,50.424156)"
+       transform="matrix(0.26458333,0,0,0.26458333,39.608271,-60.423352)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -148,7 +148,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,52.461015,36.225206)"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.17014513,-74.622302)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -164,7 +164,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,89.206732,75.74739)"
+       transform="matrix(0.26458333,0,0,0.26458333,36.575572,-35.100118)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -180,7 +180,7 @@
        xml:space="preserve"
        id="flowRoot71737"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,27.066035,50.424156)"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.565125,-60.423352)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -196,7 +196,7 @@
        xml:space="preserve"
        id="flowRoot73379"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,66.018048,75.74739)"
+       transform="matrix(0.26458333,0,0,0.26458333,13.386888,-35.100118)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -212,7 +212,7 @@
        xml:space="preserve"
        id="flowRoot74110"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,27.519569,75.74739)"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.111591,-35.100118)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -228,7 +228,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-9-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,93.468498,64.317185)"
+       transform="matrix(0.26458333,0,0,0.26458333,40.837338,-46.530323)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -244,7 +244,7 @@
        xml:space="preserve"
        id="flowRoot74910"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,47.169348,45.212281)"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.4618121,-65.635227)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

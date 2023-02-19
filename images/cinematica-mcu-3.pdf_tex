@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,15 +50,15 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
-    \put(0.43827614,0.76683941){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
-    \put(0.3986289,0.63198362){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\Delta\vec{v}$\end{minipage}}}%
-    \put(0.60913102,0.9480688){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.41320422,0.85182172){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
-    \put(0.38597839,0.9693576){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
-    \put(0.34812786,0.76416785){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.33942028\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.4195684,0.43754113){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.36331217,0.2461917){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\Delta\vec{v}$\end{minipage}}}%
+    \put(0.66199762,0.69469095){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.38399337,0.55812414){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_1$\end{minipage}}}%
+    \put(0.34536213,0.72489802){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
+    \put(0.29165529,0.4337504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48160986\unitlength}\raggedright $\vec{v}_2$\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-mcu-3.pdf}}%
   \end{picture}%
 \endgroup%

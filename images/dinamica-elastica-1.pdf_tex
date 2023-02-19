@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{841.88976378bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,16 +50,16 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70707071)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{dinamica-elastica-1.pdf}}%
-    \put(0.88927056,1.12877269){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{\vec{F}}{ela}$\end{minipage}}}%
-    \put(0.65499104,0.62541471){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{\vec{F}}{ela}$\end{minipage}}}%
-    \put(0.66515641,0.43214559){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\Delta l$\end{minipage}}}%
-    \put(0.79114852,0.43214559){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\Delta l$\end{minipage}}}%
-    \put(0.85356866,0.31684869){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{l}{max}$\end{minipage}}}%
-    \put(0.60158442,0.31684869){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{l}{min}$\end{minipage}}}%
-    \put(0.72757652,0.31684869){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $l_0$\end{minipage}}}%
+    \put(0.77884356,0.62205868){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{\vec{F}}{ela}$\end{minipage}}}%
+    \put(0.61319138,0.266149){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{\vec{F}}{ela}$\end{minipage}}}%
+    \put(0.62037902,0.12949407){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\Delta l$\end{minipage}}}%
+    \put(0.70946434,0.12949407){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\Delta l$\end{minipage}}}%
+    \put(0.75359979,0.04797099){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{l}{max}$\end{minipage}}}%
+    \put(0.57542912,0.04797099){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $\sub{l}{min}$\end{minipage}}}%
+    \put(0.66451444,0.04797099){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36117575\unitlength}\raggedright $l_0$\end{minipage}}}%
   \end{picture}%
 \endgroup%

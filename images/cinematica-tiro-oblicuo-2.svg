@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
    version="1.1"
    id="svg20642"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="567.22276"
+     inkscape:cx="566.4774"
      inkscape:cy="507.59356"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -92,7 +92,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path849-4-5"
-       d="m 61.571349,105.13375 v 66.07109"
+       d="m 37.511588,25.460443 v 66.07109"
        style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -101,7 +101,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path872-3-3-0"
-       d="m 61.571349,104.88125 h -1.3185 c 0,0 1.0788,-0.6713 1.3185,-5.130302 0.2398,4.459002 1.3186,5.130302 1.3186,5.130302 z"
+       d="m 37.511588,25.207943 h -1.3185 c 0,0 1.0788,-0.6713 1.3185,-5.130302 0.2398,4.459002 1.3186,5.130302 1.3186,5.130302 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -109,7 +109,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path849-4-3-3"
-       d="M 141.89775,160.62155 H 50.988049"
+       d="M 117.83799,80.948243 H 26.928288"
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -118,7 +118,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path872-3-4-6"
-       d="m 141.89775,160.62155 v -1.3186 c 0,0 0.6713,1.0788 5.1303,1.3186 -4.459,0.2397 -5.1303,1.3185 -5.1303,1.3185 z"
+       d="m 117.83799,80.948243 v -1.3186 c 0,0 0.6713,1.0788 5.1303,1.3186 -4.459,0.2397 -5.1303,1.3185 -5.1303,1.3185 z"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -129,7 +129,7 @@
        title="-5*(x-2)*(x-2)+20"
        clip-path="url(#clipPath1334)"
        id="path16131"
-       transform="matrix(0.49465797,0,0,1,-346.91584,136.36377)"
+       transform="matrix(0.49465797,0,0,1,-370.9756,56.690463)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
@@ -139,7 +139,7 @@
        title="-5*(x-2)*(x-2)+20"
        clip-path="url(#clipPath1334-2-4)"
        id="path16131-0-3"
-       transform="matrix(0.86241889,0,0,0.27381368,-650.61183,153.97885)"
+       transform="matrix(0.86241889,0,0,0.27381368,-674.67159,74.305543)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
@@ -149,7 +149,7 @@
        title="-5*(x-2)*(x-2)+20"
        clip-path="url(#clipPath1334-2-8)"
        id="path16131-0-9"
-       transform="matrix(0.86241997,0,0,0.80810399,-650.61268,141.01815)"
+       transform="matrix(0.86241997,0,0,0.80810399,-674.67244,61.344843)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
@@ -159,7 +159,7 @@
        title="-5*(x-2)*(x-2)+20"
        clip-path="url(#clipPath1334-2-4)"
        id="path16258"
-       transform="matrix(1,0,0,0.54528988,-764.22589,147.39343)"
+       transform="matrix(1,0,0,0.54528988,-788.28565,67.720123)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
@@ -169,15 +169,15 @@
        title="-5*(x-2)*(x-2)+20"
        clip-path="url(#clipPath1334-2-4)"
        id="path16260"
-       transform="matrix(0.49465718,0,0,0.07005071,-346.91531,158.92169)"
+       transform="matrix(0.49465718,0,0,0.07005071,-370.97507,79.248383)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
        id="path1353-4-5-5-1-7-98"
-       cx="139.53877"
-       cy="160.62154"
+       cx="115.47901"
+       cy="80.948227"
        r="1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -185,8 +185,8 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
        id="circle16563"
-       cx="128.9554"
-       cy="160.62154"
+       cx="104.89564"
+       cy="80.948227"
        r="1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -194,8 +194,8 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
        id="circle16565"
-       cx="100.21737"
-       cy="160.62154"
+       cx="76.157608"
+       cy="80.948227"
        r="1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -203,8 +203,8 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
        id="circle16684"
-       cx="61.571373"
-       cy="160.62154"
+       cx="37.511612"
+       cy="80.948227"
        r="1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\oblicuoAlcance.png"
        inkscape:export-xdpi="300"
@@ -213,7 +213,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,9.1148695,11.96798)"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.944891,-67.705327)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -229,7 +229,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,56.614745,80.244798)"
+       transform="matrix(0.26458333,0,0,0.26458333,32.554984,0.57149128)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -245,7 +245,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,109.27013,71.731684)"
+       transform="matrix(0.26458333,0,0,0.26458333,85.210369,-7.9416227)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -261,7 +261,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,35.710374,14.780613)"
+       transform="matrix(0.26458333,0,0,0.26458333,11.650613,-64.892694)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -277,7 +277,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7-9-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,66.331658,30.521595)"
+       transform="matrix(0.26458333,0,0,0.26458333,42.271897,-49.151712)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -293,7 +293,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7-9-04"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,93.349588,55.567411)"
+       transform="matrix(0.26458333,0,0,0.26458333,69.289827,-24.105896)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -309,7 +309,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7-9-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,63.176281,66.414025)"
+       transform="matrix(0.26458333,0,0,0.26458333,39.11652,-13.259282)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -325,7 +325,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-37-7-9-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,43.652371,64.244702)"
+       transform="matrix(0.26458333,0,0,0.26458333,19.59261,-15.428605)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -341,7 +341,7 @@
        xml:space="preserve"
        id="flowRoot30907"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,83.632672,80.244798)"
+       transform="matrix(0.26458333,0,0,0.26458333,59.572911,0.57149128)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -357,7 +357,7 @@
        xml:space="preserve"
        id="flowRoot30915"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,103.91239,80.244798)"
+       transform="matrix(0.26458333,0,0,0.26458333,79.852629,0.57149128)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

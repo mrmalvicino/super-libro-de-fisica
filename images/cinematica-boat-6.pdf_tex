@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,13 +50,13 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-boat-6.pdf}}%
-    \put(0.45517062,0.91840176){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.65318766,0.75307849){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.45141424,0.56562393){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $-y$\end{minipage}}}%
-    \put(0.30792266,0.75307849){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1006008\unitlength}\raggedright $-x$\end{minipage}}}%
+    \put(0.42894981,0.64815904){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.70991995,0.41357873){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.42361981,0.14759591){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $-y$\end{minipage}}}%
+    \put(0.22001691,0.41357873){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14274439\unitlength}\raggedright $-x$\end{minipage}}}%
   \end{picture}%
 \endgroup%

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
    version="1.1"
    id="svg13125"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="188.57734"
-     inkscape:cy="665.61094"
+     inkscape:cx="65.59212"
+     inkscape:cy="254.16946"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -40,7 +40,7 @@
      id="layer1">
     <g
        id="g24096-6"
-       transform="translate(-1374.3106,405.44581)"
+       transform="translate(-1405.3106,309.44581)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -103,14 +103,14 @@
     </g>
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="m 23.72615,148.5 h 162.5477"
+       d="M 6.5953525,52.5 H 141.40465"
        id="path6610"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
        id="g1202-3"
-       transform="rotate(90,3.11716,137.39832)"
+       transform="rotate(90,35.61716,73.89832)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -129,22 +129,22 @@
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1353-4-5-5-1-7-9"
-       cx="50.1847"
-       cy="148.5"
+       cx="19.1847"
+       cy="52.5"
        r="1"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 50.18465,187.25732 V 109.74268"
+       d="M 19.18465,91.25732 V 13.74268"
        id="path6991"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       d="M 159.81535,187.25732 V 109.74268"
+       d="M 128.81535,91.25732 V 13.74268"
        id="path7073"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
@@ -153,7 +153,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,50.28865,49.87847)"
+       transform="matrix(0.26458333,0,0,0.26458333,19.28865,-46.12153)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -169,7 +169,7 @@
        xml:space="preserve"
        id="flowRoot8313"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0,-0.26458333,0.26458333,0,-45.46455,178.9848)"
+       transform="matrix(0,-0.26458333,0.26458333,0,-76.46455,82.9848)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -185,7 +185,7 @@
        xml:space="preserve"
        id="flowRoot9083"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0,-0.26458333,0.26458333,0,61.97655,178.9848)"
+       transform="matrix(0,-0.26458333,0.26458333,0,30.97655,82.9848)"
        inkscape:export-filename="C:\Users\Admin\Desktop\Libro F1\PNG\MRUmap2.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -201,7 +201,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-7-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,85.203532,68.699564)"
+       transform="matrix(0.26458333,0,0,0.26458333,54.203532,-27.300436)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion
@@ -217,7 +217,7 @@
        xml:space="preserve"
        id="flowRoot1027-6-5-1-5-15-7-3-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,1.8498179,66.932016)"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.150182,-29.067984)"
        inkscape:export-filename="C:\Users\mrmal\Desktop\RFB\Apunte IAP\PNG\sin1.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><flowRegion

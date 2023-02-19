@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,18 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{energia-4.pdf}}%
-    \put(0.68186592,0.65309833){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28528201\unitlength}\raggedright B\end{minipage}}}%
+    \put(0.74071791,0.27557312){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40479204\unitlength}\raggedright B\end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{energia-4.pdf}}%
-    \put(0.60134689,0.71647509){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.69513156,0.74961573){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.43872035,0.96011784){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.50123058,0.69981239){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
-    \put(0.53342993,0.60210162){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\Delta y$\end{minipage}}}%
-    \put(0.37882317,0.5244084){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y_1 = C$\end{minipage}}}%
-    \put(0.37882317,0.64641622){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $y_0 = A$\end{minipage}}}%
+    \put(0.62646794,0.36549961){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.75954079,0.41252349){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.39571407,0.71120892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.48441102,0.34185659){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\Delta\theta$\end{minipage}}}%
+    \put(0.53009929,0.20321293){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $\Delta y$\end{minipage}}}%
+    \put(0.31072483,0.09297256){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $y_1 = C$\end{minipage}}}%
+    \put(0.31072483,0.26609176){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.72479188\unitlength}\raggedright $y_0 = A$\end{minipage}}}%
   \end{picture}%
 \endgroup%

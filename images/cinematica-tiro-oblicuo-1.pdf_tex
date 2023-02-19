@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,25 +50,25 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{cinematica-tiro-oblicuo-1.pdf}}%
-    \put(0.20410414,0.9676684){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y(t)$\end{minipage}}}%
-    \put(0.69948509,0.69311509){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x(t)$\end{minipage}}}%
-    \put(0.60917501,0.62737468){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x_d$\end{minipage}}}%
-    \put(0.74796028,0.88900821){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\vec{a}$\end{minipage}}}%
-    \put(0.73135923,0.51116688){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.70886563\unitlength}\raggedright $\sub{\vec{v}}{max}$\end{minipage}}}%
-    \put(0.43341488,0.62737468){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $x_h$\end{minipage}}}%
-    \put(0.52541006,0.89995246){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_x$\end{minipage}}}%
-    \put(0.30575167,0.83455658){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_0$\end{minipage}}}%
-    \put(0.62316495,0.781433){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{v}_\ith$\end{minipage}}}%
-    \put(0.52541909,0.76881616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $\vec{r}_\ith$\end{minipage}}}%
-    \put(0.22403294,0.83986892){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $v_{0y}$\end{minipage}}}%
-    \put(0.32308146,0.70706002){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.44590395\unitlength}\raggedright $v_{0x}$\end{minipage}}}%
-    \put(0.22526195,0.89995246){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y_h$\end{minipage}}}%
-    \put(0.62976042,0.71237238){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.31565851,0.74885546){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.22526195,0.74876197){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17829401\unitlength}\raggedright $y_0$\end{minipage}}}%
+    \put(0.10889889,0.71468319){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $y(t)$\end{minipage}}}%
+    \put(0.80897761,0.33540368){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $x(t)$\end{minipage}}}%
+    \put(0.65916375,0.25248786){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $x_d$\end{minipage}}}%
+    \put(0.85608879,0.5850819){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $\vec{a}$\end{minipage}}}%
+    \put(0.83253325,0.08759841){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{1.00582285\unitlength}\raggedright $\sub{\vec{v}}{max}$\end{minipage}}}%
+    \put(0.40977438,0.25248786){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $x_h$\end{minipage}}}%
+    \put(0.54030809,0.63925363){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $\vec{v}_x$\end{minipage}}}%
+    \put(0.23711066,0.54175104){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $\vec{v}_0$\end{minipage}}}%
+    \put(0.67901434,0.47108413){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $\vec{v}_\ith$\end{minipage}}}%
+    \put(0.5403209,0.45318184){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $\vec{r}_\ith$\end{minipage}}}%
+    \put(0.13717623,0.55399996){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $v_{0y}$\end{minipage}}}%
+    \put(0.25322019,0.35990155){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.63270155\unitlength}\raggedright $v_{0x}$\end{minipage}}}%
+    \put(0.1389201,0.62323579){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $y_h$\end{minipage}}}%
+    \put(0.68837277,0.3730927){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.24268763,0.42485923){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.1389201,0.4068243){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25298475\unitlength}\raggedright $y_0$\end{minipage}}}%
   \end{picture}%
 \endgroup%

@@ -50,22 +50,22 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.7047619)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{osc-3.pdf}}%
-    \put(0.55148335,0.75014406){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.41282262,0.46341255){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
-    \put(0.40545318,0.65999042){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
-    \put(0.34293192,0.75437004){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\alpha$\end{minipage}}}%
-    \put(0.34339237,0.66486139){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.8143459,0.69009038){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.31201266,0.9600331){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.7156269,0.88176059){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{T}$\end{minipage}}}%
-    \put(0.79162814,0.58886011){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}$\end{minipage}}}%
-    \put(0.69600576,0.75221505){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\weight_\theta$\end{minipage}}}%
-    \put(0.86975718,0.61272633){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\weight_r$\end{minipage}}}%
-    \put(0.3491449,0.46341255){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
-    \put(0.23643372,0.46341255){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
+    \put(0.49570361,0.40186046){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.35704288,0.11512895){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{max}$\end{minipage}}}%
+    \put(0.34967345,0.31170682){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $r$\end{minipage}}}%
+    \put(0.28715218,0.40608644){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\alpha$\end{minipage}}}%
+    \put(0.28761264,0.31657779){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.75856618,0.34180678){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.25623292,0.6117495){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.65984718,0.53347699){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{T}$\end{minipage}}}%
+    \put(0.73584842,0.24057651){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\vec{\weight}$\end{minipage}}}%
+    \put(0.64022604,0.40393145){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\weight_\theta$\end{minipage}}}%
+    \put(0.81397747,0.26444273){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\weight_r$\end{minipage}}}%
+    \put(0.29336516,0.11512895){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{eq}$\end{minipage}}}%
+    \put(0.18065398,0.11512895){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.5108057\unitlength}\raggedright $\sub{x}{min}$\end{minipage}}}%
   \end{picture}%
 \endgroup%

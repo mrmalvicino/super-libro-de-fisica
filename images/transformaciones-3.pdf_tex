@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{595.27559055bp}%
+    \setlength{\unitlength}{419.52755906bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,16 +50,17 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,1.41428571)%
+  \begin{picture}(1,0.70945946)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{transformaciones-3.pdf}}%
-    \put(0.76311014,0.86300719){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23008948\unitlength}\raggedright $\versor{r}$\end{minipage}}}%
-    \put(0.58203636,0.97194287){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $\versor{\theta}$\end{minipage}}}%
-    \put(0.43538646,0.96536917){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $y$\end{minipage}}}%
-    \put(0.70095766,0.75410503){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $x$\end{minipage}}}%
-    \put(0.54131527,0.75316593){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $\theta$\end{minipage}}}%
-    \put(0.60799143,0.69964192){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $\iVer$\end{minipage}}}%
-    \put(0.43071788,0.8563941){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.52214983\unitlength}\raggedright $\jVer$\end{minipage}}}%
+    \put(0.89458449,0.5736009){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32647832\unitlength}\raggedright $\versor{r}$\end{minipage}}}%
+    \put(0.64964804,0.7093273){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $\versor{\theta}$\end{minipage}}}%
+    \put(0.44156373,0.71218172){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $y$\end{minipage}}}%
+    \put(0.81838773,0.41907758){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $x$\end{minipage}}}%
+    \put(0.59186813,0.41774507){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $\theta$\end{minipage}}}%
+    \put(0.68647619,0.34179884){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $\iVer$\end{minipage}}}%
+    \put(0.4349394,0.56421748){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.74088828\unitlength}\raggedright $\jVer$\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{transformaciones-3.pdf}}%
   \end{picture}%
 \endgroup%
