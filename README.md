@@ -1,6 +1,6 @@
 # Súper Libro de Física
 
-Libro de física clásica escrito en LaTex.
+Libro de física clásica.
 
 
 ## Autores
